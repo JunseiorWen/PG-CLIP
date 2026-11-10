@@ -7,14 +7,14 @@ Code for papaer *PG-CLIP: Zero-Shot Anomaly Detection via Progressively-Guided C
 
 <h3>The visulization of the results</h3>
 
-![visualization](visualization.png)
+![visualization](asset/visualization.png)
 
 <h3>Comparison of image-level metrics (AUROC, F1-Max, AP) across different ZSAD methods</h3>
 
-![metric1](metric1.png)
+![metric1](asset/metric1.png)
 
 <h3>Comparison of pixel-level metrics (AUROC, F1-Max, AP) across different ZSAD methods</h3>
 
-![metric2](metric2.png)
+![metric2](asset/metric2.png)
 
 **The full source code will be made publicly available after acceptance.**
