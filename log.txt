@@ -1,0 +1,2907 @@
+25-07-08 11:50:15.299 - INFO: batch_size = 1
+25-07-08 11:50:15.299 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 11:50:15.299 - INFO: class_name = candle
+25-07-08 11:50:15.299 - INFO: image_path = asset/img.png
+25-07-08 11:50:15.299 - INFO: image_size = 518
+25-07-08 11:50:15.300 - INFO: k_clusters = 20
+25-07-08 11:50:15.300 - INFO: model = ViT-L-14-336
+25-07-08 11:50:15.300 - INFO: prompting_branch = VL
+25-07-08 11:50:15.300 - INFO: prompting_depth = 4
+25-07-08 11:50:15.300 - INFO: prompting_length = 5
+25-07-08 11:50:15.300 - INFO: prompting_type = SD
+25-07-08 11:50:15.300 - INFO: save_fig = False
+25-07-08 11:50:15.300 - INFO: save_name = test.png
+25-07-08 11:50:15.300 - INFO: save_path = ./workspaces
+25-07-08 11:50:15.300 - INFO: testing_data = br35h
+25-07-08 11:50:15.300 - INFO: testing_model = dataset
+25-07-08 11:50:15.300 - INFO: use_hsf = True
+25-07-08 11:55:40.767 - INFO: batch_size = 1
+25-07-08 11:55:40.767 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 11:55:40.767 - INFO: class_name = candle
+25-07-08 11:55:40.767 - INFO: image_path = asset/img.png
+25-07-08 11:55:40.767 - INFO: image_size = 518
+25-07-08 11:55:40.767 - INFO: k_clusters = 20
+25-07-08 11:55:40.767 - INFO: model = ViT-L-14-336
+25-07-08 11:55:40.767 - INFO: prompting_branch = VL
+25-07-08 11:55:40.767 - INFO: prompting_depth = 4
+25-07-08 11:55:40.767 - INFO: prompting_length = 5
+25-07-08 11:55:40.767 - INFO: prompting_type = SD
+25-07-08 11:55:40.767 - INFO: save_fig = False
+25-07-08 11:55:40.767 - INFO: save_name = test.png
+25-07-08 11:55:40.768 - INFO: save_path = ./workspaces
+25-07-08 11:55:40.768 - INFO: testing_data = br35h
+25-07-08 11:55:40.768 - INFO: testing_model = dataset
+25-07-08 11:55:40.768 - INFO: use_hsf = True
+25-07-08 11:56:34.939 - INFO: batch_size = 1
+25-07-08 11:56:34.939 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 11:56:34.939 - INFO: class_name = candle
+25-07-08 11:56:34.939 - INFO: image_path = asset/img.png
+25-07-08 11:56:34.939 - INFO: image_size = 518
+25-07-08 11:56:34.940 - INFO: k_clusters = 20
+25-07-08 11:56:34.940 - INFO: model = ViT-L-14-336
+25-07-08 11:56:34.940 - INFO: prompting_branch = VL
+25-07-08 11:56:34.940 - INFO: prompting_depth = 4
+25-07-08 11:56:34.940 - INFO: prompting_length = 5
+25-07-08 11:56:34.940 - INFO: prompting_type = SD
+25-07-08 11:56:34.940 - INFO: save_fig = False
+25-07-08 11:56:34.940 - INFO: save_name = test.png
+25-07-08 11:56:34.940 - INFO: save_path = ./workspaces
+25-07-08 11:56:34.940 - INFO: testing_data = br35h
+25-07-08 11:56:34.940 - INFO: testing_model = dataset
+25-07-08 11:56:34.940 - INFO: use_hsf = True
+25-07-08 11:58:03.052 - INFO: batch_size = 1
+25-07-08 11:58:03.052 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 11:58:03.052 - INFO: class_name = candle
+25-07-08 11:58:03.052 - INFO: image_path = asset/img.png
+25-07-08 11:58:03.052 - INFO: image_size = 518
+25-07-08 11:58:03.052 - INFO: k_clusters = 20
+25-07-08 11:58:03.053 - INFO: model = ViT-L-14-336
+25-07-08 11:58:03.053 - INFO: prompting_branch = VL
+25-07-08 11:58:03.053 - INFO: prompting_depth = 4
+25-07-08 11:58:03.053 - INFO: prompting_length = 5
+25-07-08 11:58:03.053 - INFO: prompting_type = SD
+25-07-08 11:58:03.053 - INFO: save_fig = False
+25-07-08 11:58:03.053 - INFO: save_name = test.png
+25-07-08 11:58:03.053 - INFO: save_path = ./workspaces
+25-07-08 11:58:03.053 - INFO: testing_data = brain_mri
+25-07-08 11:58:03.053 - INFO: testing_model = dataset
+25-07-08 11:58:03.053 - INFO: use_hsf = True
+25-07-08 11:59:17.240 - INFO: batch_size = 1
+25-07-08 11:59:17.240 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 11:59:17.240 - INFO: class_name = candle
+25-07-08 11:59:17.240 - INFO: image_path = asset/img.png
+25-07-08 11:59:17.240 - INFO: image_size = 518
+25-07-08 11:59:17.241 - INFO: k_clusters = 20
+25-07-08 11:59:17.241 - INFO: model = ViT-L-14-336
+25-07-08 11:59:17.241 - INFO: prompting_branch = VL
+25-07-08 11:59:17.241 - INFO: prompting_depth = 4
+25-07-08 11:59:17.241 - INFO: prompting_length = 5
+25-07-08 11:59:17.241 - INFO: prompting_type = SD
+25-07-08 11:59:17.241 - INFO: save_fig = False
+25-07-08 11:59:17.241 - INFO: save_name = test.png
+25-07-08 11:59:17.241 - INFO: save_path = ./workspaces
+25-07-08 11:59:17.241 - INFO: testing_data = br35h
+25-07-08 11:59:17.241 - INFO: testing_model = dataset
+25-07-08 11:59:17.241 - INFO: use_hsf = True
+25-07-08 12:00:08.462 - INFO:       brain_mri 		I-Auroc:65.26 	I-F1:77.54 	I-AP:76.39 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-08 12:00:08.462 - INFO:         Average 		I-Auroc:65.26 	I-F1:77.54 	I-AP:76.39 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-08 12:00:11.610 - INFO: batch_size = 1
+25-07-08 12:00:11.610 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 12:00:11.610 - INFO: class_name = candle
+25-07-08 12:00:11.610 - INFO: image_path = asset/img.png
+25-07-08 12:00:11.610 - INFO: image_size = 518
+25-07-08 12:00:11.610 - INFO: k_clusters = 20
+25-07-08 12:00:11.611 - INFO: model = ViT-L-14-336
+25-07-08 12:00:11.611 - INFO: prompting_branch = VL
+25-07-08 12:00:11.611 - INFO: prompting_depth = 4
+25-07-08 12:00:11.611 - INFO: prompting_length = 5
+25-07-08 12:00:11.611 - INFO: prompting_type = SD
+25-07-08 12:00:11.611 - INFO: save_fig = False
+25-07-08 12:00:11.611 - INFO: save_name = test.png
+25-07-08 12:00:11.611 - INFO: save_path = ./workspaces
+25-07-08 12:00:11.611 - INFO: testing_data = btad
+25-07-08 12:00:11.611 - INFO: testing_model = dataset
+25-07-08 12:00:11.611 - INFO: use_hsf = True
+25-07-08 12:11:23.685 - INFO:              01 		I-Auroc:93.49 	I-F1:91.84 	I-AP:97.48 	P-Auroc:84.08 	P-F1:44.87 	P-AP:37.91
+25-07-08 12:11:23.685 - INFO:              02 		I-Auroc:73.63 	I-F1:93.02 	I-AP:95.67 	P-Auroc:94.60 	P-F1:58.18 	P-AP:58.09
+25-07-08 12:11:23.685 - INFO:              03 		I-Auroc:99.15 	I-F1:87.18 	I-AP:94.03 	P-Auroc:97.15 	P-F1:40.23 	P-AP:31.22
+25-07-08 12:11:23.685 - INFO:         Average 		I-Auroc:88.76 	I-F1:90.68 	I-AP:95.72 	P-Auroc:91.94 	P-F1:47.76 	P-AP:42.41
+25-07-08 12:11:26.775 - INFO: batch_size = 1
+25-07-08 12:11:26.775 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 12:11:26.775 - INFO: class_name = candle
+25-07-08 12:11:26.775 - INFO: image_path = asset/img.png
+25-07-08 12:11:26.775 - INFO: image_size = 518
+25-07-08 12:11:26.775 - INFO: k_clusters = 20
+25-07-08 12:11:26.775 - INFO: model = ViT-L-14-336
+25-07-08 12:11:26.775 - INFO: prompting_branch = VL
+25-07-08 12:11:26.775 - INFO: prompting_depth = 4
+25-07-08 12:11:26.775 - INFO: prompting_length = 5
+25-07-08 12:11:26.775 - INFO: prompting_type = SD
+25-07-08 12:11:26.775 - INFO: save_fig = False
+25-07-08 12:11:26.775 - INFO: save_name = test.png
+25-07-08 12:11:26.776 - INFO: save_path = ./workspaces
+25-07-08 12:11:26.776 - INFO: testing_data = clinicdb
+25-07-08 12:11:26.776 - INFO: testing_model = dataset
+25-07-08 12:11:26.776 - INFO: use_hsf = True
+25-07-08 12:21:31.009 - INFO:        ClinicDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:83.69 	P-F1:61.68 	P-AP:62.98
+25-07-08 12:21:31.009 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:83.69 	P-F1:61.68 	P-AP:62.98
+25-07-08 12:21:34.098 - INFO: batch_size = 1
+25-07-08 12:21:34.099 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 12:21:34.099 - INFO: class_name = candle
+25-07-08 12:21:34.099 - INFO: image_path = asset/img.png
+25-07-08 12:21:34.099 - INFO: image_size = 518
+25-07-08 12:21:34.099 - INFO: k_clusters = 20
+25-07-08 12:21:34.099 - INFO: model = ViT-L-14-336
+25-07-08 12:21:34.099 - INFO: prompting_branch = VL
+25-07-08 12:21:34.099 - INFO: prompting_depth = 4
+25-07-08 12:21:34.099 - INFO: prompting_length = 5
+25-07-08 12:21:34.099 - INFO: prompting_type = SD
+25-07-08 12:21:34.099 - INFO: save_fig = False
+25-07-08 12:21:34.099 - INFO: save_name = test.png
+25-07-08 12:21:34.099 - INFO: save_path = ./workspaces
+25-07-08 12:21:34.099 - INFO: testing_data = dtd
+25-07-08 12:21:34.099 - INFO: testing_model = dataset
+25-07-08 12:21:34.099 - INFO: use_hsf = True
+25-07-08 12:25:30.152 - INFO:           br35h 		I-Auroc:80.25 	I-F1:74.80 	I-AP:79.96 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-08 12:25:30.153 - INFO:         Average 		I-Auroc:80.25 	I-F1:74.80 	I-AP:79.96 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-08 12:25:33.837 - INFO: batch_size = 1
+25-07-08 12:25:33.838 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 12:25:33.838 - INFO: class_name = candle
+25-07-08 12:25:33.838 - INFO: image_path = asset/img.png
+25-07-08 12:25:33.838 - INFO: image_size = 518
+25-07-08 12:25:33.838 - INFO: k_clusters = 20
+25-07-08 12:25:33.838 - INFO: model = ViT-L-14-336
+25-07-08 12:25:33.838 - INFO: prompting_branch = VL
+25-07-08 12:25:33.838 - INFO: prompting_depth = 4
+25-07-08 12:25:33.838 - INFO: prompting_length = 5
+25-07-08 12:25:33.838 - INFO: prompting_type = SD
+25-07-08 12:25:33.838 - INFO: save_fig = False
+25-07-08 12:25:33.838 - INFO: save_name = test.png
+25-07-08 12:25:33.838 - INFO: save_path = ./workspaces
+25-07-08 12:25:33.838 - INFO: testing_data = brain_mri
+25-07-08 12:25:33.839 - INFO: testing_model = dataset
+25-07-08 12:25:33.839 - INFO: use_hsf = True
+25-07-08 12:28:33.039 - INFO:       brain_mri 		I-Auroc:65.26 	I-F1:77.54 	I-AP:76.39 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-08 12:28:33.040 - INFO:         Average 		I-Auroc:65.26 	I-F1:77.54 	I-AP:76.39 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-08 12:28:36.636 - INFO: batch_size = 1
+25-07-08 12:28:36.637 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 12:28:36.637 - INFO: class_name = candle
+25-07-08 12:28:36.637 - INFO: image_path = asset/img.png
+25-07-08 12:28:36.637 - INFO: image_size = 518
+25-07-08 12:28:36.637 - INFO: k_clusters = 20
+25-07-08 12:28:36.637 - INFO: model = ViT-L-14-336
+25-07-08 12:28:36.637 - INFO: prompting_branch = VL
+25-07-08 12:28:36.637 - INFO: prompting_depth = 4
+25-07-08 12:28:36.637 - INFO: prompting_length = 5
+25-07-08 12:28:36.637 - INFO: prompting_type = SD
+25-07-08 12:28:36.637 - INFO: save_fig = False
+25-07-08 12:28:36.637 - INFO: save_name = test.png
+25-07-08 12:28:36.637 - INFO: save_path = ./workspaces
+25-07-08 12:28:36.638 - INFO: testing_data = btad
+25-07-08 12:28:36.638 - INFO: testing_model = dataset
+25-07-08 12:28:36.638 - INFO: use_hsf = True
+25-07-08 12:39:10.985 - INFO:              01 		I-Auroc:93.49 	I-F1:91.84 	I-AP:97.48 	P-Auroc:84.08 	P-F1:44.87 	P-AP:37.91
+25-07-08 12:39:10.985 - INFO:              02 		I-Auroc:73.63 	I-F1:93.02 	I-AP:95.67 	P-Auroc:94.60 	P-F1:58.18 	P-AP:58.09
+25-07-08 12:39:10.985 - INFO:              03 		I-Auroc:99.15 	I-F1:87.18 	I-AP:94.03 	P-Auroc:97.15 	P-F1:40.23 	P-AP:31.22
+25-07-08 12:39:10.985 - INFO:         Average 		I-Auroc:88.76 	I-F1:90.68 	I-AP:95.72 	P-Auroc:91.94 	P-F1:47.76 	P-AP:42.41
+25-07-08 12:39:14.167 - INFO: batch_size = 1
+25-07-08 12:39:14.167 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 12:39:14.167 - INFO: class_name = candle
+25-07-08 12:39:14.167 - INFO: image_path = asset/img.png
+25-07-08 12:39:14.167 - INFO: image_size = 518
+25-07-08 12:39:14.167 - INFO: k_clusters = 20
+25-07-08 12:39:14.167 - INFO: model = ViT-L-14-336
+25-07-08 12:39:14.167 - INFO: prompting_branch = VL
+25-07-08 12:39:14.167 - INFO: prompting_depth = 4
+25-07-08 12:39:14.167 - INFO: prompting_length = 5
+25-07-08 12:39:14.167 - INFO: prompting_type = SD
+25-07-08 12:39:14.167 - INFO: save_fig = False
+25-07-08 12:39:14.167 - INFO: save_name = test.png
+25-07-08 12:39:14.167 - INFO: save_path = ./workspaces
+25-07-08 12:39:14.168 - INFO: testing_data = clinicdb
+25-07-08 12:39:14.168 - INFO: testing_model = dataset
+25-07-08 12:39:14.168 - INFO: use_hsf = True
+25-07-08 12:41:17.106 - INFO:     Blotchy_099 		I-Auroc:99.50 	I-F1:98.73 	I-AP:99.88 	P-Auroc:99.54 	P-F1:77.61 	P-AP:85.54
+25-07-08 12:41:17.107 - INFO:     Fibrous_183 		I-Auroc:98.75 	I-F1:98.11 	I-AP:99.71 	P-Auroc:99.54 	P-F1:80.63 	P-AP:87.90
+25-07-08 12:41:17.107 - INFO:     Marbled_078 		I-Auroc:97.81 	I-F1:98.73 	I-AP:99.55 	P-Auroc:99.45 	P-F1:74.93 	P-AP:83.00
+25-07-08 12:41:17.107 - INFO:      Matted_069 		I-Auroc:84.18 	I-F1:90.45 	I-AP:95.13 	P-Auroc:98.37 	P-F1:66.59 	P-AP:71.04
+25-07-08 12:41:17.107 - INFO:        Mesh_114 		I-Auroc:90.38 	I-F1:89.03 	I-AP:96.23 	P-Auroc:96.87 	P-F1:60.95 	P-AP:64.50
+25-07-08 12:41:17.107 - INFO:  Perforated_037 		I-Auroc:73.00 	I-F1:88.89 	I-AP:92.82 	P-Auroc:91.81 	P-F1:59.13 	P-AP:56.37
+25-07-08 12:41:17.107 - INFO:  Stratified_154 		I-Auroc:98.81 	I-F1:98.09 	I-AP:99.72 	P-Auroc:99.50 	P-F1:72.12 	P-AP:79.48
+25-07-08 12:41:17.107 - INFO:       Woven_001 		I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00 	P-Auroc:99.89 	P-F1:77.13 	P-AP:86.44
+25-07-08 12:41:17.107 - INFO:       Woven_068 		I-Auroc:97.89 	I-F1:96.82 	I-AP:98.98 	P-Auroc:99.26 	P-F1:76.03 	P-AP:81.89
+25-07-08 12:41:17.107 - INFO:       Woven_104 		I-Auroc:94.81 	I-F1:93.57 	I-AP:98.76 	P-Auroc:97.59 	P-F1:66.16 	P-AP:70.46
+25-07-08 12:41:17.107 - INFO:       Woven_125 		I-Auroc:99.68 	I-F1:99.36 	I-AP:99.92 	P-Auroc:99.83 	P-F1:80.80 	P-AP:89.74
+25-07-08 12:41:17.107 - INFO:       Woven_127 		I-Auroc:93.42 	I-F1:87.50 	I-AP:93.78 	P-Auroc:97.36 	P-F1:69.10 	P-AP:70.62
+25-07-08 12:41:17.107 - INFO:         Average 		I-Auroc:94.02 	I-F1:94.94 	I-AP:97.87 	P-Auroc:98.25 	P-F1:71.77 	P-AP:77.25
+25-07-08 12:41:20.592 - INFO: batch_size = 1
+25-07-08 12:41:20.593 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 12:41:20.593 - INFO: class_name = candle
+25-07-08 12:41:20.593 - INFO: image_path = asset/img.png
+25-07-08 12:41:20.593 - INFO: image_size = 518
+25-07-08 12:41:20.593 - INFO: k_clusters = 20
+25-07-08 12:41:20.593 - INFO: model = ViT-L-14-336
+25-07-08 12:41:20.593 - INFO: prompting_branch = VL
+25-07-08 12:41:20.593 - INFO: prompting_depth = 4
+25-07-08 12:41:20.593 - INFO: prompting_length = 5
+25-07-08 12:41:20.593 - INFO: prompting_type = SD
+25-07-08 12:41:20.593 - INFO: save_fig = False
+25-07-08 12:41:20.593 - INFO: save_name = test.png
+25-07-08 12:41:20.593 - INFO: save_path = ./workspaces
+25-07-08 12:41:20.593 - INFO: testing_data = headct
+25-07-08 12:41:20.593 - INFO: testing_model = dataset
+25-07-08 12:41:20.593 - INFO: use_hsf = True
+25-07-08 12:43:51.495 - INFO:          headct 		I-Auroc:88.55 	I-F1:83.33 	I-AP:88.58 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-08 12:43:51.495 - INFO:         Average 		I-Auroc:88.55 	I-F1:83.33 	I-AP:88.58 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-08 12:43:55.075 - INFO: batch_size = 1
+25-07-08 12:43:55.075 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 12:43:55.076 - INFO: class_name = candle
+25-07-08 12:43:55.076 - INFO: image_path = asset/img.png
+25-07-08 12:43:55.076 - INFO: image_size = 518
+25-07-08 12:43:55.076 - INFO: k_clusters = 20
+25-07-08 12:43:55.076 - INFO: model = ViT-L-14-336
+25-07-08 12:43:55.076 - INFO: prompting_branch = VL
+25-07-08 12:43:55.076 - INFO: prompting_depth = 4
+25-07-08 12:43:55.076 - INFO: prompting_length = 5
+25-07-08 12:43:55.076 - INFO: prompting_type = SD
+25-07-08 12:43:55.076 - INFO: save_fig = False
+25-07-08 12:43:55.076 - INFO: save_name = test.png
+25-07-08 12:43:55.076 - INFO: save_path = ./workspaces
+25-07-08 12:43:55.076 - INFO: testing_data = isic
+25-07-08 12:43:55.076 - INFO: testing_model = dataset
+25-07-08 12:43:55.076 - INFO: use_hsf = True
+25-07-08 12:47:35.292 - INFO:        ClinicDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:83.69 	P-F1:61.68 	P-AP:62.98
+25-07-08 12:47:35.293 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:83.69 	P-F1:61.68 	P-AP:62.98
+25-07-08 12:47:38.576 - INFO: batch_size = 1
+25-07-08 12:47:38.576 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 12:47:38.577 - INFO: class_name = candle
+25-07-08 12:47:38.577 - INFO: image_path = asset/img.png
+25-07-08 12:47:38.577 - INFO: image_size = 518
+25-07-08 12:47:38.577 - INFO: k_clusters = 20
+25-07-08 12:47:38.577 - INFO: model = ViT-L-14-336
+25-07-08 12:47:38.577 - INFO: prompting_branch = VL
+25-07-08 12:47:38.577 - INFO: prompting_depth = 4
+25-07-08 12:47:38.577 - INFO: prompting_length = 5
+25-07-08 12:47:38.577 - INFO: prompting_type = SD
+25-07-08 12:47:38.577 - INFO: save_fig = False
+25-07-08 12:47:38.577 - INFO: save_name = test.png
+25-07-08 12:47:38.577 - INFO: save_path = ./workspaces
+25-07-08 12:47:38.577 - INFO: testing_data = dtd
+25-07-08 12:47:38.577 - INFO: testing_model = dataset
+25-07-08 12:47:38.577 - INFO: use_hsf = True
+25-07-08 12:48:56.545 - INFO:            isic 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:80.60 	P-F1:60.32 	P-AP:62.02
+25-07-08 12:48:56.545 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:80.60 	P-F1:60.32 	P-AP:62.02
+25-07-08 12:49:00.145 - INFO: batch_size = 1
+25-07-08 12:49:00.145 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 12:49:00.146 - INFO: class_name = candle
+25-07-08 12:49:00.146 - INFO: image_path = asset/img.png
+25-07-08 12:49:00.146 - INFO: image_size = 518
+25-07-08 12:49:00.146 - INFO: k_clusters = 20
+25-07-08 12:49:00.146 - INFO: model = ViT-L-14-336
+25-07-08 12:49:00.146 - INFO: prompting_branch = VL
+25-07-08 12:49:00.146 - INFO: prompting_depth = 4
+25-07-08 12:49:00.146 - INFO: prompting_length = 5
+25-07-08 12:49:00.146 - INFO: prompting_type = SD
+25-07-08 12:49:00.146 - INFO: save_fig = False
+25-07-08 12:49:00.146 - INFO: save_name = test.png
+25-07-08 12:49:00.146 - INFO: save_path = ./workspaces
+25-07-08 12:49:00.146 - INFO: testing_data = mpdd
+25-07-08 12:49:00.146 - INFO: testing_model = dataset
+25-07-08 12:49:00.146 - INFO: use_hsf = True
+25-07-08 12:55:52.825 - INFO:   bracket_black 		I-Auroc:65.82 	I-F1:76.67 	I-AP:74.43 	P-Auroc:94.65 	P-F1:10.30 	P-AP:3.01
+25-07-08 12:55:52.826 - INFO:   bracket_brown 		I-Auroc:45.40 	I-F1:79.69 	I-AP:66.32 	P-Auroc:94.68 	P-F1:13.48 	P-AP:6.40
+25-07-08 12:55:52.826 - INFO:   bracket_white 		I-Auroc:73.11 	I-F1:72.00 	I-AP:77.06 	P-Auroc:98.72 	P-F1:20.56 	P-AP:10.51
+25-07-08 12:55:52.826 - INFO:       connector 		I-Auroc:69.29 	I-F1:54.55 	I-AP:64.39 	P-Auroc:96.99 	P-F1:36.29 	P-AP:34.22
+25-07-08 12:55:52.826 - INFO:     metal_plate 		I-Auroc:87.16 	I-F1:89.66 	I-AP:95.06 	P-Auroc:94.22 	P-F1:66.66 	P-AP:56.02
+25-07-08 12:55:52.826 - INFO:           tubes 		I-Auroc:96.11 	I-F1:94.81 	I-AP:98.47 	P-Auroc:99.17 	P-F1:71.74 	P-AP:77.15
+25-07-08 12:55:52.826 - INFO:         Average 		I-Auroc:72.81 	I-F1:77.89 	I-AP:79.29 	P-Auroc:96.40 	P-F1:36.50 	P-AP:31.22
+25-07-08 12:55:56.137 - INFO: batch_size = 1
+25-07-08 12:55:56.137 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 12:55:56.137 - INFO: class_name = candle
+25-07-08 12:55:56.137 - INFO: image_path = asset/img.png
+25-07-08 12:55:56.138 - INFO: image_size = 518
+25-07-08 12:55:56.138 - INFO: k_clusters = 20
+25-07-08 12:55:56.138 - INFO: model = ViT-L-14-336
+25-07-08 12:55:56.138 - INFO: prompting_branch = VL
+25-07-08 12:55:56.138 - INFO: prompting_depth = 4
+25-07-08 12:55:56.138 - INFO: prompting_length = 5
+25-07-08 12:55:56.138 - INFO: prompting_type = SD
+25-07-08 12:55:56.138 - INFO: save_fig = False
+25-07-08 12:55:56.138 - INFO: save_name = test.png
+25-07-08 12:55:56.138 - INFO: save_path = ./workspaces
+25-07-08 12:55:56.138 - INFO: testing_data = sdd
+25-07-08 12:55:56.138 - INFO: testing_model = dataset
+25-07-08 12:55:56.138 - INFO: use_hsf = True
+25-07-08 13:00:59.542 - INFO:             SDD 		I-Auroc:97.93 	I-F1:93.33 	I-AP:95.42 	P-Auroc:99.11 	P-F1:51.92 	P-AP:50.69
+25-07-08 13:00:59.542 - INFO:         Average 		I-Auroc:97.93 	I-F1:93.33 	I-AP:95.42 	P-Auroc:99.11 	P-F1:51.92 	P-AP:50.69
+25-07-08 13:01:02.531 - INFO: batch_size = 1
+25-07-08 13:01:02.531 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 13:01:02.531 - INFO: class_name = candle
+25-07-08 13:01:02.531 - INFO: image_path = asset/img.png
+25-07-08 13:01:02.531 - INFO: image_size = 518
+25-07-08 13:01:02.531 - INFO: k_clusters = 20
+25-07-08 13:01:02.531 - INFO: model = ViT-L-14-336
+25-07-08 13:01:02.531 - INFO: prompting_branch = VL
+25-07-08 13:01:02.531 - INFO: prompting_depth = 4
+25-07-08 13:01:02.531 - INFO: prompting_length = 5
+25-07-08 13:01:02.531 - INFO: prompting_type = SD
+25-07-08 13:01:02.532 - INFO: save_fig = False
+25-07-08 13:01:02.532 - INFO: save_name = test.png
+25-07-08 13:01:02.532 - INFO: save_path = ./workspaces
+25-07-08 13:01:02.532 - INFO: testing_data = tn3k
+25-07-08 13:01:02.532 - INFO: testing_model = dataset
+25-07-08 13:01:02.532 - INFO: use_hsf = True
+25-07-08 13:05:05.035 - INFO:     Blotchy_099 		I-Auroc:99.50 	I-F1:98.73 	I-AP:99.88 	P-Auroc:99.54 	P-F1:77.61 	P-AP:85.54
+25-07-08 13:05:05.036 - INFO:     Fibrous_183 		I-Auroc:98.75 	I-F1:98.11 	I-AP:99.71 	P-Auroc:99.54 	P-F1:80.63 	P-AP:87.90
+25-07-08 13:05:05.036 - INFO:     Marbled_078 		I-Auroc:97.81 	I-F1:98.73 	I-AP:99.55 	P-Auroc:99.45 	P-F1:74.93 	P-AP:83.00
+25-07-08 13:05:05.036 - INFO:      Matted_069 		I-Auroc:84.18 	I-F1:90.45 	I-AP:95.13 	P-Auroc:98.37 	P-F1:66.59 	P-AP:71.04
+25-07-08 13:05:05.036 - INFO:        Mesh_114 		I-Auroc:90.38 	I-F1:89.03 	I-AP:96.23 	P-Auroc:96.87 	P-F1:60.95 	P-AP:64.50
+25-07-08 13:05:05.036 - INFO:  Perforated_037 		I-Auroc:73.00 	I-F1:88.89 	I-AP:92.82 	P-Auroc:91.81 	P-F1:59.13 	P-AP:56.37
+25-07-08 13:05:05.036 - INFO:  Stratified_154 		I-Auroc:98.81 	I-F1:98.09 	I-AP:99.72 	P-Auroc:99.50 	P-F1:72.12 	P-AP:79.48
+25-07-08 13:05:05.036 - INFO:       Woven_001 		I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00 	P-Auroc:99.89 	P-F1:77.13 	P-AP:86.44
+25-07-08 13:05:05.036 - INFO:       Woven_068 		I-Auroc:97.89 	I-F1:96.82 	I-AP:98.98 	P-Auroc:99.26 	P-F1:76.03 	P-AP:81.89
+25-07-08 13:05:05.036 - INFO:       Woven_104 		I-Auroc:94.81 	I-F1:93.57 	I-AP:98.76 	P-Auroc:97.59 	P-F1:66.16 	P-AP:70.46
+25-07-08 13:05:05.036 - INFO:       Woven_125 		I-Auroc:99.68 	I-F1:99.36 	I-AP:99.92 	P-Auroc:99.83 	P-F1:80.80 	P-AP:89.74
+25-07-08 13:05:05.036 - INFO:       Woven_127 		I-Auroc:93.42 	I-F1:87.50 	I-AP:93.78 	P-Auroc:97.36 	P-F1:69.10 	P-AP:70.62
+25-07-08 13:05:05.036 - INFO:         Average 		I-Auroc:94.02 	I-F1:94.94 	I-AP:97.87 	P-Auroc:98.25 	P-F1:71.77 	P-AP:77.25
+25-07-08 13:05:08.483 - INFO: batch_size = 1
+25-07-08 13:05:08.483 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 13:05:08.483 - INFO: class_name = candle
+25-07-08 13:05:08.483 - INFO: image_path = asset/img.png
+25-07-08 13:05:08.483 - INFO: image_size = 518
+25-07-08 13:05:08.483 - INFO: k_clusters = 20
+25-07-08 13:05:08.483 - INFO: model = ViT-L-14-336
+25-07-08 13:05:08.483 - INFO: prompting_branch = VL
+25-07-08 13:05:08.483 - INFO: prompting_depth = 4
+25-07-08 13:05:08.483 - INFO: prompting_length = 5
+25-07-08 13:05:08.484 - INFO: prompting_type = SD
+25-07-08 13:05:08.484 - INFO: save_fig = False
+25-07-08 13:05:08.484 - INFO: save_name = test.png
+25-07-08 13:05:08.484 - INFO: save_path = ./workspaces
+25-07-08 13:05:08.484 - INFO: testing_data = headct
+25-07-08 13:05:08.484 - INFO: testing_model = dataset
+25-07-08 13:05:08.484 - INFO: use_hsf = True
+25-07-08 13:06:43.228 - INFO:          headct 		I-Auroc:88.55 	I-F1:83.33 	I-AP:88.58 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-08 13:06:43.228 - INFO:         Average 		I-Auroc:88.55 	I-F1:83.33 	I-AP:88.58 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-08 13:06:46.601 - INFO: batch_size = 1
+25-07-08 13:06:46.602 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 13:06:46.602 - INFO: class_name = candle
+25-07-08 13:06:46.602 - INFO: image_path = asset/img.png
+25-07-08 13:06:46.602 - INFO: image_size = 518
+25-07-08 13:06:46.602 - INFO: k_clusters = 20
+25-07-08 13:06:46.602 - INFO: model = ViT-L-14-336
+25-07-08 13:06:46.602 - INFO: prompting_branch = VL
+25-07-08 13:06:46.602 - INFO: prompting_depth = 4
+25-07-08 13:06:46.602 - INFO: prompting_length = 5
+25-07-08 13:06:46.602 - INFO: prompting_type = SD
+25-07-08 13:06:46.602 - INFO: save_fig = False
+25-07-08 13:06:46.602 - INFO: save_name = test.png
+25-07-08 13:06:46.602 - INFO: save_path = ./workspaces
+25-07-08 13:06:46.603 - INFO: testing_data = isic
+25-07-08 13:06:46.603 - INFO: testing_model = dataset
+25-07-08 13:06:46.603 - INFO: use_hsf = True
+25-07-08 13:08:25.467 - INFO:            tn3k 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:75.22 	P-F1:43.80 	P-AP:40.25
+25-07-08 13:08:25.468 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:75.22 	P-F1:43.80 	P-AP:40.25
+25-07-08 13:08:28.655 - INFO: batch_size = 1
+25-07-08 13:08:28.655 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 13:08:28.655 - INFO: class_name = candle
+25-07-08 13:08:28.655 - INFO: image_path = asset/img.png
+25-07-08 13:08:28.655 - INFO: image_size = 518
+25-07-08 13:08:28.655 - INFO: k_clusters = 20
+25-07-08 13:08:28.655 - INFO: model = ViT-L-14-336
+25-07-08 13:08:28.655 - INFO: prompting_branch = VL
+25-07-08 13:08:28.655 - INFO: prompting_depth = 4
+25-07-08 13:08:28.655 - INFO: prompting_length = 5
+25-07-08 13:08:28.655 - INFO: prompting_type = SD
+25-07-08 13:08:28.655 - INFO: save_fig = False
+25-07-08 13:08:28.655 - INFO: save_name = test.png
+25-07-08 13:08:28.655 - INFO: save_path = ./workspaces
+25-07-08 13:08:28.656 - INFO: testing_data = visa
+25-07-08 13:08:28.656 - INFO: testing_model = dataset
+25-07-08 13:08:28.656 - INFO: use_hsf = True
+25-07-08 13:12:16.245 - INFO:            isic 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:80.60 	P-F1:60.32 	P-AP:62.02
+25-07-08 13:12:16.246 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:80.60 	P-F1:60.32 	P-AP:62.02
+25-07-08 13:12:19.414 - INFO: batch_size = 1
+25-07-08 13:12:19.414 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 13:12:19.414 - INFO: class_name = candle
+25-07-08 13:12:19.414 - INFO: image_path = asset/img.png
+25-07-08 13:12:19.414 - INFO: image_size = 518
+25-07-08 13:12:19.414 - INFO: k_clusters = 20
+25-07-08 13:12:19.414 - INFO: model = ViT-L-14-336
+25-07-08 13:12:19.415 - INFO: prompting_branch = VL
+25-07-08 13:12:19.415 - INFO: prompting_depth = 4
+25-07-08 13:12:19.415 - INFO: prompting_length = 5
+25-07-08 13:12:19.415 - INFO: prompting_type = SD
+25-07-08 13:12:19.415 - INFO: save_fig = False
+25-07-08 13:12:19.415 - INFO: save_name = test.png
+25-07-08 13:12:19.415 - INFO: save_path = ./workspaces
+25-07-08 13:12:19.415 - INFO: testing_data = mpdd
+25-07-08 13:12:19.415 - INFO: testing_model = dataset
+25-07-08 13:12:19.415 - INFO: use_hsf = True
+25-07-08 13:19:19.681 - INFO:   bracket_black 		I-Auroc:65.82 	I-F1:76.67 	I-AP:74.43 	P-Auroc:94.65 	P-F1:10.30 	P-AP:3.01
+25-07-08 13:19:19.682 - INFO:   bracket_brown 		I-Auroc:45.40 	I-F1:79.69 	I-AP:66.32 	P-Auroc:94.68 	P-F1:13.48 	P-AP:6.40
+25-07-08 13:19:19.682 - INFO:   bracket_white 		I-Auroc:73.11 	I-F1:72.00 	I-AP:77.06 	P-Auroc:98.72 	P-F1:20.56 	P-AP:10.51
+25-07-08 13:19:19.682 - INFO:       connector 		I-Auroc:69.29 	I-F1:54.55 	I-AP:64.39 	P-Auroc:96.99 	P-F1:36.29 	P-AP:34.22
+25-07-08 13:19:19.682 - INFO:     metal_plate 		I-Auroc:87.16 	I-F1:89.66 	I-AP:95.06 	P-Auroc:94.22 	P-F1:66.66 	P-AP:56.02
+25-07-08 13:19:19.682 - INFO:           tubes 		I-Auroc:96.11 	I-F1:94.81 	I-AP:98.47 	P-Auroc:99.17 	P-F1:71.74 	P-AP:77.15
+25-07-08 13:19:19.682 - INFO:         Average 		I-Auroc:72.81 	I-F1:77.89 	I-AP:79.29 	P-Auroc:96.40 	P-F1:36.50 	P-AP:31.22
+25-07-08 13:19:23.365 - INFO: batch_size = 1
+25-07-08 13:19:23.366 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 13:19:23.366 - INFO: class_name = candle
+25-07-08 13:19:23.366 - INFO: image_path = asset/img.png
+25-07-08 13:19:23.366 - INFO: image_size = 518
+25-07-08 13:19:23.366 - INFO: k_clusters = 20
+25-07-08 13:19:23.366 - INFO: model = ViT-L-14-336
+25-07-08 13:19:23.366 - INFO: prompting_branch = VL
+25-07-08 13:19:23.366 - INFO: prompting_depth = 4
+25-07-08 13:19:23.366 - INFO: prompting_length = 5
+25-07-08 13:19:23.366 - INFO: prompting_type = SD
+25-07-08 13:19:23.366 - INFO: save_fig = False
+25-07-08 13:19:23.366 - INFO: save_name = test.png
+25-07-08 13:19:23.366 - INFO: save_path = ./workspaces
+25-07-08 13:19:23.366 - INFO: testing_data = sdd
+25-07-08 13:19:23.367 - INFO: testing_model = dataset
+25-07-08 13:19:23.367 - INFO: use_hsf = True
+25-07-08 13:25:07.229 - INFO:             SDD 		I-Auroc:97.93 	I-F1:93.33 	I-AP:95.42 	P-Auroc:99.11 	P-F1:51.92 	P-AP:50.69
+25-07-08 13:25:07.230 - INFO:         Average 		I-Auroc:97.93 	I-F1:93.33 	I-AP:95.42 	P-Auroc:99.11 	P-F1:51.92 	P-AP:50.69
+25-07-08 13:25:10.621 - INFO: batch_size = 1
+25-07-08 13:25:10.621 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 13:25:10.621 - INFO: class_name = candle
+25-07-08 13:25:10.621 - INFO: image_path = asset/img.png
+25-07-08 13:25:10.621 - INFO: image_size = 518
+25-07-08 13:25:10.621 - INFO: k_clusters = 20
+25-07-08 13:25:10.621 - INFO: model = ViT-L-14-336
+25-07-08 13:25:10.621 - INFO: prompting_branch = VL
+25-07-08 13:25:10.621 - INFO: prompting_depth = 4
+25-07-08 13:25:10.621 - INFO: prompting_length = 5
+25-07-08 13:25:10.622 - INFO: prompting_type = SD
+25-07-08 13:25:10.622 - INFO: save_fig = False
+25-07-08 13:25:10.622 - INFO: save_name = test.png
+25-07-08 13:25:10.622 - INFO: save_path = ./workspaces
+25-07-08 13:25:10.622 - INFO: testing_data = tn3k
+25-07-08 13:25:10.622 - INFO: testing_model = dataset
+25-07-08 13:25:10.622 - INFO: use_hsf = True
+25-07-08 13:33:10.240 - INFO:            tn3k 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:75.22 	P-F1:43.80 	P-AP:40.25
+25-07-08 13:33:10.241 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:75.22 	P-F1:43.80 	P-AP:40.25
+25-07-08 13:33:13.297 - INFO: batch_size = 1
+25-07-08 13:33:13.297 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-08 13:33:13.297 - INFO: class_name = candle
+25-07-08 13:33:13.297 - INFO: image_path = asset/img.png
+25-07-08 13:33:13.297 - INFO: image_size = 518
+25-07-08 13:33:13.298 - INFO: k_clusters = 20
+25-07-08 13:33:13.298 - INFO: model = ViT-L-14-336
+25-07-08 13:33:13.298 - INFO: prompting_branch = VL
+25-07-08 13:33:13.298 - INFO: prompting_depth = 4
+25-07-08 13:33:13.298 - INFO: prompting_length = 5
+25-07-08 13:33:13.298 - INFO: prompting_type = SD
+25-07-08 13:33:13.298 - INFO: save_fig = False
+25-07-08 13:33:13.298 - INFO: save_name = test.png
+25-07-08 13:33:13.298 - INFO: save_path = ./workspaces
+25-07-08 13:33:13.298 - INFO: testing_data = visa
+25-07-08 13:33:13.298 - INFO: testing_model = dataset
+25-07-08 13:33:13.298 - INFO: use_hsf = True
+25-07-08 13:37:14.864 - INFO:          candle 		I-Auroc:96.08 	I-F1:91.67 	I-AP:96.78 	P-Auroc:99.26 	P-F1:45.42 	P-AP:40.39
+25-07-08 13:37:14.864 - INFO:        capsules 		I-Auroc:81.00 	I-F1:81.59 	I-AP:89.63 	P-Auroc:97.35 	P-F1:49.43 	P-AP:40.02
+25-07-08 13:37:14.864 - INFO:          cashew 		I-Auroc:94.32 	I-F1:91.30 	I-AP:97.64 	P-Auroc:97.30 	P-F1:40.99 	P-AP:40.38
+25-07-08 13:37:14.864 - INFO:      chewinggum 		I-Auroc:93.38 	I-F1:90.00 	I-AP:97.10 	P-Auroc:99.59 	P-F1:76.10 	P-AP:83.98
+25-07-08 13:37:14.864 - INFO:           fryum 		I-Auroc:84.58 	I-F1:85.19 	I-AP:92.32 	P-Auroc:94.11 	P-F1:28.84 	P-AP:22.76
+25-07-08 13:37:14.864 - INFO:       macaroni1 		I-Auroc:95.25 	I-F1:88.56 	I-AP:95.92 	P-Auroc:99.40 	P-F1:29.38 	P-AP:21.13
+25-07-08 13:37:14.864 - INFO:       macaroni2 		I-Auroc:70.98 	I-F1:71.67 	I-AP:69.94 	P-Auroc:98.95 	P-F1:11.48 	P-AP:5.41
+25-07-08 13:37:14.864 - INFO:            pcb1 		I-Auroc:86.05 	I-F1:78.95 	I-AP:87.60 	P-Auroc:95.51 	P-F1:21.88 	P-AP:16.31
+25-07-08 13:37:14.864 - INFO:            pcb2 		I-Auroc:59.08 	I-F1:68.15 	I-AP:60.40 	P-Auroc:88.78 	P-F1:25.27 	P-AP:15.28
+25-07-08 13:37:14.865 - INFO:            pcb3 		I-Auroc:66.50 	I-F1:67.87 	I-AP:67.65 	P-Auroc:87.48 	P-F1:25.22 	P-AP:19.60
+25-07-08 13:37:14.865 - INFO:            pcb4 		I-Auroc:84.01 	I-F1:78.87 	I-AP:85.15 	P-Auroc:95.34 	P-F1:31.81 	P-AP:26.63
+25-07-08 13:37:14.865 - INFO:      pipe_fryum 		I-Auroc:82.94 	I-F1:86.49 	I-AP:90.63 	P-Auroc:96.18 	P-F1:38.72 	P-AP:31.85
+25-07-08 13:37:14.865 - INFO:         Average 		I-Auroc:82.85 	I-F1:81.69 	I-AP:85.90 	P-Auroc:95.77 	P-F1:35.38 	P-AP:30.31
+25-07-08 13:37:18.659 - INFO: batch_size = 1
+25-07-08 13:37:18.659 - INFO: ckt_path = weights/pretrained_visa_clinicdb.pth
+25-07-08 13:37:18.659 - INFO: class_name = candle
+25-07-08 13:37:18.659 - INFO: image_path = asset/img.png
+25-07-08 13:37:18.659 - INFO: image_size = 518
+25-07-08 13:37:18.659 - INFO: k_clusters = 20
+25-07-08 13:37:18.659 - INFO: model = ViT-L-14-336
+25-07-08 13:37:18.659 - INFO: prompting_branch = VL
+25-07-08 13:37:18.659 - INFO: prompting_depth = 4
+25-07-08 13:37:18.660 - INFO: prompting_length = 5
+25-07-08 13:37:18.660 - INFO: prompting_type = SD
+25-07-08 13:37:18.660 - INFO: save_fig = False
+25-07-08 13:37:18.660 - INFO: save_name = test.png
+25-07-08 13:37:18.660 - INFO: save_path = ./workspaces
+25-07-08 13:37:18.660 - INFO: testing_data = colondb
+25-07-08 13:37:18.660 - INFO: testing_model = dataset
+25-07-08 13:37:18.660 - INFO: use_hsf = True
+25-07-08 13:44:12.306 - INFO:         ColonDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:91.20 	P-F1:59.18 	P-AP:63.62
+25-07-08 13:44:12.307 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:91.20 	P-F1:59.18 	P-AP:63.62
+25-07-08 13:44:16.105 - INFO: batch_size = 1
+25-07-08 13:44:16.105 - INFO: ckt_path = weights/pretrained_visa_clinicdb.pth
+25-07-08 13:44:16.106 - INFO: class_name = candle
+25-07-08 13:44:16.106 - INFO: image_path = asset/img.png
+25-07-08 13:44:16.106 - INFO: image_size = 518
+25-07-08 13:44:16.106 - INFO: k_clusters = 20
+25-07-08 13:44:16.106 - INFO: model = ViT-L-14-336
+25-07-08 13:44:16.106 - INFO: prompting_branch = VL
+25-07-08 13:44:16.106 - INFO: prompting_depth = 4
+25-07-08 13:44:16.106 - INFO: prompting_length = 5
+25-07-08 13:44:16.106 - INFO: prompting_type = SD
+25-07-08 13:44:16.106 - INFO: save_fig = False
+25-07-08 13:44:16.106 - INFO: save_name = test.png
+25-07-08 13:44:16.106 - INFO: save_path = ./workspaces
+25-07-08 13:44:16.106 - INFO: testing_data = mvtec
+25-07-08 13:44:16.106 - INFO: testing_model = dataset
+25-07-08 13:44:16.106 - INFO: use_hsf = True
+25-07-08 14:01:53.206 - INFO:          candle 		I-Auroc:96.08 	I-F1:91.67 	I-AP:96.78 	P-Auroc:99.26 	P-F1:45.42 	P-AP:40.39
+25-07-08 14:01:53.206 - INFO:        capsules 		I-Auroc:81.00 	I-F1:81.59 	I-AP:89.63 	P-Auroc:97.35 	P-F1:49.43 	P-AP:40.02
+25-07-08 14:01:53.206 - INFO:          cashew 		I-Auroc:94.32 	I-F1:91.30 	I-AP:97.64 	P-Auroc:97.30 	P-F1:40.99 	P-AP:40.38
+25-07-08 14:01:53.206 - INFO:      chewinggum 		I-Auroc:93.38 	I-F1:90.00 	I-AP:97.10 	P-Auroc:99.59 	P-F1:76.10 	P-AP:83.98
+25-07-08 14:01:53.206 - INFO:           fryum 		I-Auroc:84.58 	I-F1:85.19 	I-AP:92.32 	P-Auroc:94.11 	P-F1:28.84 	P-AP:22.76
+25-07-08 14:01:53.206 - INFO:       macaroni1 		I-Auroc:95.25 	I-F1:88.56 	I-AP:95.92 	P-Auroc:99.40 	P-F1:29.38 	P-AP:21.13
+25-07-08 14:01:53.206 - INFO:       macaroni2 		I-Auroc:70.98 	I-F1:71.67 	I-AP:69.94 	P-Auroc:98.95 	P-F1:11.48 	P-AP:5.41
+25-07-08 14:01:53.206 - INFO:            pcb1 		I-Auroc:86.05 	I-F1:78.95 	I-AP:87.60 	P-Auroc:95.51 	P-F1:21.88 	P-AP:16.31
+25-07-08 14:01:53.206 - INFO:            pcb2 		I-Auroc:59.08 	I-F1:68.15 	I-AP:60.40 	P-Auroc:88.78 	P-F1:25.27 	P-AP:15.28
+25-07-08 14:01:53.206 - INFO:            pcb3 		I-Auroc:66.50 	I-F1:67.87 	I-AP:67.65 	P-Auroc:87.48 	P-F1:25.22 	P-AP:19.60
+25-07-08 14:01:53.207 - INFO:            pcb4 		I-Auroc:84.01 	I-F1:78.87 	I-AP:85.15 	P-Auroc:95.34 	P-F1:31.81 	P-AP:26.63
+25-07-08 14:01:53.207 - INFO:      pipe_fryum 		I-Auroc:82.94 	I-F1:86.49 	I-AP:90.63 	P-Auroc:96.18 	P-F1:38.72 	P-AP:31.85
+25-07-08 14:01:53.207 - INFO:         Average 		I-Auroc:82.85 	I-F1:81.69 	I-AP:85.90 	P-Auroc:95.77 	P-F1:35.38 	P-AP:30.31
+25-07-08 14:01:56.427 - INFO: batch_size = 1
+25-07-08 14:01:56.427 - INFO: ckt_path = weights/pretrained_visa_clinicdb.pth
+25-07-08 14:01:56.427 - INFO: class_name = candle
+25-07-08 14:01:56.427 - INFO: image_path = asset/img.png
+25-07-08 14:01:56.427 - INFO: image_size = 518
+25-07-08 14:01:56.427 - INFO: k_clusters = 20
+25-07-08 14:01:56.427 - INFO: model = ViT-L-14-336
+25-07-08 14:01:56.427 - INFO: prompting_branch = VL
+25-07-08 14:01:56.427 - INFO: prompting_depth = 4
+25-07-08 14:01:56.427 - INFO: prompting_length = 5
+25-07-08 14:01:56.427 - INFO: prompting_type = SD
+25-07-08 14:01:56.427 - INFO: save_fig = False
+25-07-08 14:01:56.427 - INFO: save_name = test.png
+25-07-08 14:01:56.428 - INFO: save_path = ./workspaces
+25-07-08 14:01:56.428 - INFO: testing_data = colondb
+25-07-08 14:01:56.428 - INFO: testing_model = dataset
+25-07-08 14:01:56.428 - INFO: use_hsf = True
+25-07-08 14:03:57.072 - INFO:          bottle 		I-Auroc:96.98 	I-F1:96.00 	I-AP:99.04 	P-Auroc:92.34 	P-F1:56.66 	P-AP:56.94
+25-07-08 14:03:57.072 - INFO:           cable 		I-Auroc:79.92 	I-F1:80.98 	I-AP:88.14 	P-Auroc:83.10 	P-F1:17.52 	P-AP:10.52
+25-07-08 14:03:57.072 - INFO:         capsule 		I-Auroc:91.82 	I-F1:93.45 	I-AP:98.27 	P-Auroc:94.37 	P-F1:33.14 	P-AP:27.50
+25-07-08 14:03:57.072 - INFO:          carpet 		I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00 	P-Auroc:96.13 	P-F1:65.47 	P-AP:66.53
+25-07-08 14:03:57.073 - INFO:            grid 		I-Auroc:92.90 	I-F1:92.04 	I-AP:97.59 	P-Auroc:94.07 	P-F1:33.79 	P-AP:27.16
+25-07-08 14:03:57.073 - INFO:        hazelnut 		I-Auroc:90.29 	I-F1:86.71 	I-AP:94.62 	P-Auroc:98.06 	P-F1:57.99 	P-AP:64.46
+25-07-08 14:03:57.073 - INFO:         leather 		I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00 	P-Auroc:98.15 	P-F1:47.77 	P-AP:47.66
+25-07-08 14:03:57.073 - INFO:       metal_nut 		I-Auroc:81.92 	I-F1:89.86 	I-AP:95.88 	P-Auroc:68.63 	P-F1:32.45 	P-AP:20.64
+25-07-08 14:03:57.073 - INFO:            pill 		I-Auroc:91.60 	I-F1:94.04 	I-AP:98.39 	P-Auroc:83.14 	P-F1:33.47 	P-AP:29.25
+25-07-08 14:03:57.073 - INFO:           screw 		I-Auroc:86.91 	I-F1:89.41 	I-AP:95.29 	P-Auroc:98.27 	P-F1:43.33 	P-AP:40.65
+25-07-08 14:03:57.073 - INFO:            tile 		I-Auroc:99.89 	I-F1:98.82 	I-AP:99.96 	P-Auroc:88.48 	P-F1:66.57 	P-AP:66.72
+25-07-08 14:03:57.073 - INFO:      toothbrush 		I-Auroc:86.67 	I-F1:88.52 	I-AP:94.96 	P-Auroc:94.35 	P-F1:27.47 	P-AP:25.62
+25-07-08 14:03:57.073 - INFO:      transistor 		I-Auroc:83.71 	I-F1:78.57 	I-AP:84.30 	P-Auroc:71.44 	P-F1:20.01 	P-AP:14.43
+25-07-08 14:03:57.073 - INFO:            wood 		I-Auroc:99.21 	I-F1:98.33 	I-AP:99.78 	P-Auroc:93.05 	P-F1:62.27 	P-AP:61.61
+25-07-08 14:03:57.073 - INFO:          zipper 		I-Auroc:95.21 	I-F1:94.92 	I-AP:98.73 	P-Auroc:95.83 	P-F1:54.55 	P-AP:52.46
+25-07-08 14:03:57.073 - INFO:         Average 		I-Auroc:91.80 	I-F1:92.11 	I-AP:96.33 	P-Auroc:89.96 	P-F1:43.50 	P-AP:40.81
+25-07-08 14:05:51.285 - INFO:         ColonDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:91.20 	P-F1:59.18 	P-AP:63.62
+25-07-08 14:05:51.286 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:91.20 	P-F1:59.18 	P-AP:63.62
+25-07-08 14:05:54.175 - INFO: batch_size = 1
+25-07-08 14:05:54.175 - INFO: ckt_path = weights/pretrained_visa_clinicdb.pth
+25-07-08 14:05:54.175 - INFO: class_name = candle
+25-07-08 14:05:54.175 - INFO: image_path = asset/img.png
+25-07-08 14:05:54.175 - INFO: image_size = 518
+25-07-08 14:05:54.175 - INFO: k_clusters = 20
+25-07-08 14:05:54.176 - INFO: model = ViT-L-14-336
+25-07-08 14:05:54.176 - INFO: prompting_branch = VL
+25-07-08 14:05:54.176 - INFO: prompting_depth = 4
+25-07-08 14:05:54.176 - INFO: prompting_length = 5
+25-07-08 14:05:54.176 - INFO: prompting_type = SD
+25-07-08 14:05:54.176 - INFO: save_fig = False
+25-07-08 14:05:54.176 - INFO: save_name = test.png
+25-07-08 14:05:54.176 - INFO: save_path = ./workspaces
+25-07-08 14:05:54.176 - INFO: testing_data = mvtec
+25-07-08 14:05:54.176 - INFO: testing_model = dataset
+25-07-08 14:05:54.176 - INFO: use_hsf = True
+25-07-08 14:20:57.415 - INFO:          bottle 		I-Auroc:96.98 	I-F1:96.00 	I-AP:99.04 	P-Auroc:92.34 	P-F1:56.66 	P-AP:56.94
+25-07-08 14:20:57.415 - INFO:           cable 		I-Auroc:79.92 	I-F1:80.98 	I-AP:88.14 	P-Auroc:83.10 	P-F1:17.52 	P-AP:10.52
+25-07-08 14:20:57.415 - INFO:         capsule 		I-Auroc:91.82 	I-F1:93.45 	I-AP:98.27 	P-Auroc:94.37 	P-F1:33.14 	P-AP:27.50
+25-07-08 14:20:57.415 - INFO:          carpet 		I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00 	P-Auroc:96.13 	P-F1:65.47 	P-AP:66.53
+25-07-08 14:20:57.415 - INFO:            grid 		I-Auroc:92.90 	I-F1:92.04 	I-AP:97.59 	P-Auroc:94.07 	P-F1:33.79 	P-AP:27.16
+25-07-08 14:20:57.415 - INFO:        hazelnut 		I-Auroc:90.29 	I-F1:86.71 	I-AP:94.62 	P-Auroc:98.06 	P-F1:57.99 	P-AP:64.46
+25-07-08 14:20:57.415 - INFO:         leather 		I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00 	P-Auroc:98.15 	P-F1:47.77 	P-AP:47.66
+25-07-08 14:20:57.416 - INFO:       metal_nut 		I-Auroc:81.92 	I-F1:89.86 	I-AP:95.88 	P-Auroc:68.63 	P-F1:32.45 	P-AP:20.64
+25-07-08 14:20:57.416 - INFO:            pill 		I-Auroc:91.60 	I-F1:94.04 	I-AP:98.39 	P-Auroc:83.14 	P-F1:33.47 	P-AP:29.25
+25-07-08 14:20:57.416 - INFO:           screw 		I-Auroc:86.91 	I-F1:89.41 	I-AP:95.29 	P-Auroc:98.27 	P-F1:43.33 	P-AP:40.65
+25-07-08 14:20:57.416 - INFO:            tile 		I-Auroc:99.89 	I-F1:98.82 	I-AP:99.96 	P-Auroc:88.48 	P-F1:66.57 	P-AP:66.72
+25-07-08 14:20:57.416 - INFO:      toothbrush 		I-Auroc:86.67 	I-F1:88.52 	I-AP:94.96 	P-Auroc:94.35 	P-F1:27.47 	P-AP:25.62
+25-07-08 14:20:57.416 - INFO:      transistor 		I-Auroc:83.71 	I-F1:78.57 	I-AP:84.30 	P-Auroc:71.44 	P-F1:20.01 	P-AP:14.43
+25-07-08 14:20:57.416 - INFO:            wood 		I-Auroc:99.21 	I-F1:98.33 	I-AP:99.78 	P-Auroc:93.05 	P-F1:62.27 	P-AP:61.61
+25-07-08 14:20:57.416 - INFO:          zipper 		I-Auroc:95.21 	I-F1:94.92 	I-AP:98.73 	P-Auroc:95.83 	P-F1:54.55 	P-AP:52.46
+25-07-08 14:20:57.416 - INFO:         Average 		I-Auroc:91.80 	I-F1:92.11 	I-AP:96.33 	P-Auroc:89.96 	P-F1:43.50 	P-AP:40.81
+25-07-09 10:21:25.985 - INFO: batch_size = 1
+25-07-09 10:21:25.985 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-09 10:21:25.986 - INFO: class_name = candle
+25-07-09 10:21:25.986 - INFO: image_path = asset/img.png
+25-07-09 10:21:25.986 - INFO: image_size = 518
+25-07-09 10:21:25.986 - INFO: k_clusters = 20
+25-07-09 10:21:25.986 - INFO: model = ViT-L-14-336
+25-07-09 10:21:25.986 - INFO: prompting_branch = VL
+25-07-09 10:21:25.986 - INFO: prompting_depth = 4
+25-07-09 10:21:25.986 - INFO: prompting_length = 5
+25-07-09 10:21:25.986 - INFO: prompting_type = SD
+25-07-09 10:21:25.986 - INFO: save_fig = False
+25-07-09 10:21:25.986 - INFO: save_name = test.png
+25-07-09 10:21:25.986 - INFO: save_path = ./workspaces
+25-07-09 10:21:25.986 - INFO: testing_data = brain_mri
+25-07-09 10:21:25.986 - INFO: testing_model = dataset
+25-07-09 10:21:25.986 - INFO: use_hsf = True
+25-07-09 10:22:52.043 - INFO:       brain_mri 		I-Auroc:64.79 	I-F1:75.98 	I-AP:76.61 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-09 10:22:52.044 - INFO:         Average 		I-Auroc:64.79 	I-F1:75.98 	I-AP:76.61 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-09 10:24:20.148 - INFO: batch_size = 1
+25-07-09 10:24:20.148 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-09 10:24:20.148 - INFO: class_name = candle
+25-07-09 10:24:20.148 - INFO: image_path = asset/img.png
+25-07-09 10:24:20.148 - INFO: image_size = 518
+25-07-09 10:24:20.148 - INFO: k_clusters = 20
+25-07-09 10:24:20.149 - INFO: model = ViT-L-14-336
+25-07-09 10:24:20.149 - INFO: prompting_branch = VL
+25-07-09 10:24:20.149 - INFO: prompting_depth = 4
+25-07-09 10:24:20.149 - INFO: prompting_length = 5
+25-07-09 10:24:20.149 - INFO: prompting_type = SD
+25-07-09 10:24:20.149 - INFO: save_fig = False
+25-07-09 10:24:20.149 - INFO: save_name = test.png
+25-07-09 10:24:20.149 - INFO: save_path = ./workspaces
+25-07-09 10:24:20.149 - INFO: testing_data = btad
+25-07-09 10:24:20.149 - INFO: testing_model = dataset
+25-07-09 10:24:20.149 - INFO: use_hsf = True
+25-07-09 10:31:53.685 - INFO:              01 		I-Auroc:96.89 	I-F1:95.83 	I-AP:98.85 	P-Auroc:86.62 	P-F1:52.64 	P-AP:44.26
+25-07-09 10:31:53.686 - INFO:              02 		I-Auroc:77.66 	I-F1:93.02 	I-AP:96.30 	P-Auroc:93.58 	P-F1:56.23 	P-AP:55.35
+25-07-09 10:31:53.686 - INFO:              03 		I-Auroc:98.94 	I-F1:86.11 	I-AP:93.22 	P-Auroc:96.76 	P-F1:32.72 	P-AP:23.68
+25-07-09 10:31:53.686 - INFO:         Average 		I-Auroc:91.16 	I-F1:91.66 	I-AP:96.12 	P-Auroc:92.32 	P-F1:47.20 	P-AP:41.10
+25-07-09 10:36:55.339 - INFO: batch_size = 1
+25-07-09 10:36:55.339 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-09 10:36:55.339 - INFO: class_name = candle
+25-07-09 10:36:55.340 - INFO: image_path = asset/img.png
+25-07-09 10:36:55.340 - INFO: image_size = 518
+25-07-09 10:36:55.340 - INFO: k_clusters = 20
+25-07-09 10:36:55.340 - INFO: model = ViT-L-14-336
+25-07-09 10:36:55.340 - INFO: prompting_branch = VL
+25-07-09 10:36:55.340 - INFO: prompting_depth = 4
+25-07-09 10:36:55.340 - INFO: prompting_length = 5
+25-07-09 10:36:55.340 - INFO: prompting_type = SD
+25-07-09 10:36:55.340 - INFO: save_fig = False
+25-07-09 10:36:55.340 - INFO: save_name = test.png
+25-07-09 10:36:55.340 - INFO: save_path = ./workspaces
+25-07-09 10:36:55.340 - INFO: testing_data = clinicdb
+25-07-09 10:36:55.340 - INFO: testing_model = dataset
+25-07-09 10:36:55.340 - INFO: use_hsf = True
+25-07-09 10:43:20.751 - INFO:        ClinicDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:90.90 	P-F1:62.14 	P-AP:67.98
+25-07-09 10:43:20.752 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:90.90 	P-F1:62.14 	P-AP:67.98
+25-07-09 10:46:53.415 - INFO: batch_size = 1
+25-07-09 10:46:53.415 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-09 10:46:53.415 - INFO: class_name = candle
+25-07-09 10:46:53.415 - INFO: image_path = asset/img.png
+25-07-09 10:46:53.416 - INFO: image_size = 518
+25-07-09 10:46:53.416 - INFO: k_clusters = 20
+25-07-09 10:46:53.416 - INFO: model = ViT-L-14-336
+25-07-09 10:46:53.416 - INFO: prompting_branch = VL
+25-07-09 10:46:53.416 - INFO: prompting_depth = 4
+25-07-09 10:46:53.416 - INFO: prompting_length = 5
+25-07-09 10:46:53.416 - INFO: prompting_type = SD
+25-07-09 10:46:53.416 - INFO: save_fig = False
+25-07-09 10:46:53.416 - INFO: save_name = test.png
+25-07-09 10:46:53.416 - INFO: save_path = ./workspaces
+25-07-09 10:46:53.416 - INFO: testing_data = mpdd
+25-07-09 10:46:53.416 - INFO: testing_model = dataset
+25-07-09 10:46:53.416 - INFO: use_hsf = True
+25-07-09 10:51:36.184 - INFO:   bracket_black 		I-Auroc:57.38 	I-F1:74.60 	I-AP:66.69 	P-Auroc:90.82 	P-F1:9.15 	P-AP:2.53
+25-07-09 10:51:36.185 - INFO:   bracket_brown 		I-Auroc:54.22 	I-F1:80.31 	I-AP:69.22 	P-Auroc:92.67 	P-F1:12.09 	P-AP:5.42
+25-07-09 10:51:36.185 - INFO:   bracket_white 		I-Auroc:88.22 	I-F1:84.51 	I-AP:87.60 	P-Auroc:98.48 	P-F1:17.03 	P-AP:7.98
+25-07-09 10:51:36.185 - INFO:       connector 		I-Auroc:64.52 	I-F1:54.55 	I-AP:56.14 	P-Auroc:96.40 	P-F1:39.02 	P-AP:36.13
+25-07-09 10:51:36.185 - INFO:     metal_plate 		I-Auroc:85.32 	I-F1:89.74 	I-AP:94.26 	P-Auroc:93.47 	P-F1:64.61 	P-AP:53.03
+25-07-09 10:51:36.185 - INFO:           tubes 		I-Auroc:98.51 	I-F1:96.35 	I-AP:99.33 	P-Auroc:99.40 	P-F1:73.30 	P-AP:80.02
+25-07-09 10:51:36.185 - INFO:         Average 		I-Auroc:74.70 	I-F1:80.01 	I-AP:78.87 	P-Auroc:95.21 	P-F1:35.86 	P-AP:30.85
+25-07-09 10:51:59.791 - INFO: batch_size = 1
+25-07-09 10:51:59.792 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-09 10:51:59.792 - INFO: class_name = candle
+25-07-09 10:51:59.792 - INFO: image_path = asset/img.png
+25-07-09 10:51:59.792 - INFO: image_size = 518
+25-07-09 10:51:59.792 - INFO: k_clusters = 20
+25-07-09 10:51:59.792 - INFO: model = ViT-L-14-336
+25-07-09 10:51:59.792 - INFO: prompting_branch = VL
+25-07-09 10:51:59.792 - INFO: prompting_depth = 4
+25-07-09 10:51:59.792 - INFO: prompting_length = 5
+25-07-09 10:51:59.792 - INFO: prompting_type = SD
+25-07-09 10:51:59.792 - INFO: save_fig = False
+25-07-09 10:51:59.792 - INFO: save_name = test.png
+25-07-09 10:51:59.792 - INFO: save_path = ./workspaces
+25-07-09 10:51:59.793 - INFO: testing_data = sdd
+25-07-09 10:51:59.793 - INFO: testing_model = dataset
+25-07-09 10:51:59.793 - INFO: use_hsf = True
+25-07-09 10:55:41.627 - INFO:             SDD 		I-Auroc:97.01 	I-F1:88.24 	I-AP:92.12 	P-Auroc:98.55 	P-F1:46.86 	P-AP:45.27
+25-07-09 10:55:41.627 - INFO:         Average 		I-Auroc:97.01 	I-F1:88.24 	I-AP:92.12 	P-Auroc:98.55 	P-F1:46.86 	P-AP:45.27
+25-07-09 17:11:18.380 - INFO: batch_size = 1
+25-07-09 17:11:18.380 - INFO: ckt_path = weights/pretrained_visa_clinicdb.pth
+25-07-09 17:11:18.380 - INFO: class_name = candle
+25-07-09 17:11:18.380 - INFO: image_path = asset/img.png
+25-07-09 17:11:18.380 - INFO: image_size = 518
+25-07-09 17:11:18.381 - INFO: k_clusters = 20
+25-07-09 17:11:18.381 - INFO: model = ViT-L-14-336
+25-07-09 17:11:18.381 - INFO: prompting_branch = VL
+25-07-09 17:11:18.381 - INFO: prompting_depth = 4
+25-07-09 17:11:18.381 - INFO: prompting_length = 5
+25-07-09 17:11:18.381 - INFO: prompting_type = SD
+25-07-09 17:11:18.381 - INFO: save_fig = False
+25-07-09 17:11:18.381 - INFO: save_name = test.png
+25-07-09 17:11:18.381 - INFO: save_path = ./workspaces
+25-07-09 17:11:18.381 - INFO: testing_data = colondb
+25-07-09 17:11:18.381 - INFO: testing_model = dataset
+25-07-09 17:11:18.381 - INFO: use_hsf = True
+25-07-09 17:15:21.406 - INFO:         ColonDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:92.13 	P-F1:59.48 	P-AP:64.17
+25-07-09 17:15:21.406 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:92.13 	P-F1:59.48 	P-AP:64.17
+25-07-10 10:45:41.522 - INFO: batch_size = 1
+25-07-10 10:45:41.522 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-10 10:45:41.522 - INFO: class_name = candle
+25-07-10 10:45:41.522 - INFO: image_path = asset/img.png
+25-07-10 10:45:41.522 - INFO: image_size = 518
+25-07-10 10:45:41.522 - INFO: k_clusters = 20
+25-07-10 10:45:41.522 - INFO: model = ViT-L-14-336
+25-07-10 10:45:41.522 - INFO: prompting_branch = VL
+25-07-10 10:45:41.522 - INFO: prompting_depth = 4
+25-07-10 10:45:41.522 - INFO: prompting_length = 5
+25-07-10 10:45:41.523 - INFO: prompting_type = SD
+25-07-10 10:45:41.523 - INFO: save_fig = False
+25-07-10 10:45:41.523 - INFO: save_name = test.png
+25-07-10 10:45:41.523 - INFO: save_path = ./workspaces
+25-07-10 10:45:41.523 - INFO: testing_data = brain_mri
+25-07-10 10:45:41.523 - INFO: testing_model = dataset
+25-07-10 10:45:41.523 - INFO: use_hsf = True
+25-07-10 10:47:08.387 - INFO:       brain_mri 		I-Auroc:95.44 	I-F1:93.04 	I-AP:97.00 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-10 10:47:08.387 - INFO:         Average 		I-Auroc:95.44 	I-F1:93.04 	I-AP:97.00 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-10 10:47:32.159 - INFO: batch_size = 1
+25-07-10 10:47:32.159 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-10 10:47:32.159 - INFO: class_name = candle
+25-07-10 10:47:32.159 - INFO: image_path = asset/img.png
+25-07-10 10:47:32.159 - INFO: image_size = 518
+25-07-10 10:47:32.159 - INFO: k_clusters = 20
+25-07-10 10:47:32.160 - INFO: model = ViT-L-14-336
+25-07-10 10:47:32.160 - INFO: prompting_branch = VL
+25-07-10 10:47:32.160 - INFO: prompting_depth = 4
+25-07-10 10:47:32.160 - INFO: prompting_length = 5
+25-07-10 10:47:32.160 - INFO: prompting_type = SD
+25-07-10 10:47:32.160 - INFO: save_fig = False
+25-07-10 10:47:32.160 - INFO: save_name = test.png
+25-07-10 10:47:32.160 - INFO: save_path = ./workspaces
+25-07-10 10:47:32.160 - INFO: testing_data = btad
+25-07-10 10:47:32.160 - INFO: testing_model = dataset
+25-07-10 10:47:32.160 - INFO: use_hsf = True
+25-07-10 10:55:03.564 - INFO:              01 		I-Auroc:96.31 	I-F1:94.95 	I-AP:98.66 	P-Auroc:90.95 	P-F1:53.51 	P-AP:51.30
+25-07-10 10:55:03.565 - INFO:              02 		I-Auroc:74.84 	I-F1:93.02 	I-AP:95.75 	P-Auroc:92.31 	P-F1:57.16 	P-AP:57.42
+25-07-10 10:55:03.565 - INFO:              03 		I-Auroc:97.49 	I-F1:76.32 	I-AP:84.81 	P-Auroc:96.95 	P-F1:31.43 	P-AP:25.13
+25-07-10 10:55:03.565 - INFO:         Average 		I-Auroc:89.55 	I-F1:88.10 	I-AP:93.07 	P-Auroc:93.40 	P-F1:47.37 	P-AP:44.62
+25-07-10 10:55:39.214 - INFO: batch_size = 1
+25-07-10 10:55:39.214 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-10 10:55:39.214 - INFO: class_name = candle
+25-07-10 10:55:39.214 - INFO: image_path = asset/img.png
+25-07-10 10:55:39.214 - INFO: image_size = 518
+25-07-10 10:55:39.214 - INFO: k_clusters = 20
+25-07-10 10:55:39.214 - INFO: model = ViT-L-14-336
+25-07-10 10:55:39.214 - INFO: prompting_branch = VL
+25-07-10 10:55:39.214 - INFO: prompting_depth = 4
+25-07-10 10:55:39.215 - INFO: prompting_length = 5
+25-07-10 10:55:39.215 - INFO: prompting_type = SD
+25-07-10 10:55:39.215 - INFO: save_fig = False
+25-07-10 10:55:39.215 - INFO: save_name = test.png
+25-07-10 10:55:39.215 - INFO: save_path = ./workspaces
+25-07-10 10:55:39.215 - INFO: testing_data = clinicdb
+25-07-10 10:55:39.215 - INFO: testing_model = dataset
+25-07-10 10:55:39.215 - INFO: use_hsf = True
+25-07-10 11:02:02.402 - INFO:        ClinicDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:92.88 	P-F1:65.61 	P-AP:71.67
+25-07-10 11:02:02.402 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:92.88 	P-F1:65.61 	P-AP:71.67
+25-07-10 11:06:21.323 - INFO: batch_size = 1
+25-07-10 11:06:21.324 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-10 11:06:21.324 - INFO: class_name = candle
+25-07-10 11:06:21.324 - INFO: image_path = asset/img.png
+25-07-10 11:06:21.324 - INFO: image_size = 518
+25-07-10 11:06:21.324 - INFO: k_clusters = 20
+25-07-10 11:06:21.324 - INFO: model = ViT-L-14-336
+25-07-10 11:06:21.324 - INFO: prompting_branch = VL
+25-07-10 11:06:21.324 - INFO: prompting_depth = 4
+25-07-10 11:06:21.324 - INFO: prompting_length = 5
+25-07-10 11:06:21.324 - INFO: prompting_type = SD
+25-07-10 11:06:21.324 - INFO: save_fig = False
+25-07-10 11:06:21.324 - INFO: save_name = test.png
+25-07-10 11:06:21.324 - INFO: save_path = ./workspaces
+25-07-10 11:06:21.325 - INFO: testing_data = mpdd
+25-07-10 11:06:21.325 - INFO: testing_model = dataset
+25-07-10 11:06:21.325 - INFO: use_hsf = True
+25-07-10 11:10:59.656 - INFO:   bracket_black 		I-Auroc:57.31 	I-F1:76.42 	I-AP:61.88 	P-Auroc:95.72 	P-F1:12.29 	P-AP:4.21
+25-07-10 11:10:59.656 - INFO:   bracket_brown 		I-Auroc:52.38 	I-F1:79.69 	I-AP:70.23 	P-Auroc:94.44 	P-F1:15.40 	P-AP:8.22
+25-07-10 11:10:59.656 - INFO:   bracket_white 		I-Auroc:60.78 	I-F1:70.59 	I-AP:61.84 	P-Auroc:98.45 	P-F1:3.15 	P-AP:1.26
+25-07-10 11:10:59.656 - INFO:       connector 		I-Auroc:78.81 	I-F1:63.64 	I-AP:72.62 	P-Auroc:97.26 	P-F1:35.18 	P-AP:32.19
+25-07-10 11:10:59.656 - INFO:     metal_plate 		I-Auroc:60.08 	I-F1:84.52 	I-AP:86.64 	P-Auroc:90.55 	P-F1:55.43 	P-AP:43.83
+25-07-10 11:10:59.656 - INFO:           tubes 		I-Auroc:92.07 	I-F1:90.65 	I-AP:96.73 	P-Auroc:99.14 	P-F1:69.20 	P-AP:73.09
+25-07-10 11:10:59.657 - INFO:         Average 		I-Auroc:66.90 	I-F1:77.58 	I-AP:74.99 	P-Auroc:95.93 	P-F1:31.78 	P-AP:27.13
+25-07-10 11:11:22.040 - INFO: batch_size = 1
+25-07-10 11:11:22.040 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-10 11:11:22.041 - INFO: class_name = candle
+25-07-10 11:11:22.041 - INFO: image_path = asset/img.png
+25-07-10 11:11:22.041 - INFO: image_size = 518
+25-07-10 11:11:22.041 - INFO: k_clusters = 20
+25-07-10 11:11:22.041 - INFO: model = ViT-L-14-336
+25-07-10 11:11:22.041 - INFO: prompting_branch = VL
+25-07-10 11:11:22.041 - INFO: prompting_depth = 4
+25-07-10 11:11:22.041 - INFO: prompting_length = 5
+25-07-10 11:11:22.041 - INFO: prompting_type = SD
+25-07-10 11:11:22.041 - INFO: save_fig = False
+25-07-10 11:11:22.041 - INFO: save_name = test.png
+25-07-10 11:11:22.041 - INFO: save_path = ./workspaces
+25-07-10 11:11:22.041 - INFO: testing_data = sdd
+25-07-10 11:11:22.041 - INFO: testing_model = dataset
+25-07-10 11:11:22.041 - INFO: use_hsf = True
+25-07-10 11:15:01.743 - INFO:             SDD 		I-Auroc:93.22 	I-F1:82.00 	I-AP:82.58 	P-Auroc:97.07 	P-F1:49.97 	P-AP:43.59
+25-07-10 11:15:01.743 - INFO:         Average 		I-Auroc:93.22 	I-F1:82.00 	I-AP:82.58 	P-Auroc:97.07 	P-F1:49.97 	P-AP:43.59
+25-07-10 11:16:48.606 - INFO: batch_size = 1
+25-07-10 11:16:48.607 - INFO: ckt_path = weights/pretrained_visa_clinicdb.pth
+25-07-10 11:16:48.607 - INFO: class_name = candle
+25-07-10 11:16:48.607 - INFO: image_path = asset/img.png
+25-07-10 11:16:48.607 - INFO: image_size = 518
+25-07-10 11:16:48.607 - INFO: k_clusters = 20
+25-07-10 11:16:48.607 - INFO: model = ViT-L-14-336
+25-07-10 11:16:48.607 - INFO: prompting_branch = VL
+25-07-10 11:16:48.607 - INFO: prompting_depth = 4
+25-07-10 11:16:48.607 - INFO: prompting_length = 5
+25-07-10 11:16:48.607 - INFO: prompting_type = SD
+25-07-10 11:16:48.607 - INFO: save_fig = False
+25-07-10 11:16:48.607 - INFO: save_name = test.png
+25-07-10 11:16:48.607 - INFO: save_path = ./workspaces
+25-07-10 11:16:48.607 - INFO: testing_data = colondb
+25-07-10 11:16:48.608 - INFO: testing_model = dataset
+25-07-10 11:16:48.608 - INFO: use_hsf = True
+25-07-10 11:20:49.553 - INFO:         ColonDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:89.60 	P-F1:57.85 	P-AP:61.54
+25-07-10 11:20:49.554 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:89.60 	P-F1:57.85 	P-AP:61.54
+25-07-10 15:21:31.943 - INFO: batch_size = 1
+25-07-10 15:21:31.943 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-10 15:21:31.943 - INFO: class_name = candle
+25-07-10 15:21:31.944 - INFO: image_path = asset/img.png
+25-07-10 15:21:31.944 - INFO: image_size = 518
+25-07-10 15:21:31.944 - INFO: k_clusters = 20
+25-07-10 15:21:31.944 - INFO: model = ViT-L-14-336
+25-07-10 15:21:31.944 - INFO: prompting_branch = VL
+25-07-10 15:21:31.944 - INFO: prompting_depth = 4
+25-07-10 15:21:31.944 - INFO: prompting_length = 5
+25-07-10 15:21:31.944 - INFO: prompting_type = SD
+25-07-10 15:21:31.944 - INFO: save_fig = False
+25-07-10 15:21:31.944 - INFO: save_name = test.png
+25-07-10 15:21:31.944 - INFO: save_path = ./workspaces
+25-07-10 15:21:31.944 - INFO: testing_data = clinicdb
+25-07-10 15:21:31.944 - INFO: testing_model = dataset
+25-07-10 15:21:31.944 - INFO: use_hsf = True
+25-07-10 15:27:56.035 - INFO:        ClinicDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:91.88 	P-F1:62.48 	P-AP:68.17
+25-07-10 15:27:56.035 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:91.88 	P-F1:62.48 	P-AP:68.17
+25-07-10 15:28:28.870 - INFO: batch_size = 1
+25-07-10 15:28:28.870 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-10 15:28:28.870 - INFO: class_name = candle
+25-07-10 15:28:28.870 - INFO: image_path = asset/img.png
+25-07-10 15:28:28.870 - INFO: image_size = 518
+25-07-10 15:28:28.870 - INFO: k_clusters = 20
+25-07-10 15:28:28.870 - INFO: model = ViT-L-14-336
+25-07-10 15:28:28.870 - INFO: prompting_branch = VL
+25-07-10 15:28:28.870 - INFO: prompting_depth = 4
+25-07-10 15:28:28.870 - INFO: prompting_length = 5
+25-07-10 15:28:28.871 - INFO: prompting_type = SD
+25-07-10 15:28:28.871 - INFO: save_fig = False
+25-07-10 15:28:28.871 - INFO: save_name = test.png
+25-07-10 15:28:28.871 - INFO: save_path = ./workspaces
+25-07-10 15:28:28.871 - INFO: testing_data = colondb
+25-07-10 15:28:28.871 - INFO: testing_model = dataset
+25-07-10 15:28:28.871 - INFO: use_hsf = True
+25-07-10 15:32:26.679 - INFO:         ColonDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:99.09 	P-F1:84.52 	P-AP:92.58
+25-07-10 15:32:26.679 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:99.09 	P-F1:84.52 	P-AP:92.58
+25-07-13 18:13:09.926 - INFO: batch_size = 1
+25-07-13 18:13:09.926 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-13 18:13:09.926 - INFO: class_name = candle
+25-07-13 18:13:09.926 - INFO: image_path = asset/img.png
+25-07-13 18:13:09.926 - INFO: image_size = 518
+25-07-13 18:13:09.926 - INFO: k_clusters = 20
+25-07-13 18:13:09.926 - INFO: model = ViT-L-14-336
+25-07-13 18:13:09.926 - INFO: prompting_branch = VL
+25-07-13 18:13:09.926 - INFO: prompting_depth = 4
+25-07-13 18:13:09.926 - INFO: prompting_length = 5
+25-07-13 18:13:09.926 - INFO: prompting_type = SD
+25-07-13 18:13:09.926 - INFO: save_fig = True
+25-07-13 18:13:09.926 - INFO: save_name = test.png
+25-07-13 18:13:09.927 - INFO: save_path = ./workspaces
+25-07-13 18:13:09.927 - INFO: testing_data = brain_mri
+25-07-13 18:13:09.927 - INFO: testing_model = dataset
+25-07-13 18:13:09.927 - INFO: use_hsf = True
+25-07-13 18:14:40.694 - INFO:       brain_mri 		I-Auroc:94.38 	I-F1:92.41 	I-AP:95.85 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-13 18:14:40.694 - INFO:         Average 		I-Auroc:94.38 	I-F1:92.41 	I-AP:95.85 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-13 18:15:42.849 - INFO: batch_size = 1
+25-07-13 18:15:42.849 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-13 18:15:42.849 - INFO: class_name = candle
+25-07-13 18:15:42.849 - INFO: image_path = asset/img.png
+25-07-13 18:15:42.849 - INFO: image_size = 518
+25-07-13 18:15:42.849 - INFO: k_clusters = 20
+25-07-13 18:15:42.849 - INFO: model = ViT-L-14-336
+25-07-13 18:15:42.849 - INFO: prompting_branch = VL
+25-07-13 18:15:42.849 - INFO: prompting_depth = 4
+25-07-13 18:15:42.850 - INFO: prompting_length = 5
+25-07-13 18:15:42.850 - INFO: prompting_type = SD
+25-07-13 18:15:42.850 - INFO: save_fig = True
+25-07-13 18:15:42.850 - INFO: save_name = test.png
+25-07-13 18:15:42.850 - INFO: save_path = ./workspaces
+25-07-13 18:15:42.850 - INFO: testing_data = btad
+25-07-13 18:15:42.850 - INFO: testing_model = dataset
+25-07-13 18:15:42.850 - INFO: use_hsf = True
+25-07-13 18:22:42.689 - INFO:              01 		I-Auroc:95.29 	I-F1:92.78 	I-AP:98.21 	P-Auroc:88.13 	P-F1:51.53 	P-AP:48.47
+25-07-13 18:22:42.690 - INFO:              02 		I-Auroc:76.84 	I-F1:93.02 	I-AP:96.18 	P-Auroc:92.53 	P-F1:63.11 	P-AP:64.28
+25-07-13 18:22:42.690 - INFO:              03 		I-Auroc:98.69 	I-F1:81.93 	I-AP:90.72 	P-Auroc:95.36 	P-F1:31.15 	P-AP:21.89
+25-07-13 18:22:42.690 - INFO:         Average 		I-Auroc:90.27 	I-F1:89.24 	I-AP:95.03 	P-Auroc:92.00 	P-F1:48.60 	P-AP:44.88
+25-07-13 18:24:01.798 - INFO: batch_size = 1
+25-07-13 18:24:01.798 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-13 18:24:01.798 - INFO: class_name = candle
+25-07-13 18:24:01.798 - INFO: image_path = asset/img.png
+25-07-13 18:24:01.798 - INFO: image_size = 518
+25-07-13 18:24:01.798 - INFO: k_clusters = 20
+25-07-13 18:24:01.798 - INFO: model = ViT-L-14-336
+25-07-13 18:24:01.798 - INFO: prompting_branch = VL
+25-07-13 18:24:01.798 - INFO: prompting_depth = 4
+25-07-13 18:24:01.799 - INFO: prompting_length = 5
+25-07-13 18:24:01.799 - INFO: prompting_type = SD
+25-07-13 18:24:01.799 - INFO: save_fig = True
+25-07-13 18:24:01.799 - INFO: save_name = test.png
+25-07-13 18:24:01.799 - INFO: save_path = ./workspaces
+25-07-13 18:24:01.799 - INFO: testing_data = clinicdb
+25-07-13 18:24:01.799 - INFO: testing_model = dataset
+25-07-13 18:24:01.799 - INFO: use_hsf = True
+25-07-13 18:30:29.420 - INFO:        ClinicDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:91.00 	P-F1:62.01 	P-AP:66.85
+25-07-13 18:30:29.421 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:91.00 	P-F1:62.01 	P-AP:66.85
+25-07-13 18:33:13.283 - INFO: batch_size = 1
+25-07-13 18:33:13.283 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-13 18:33:13.283 - INFO: class_name = candle
+25-07-13 18:33:13.283 - INFO: image_path = asset/img.png
+25-07-13 18:33:13.284 - INFO: image_size = 518
+25-07-13 18:33:13.284 - INFO: k_clusters = 20
+25-07-13 18:33:13.284 - INFO: model = ViT-L-14-336
+25-07-13 18:33:13.284 - INFO: prompting_branch = VL
+25-07-13 18:33:13.284 - INFO: prompting_depth = 4
+25-07-13 18:33:13.284 - INFO: prompting_length = 5
+25-07-13 18:33:13.284 - INFO: prompting_type = SD
+25-07-13 18:33:13.284 - INFO: save_fig = True
+25-07-13 18:33:13.284 - INFO: save_name = test.png
+25-07-13 18:33:13.284 - INFO: save_path = ./workspaces
+25-07-13 18:33:13.284 - INFO: testing_data = mpdd
+25-07-13 18:33:13.284 - INFO: testing_model = dataset
+25-07-13 18:33:13.284 - INFO: use_hsf = True
+25-07-13 18:37:58.486 - INFO:   bracket_black 		I-Auroc:62.43 	I-F1:75.20 	I-AP:72.09 	P-Auroc:96.78 	P-F1:15.32 	P-AP:6.09
+25-07-13 18:37:58.486 - INFO:   bracket_brown 		I-Auroc:54.22 	I-F1:79.69 	I-AP:72.68 	P-Auroc:93.41 	P-F1:9.14 	P-AP:4.07
+25-07-13 18:37:58.486 - INFO:   bracket_white 		I-Auroc:70.00 	I-F1:74.67 	I-AP:67.21 	P-Auroc:98.33 	P-F1:9.87 	P-AP:3.85
+25-07-13 18:37:58.486 - INFO:       connector 		I-Auroc:68.45 	I-F1:58.82 	I-AP:58.36 	P-Auroc:97.30 	P-F1:34.59 	P-AP:31.37
+25-07-13 18:37:58.487 - INFO:     metal_plate 		I-Auroc:81.01 	I-F1:85.51 	I-AP:93.10 	P-Auroc:94.10 	P-F1:64.65 	P-AP:59.70
+25-07-13 18:37:58.487 - INFO:           tubes 		I-Auroc:95.88 	I-F1:92.31 	I-AP:98.16 	P-Auroc:98.97 	P-F1:67.11 	P-AP:72.02
+25-07-13 18:37:58.487 - INFO:         Average 		I-Auroc:72.00 	I-F1:77.70 	I-AP:76.93 	P-Auroc:96.48 	P-F1:33.45 	P-AP:29.52
+25-07-13 18:49:59.244 - INFO: batch_size = 1
+25-07-13 18:49:59.244 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-13 18:49:59.244 - INFO: class_name = candle
+25-07-13 18:49:59.244 - INFO: image_path = asset/img.png
+25-07-13 18:49:59.244 - INFO: image_size = 518
+25-07-13 18:49:59.244 - INFO: k_clusters = 20
+25-07-13 18:49:59.244 - INFO: model = ViT-L-14-336
+25-07-13 18:49:59.244 - INFO: prompting_branch = VL
+25-07-13 18:49:59.245 - INFO: prompting_depth = 4
+25-07-13 18:49:59.245 - INFO: prompting_length = 5
+25-07-13 18:49:59.245 - INFO: prompting_type = SD
+25-07-13 18:49:59.245 - INFO: save_fig = True
+25-07-13 18:49:59.245 - INFO: save_name = test.png
+25-07-13 18:49:59.245 - INFO: save_path = ./workspaces
+25-07-13 18:49:59.245 - INFO: testing_data = sdd
+25-07-13 18:49:59.245 - INFO: testing_model = dataset
+25-07-13 18:49:59.245 - INFO: use_hsf = True
+25-07-13 18:53:42.146 - INFO:             SDD 		I-Auroc:97.01 	I-F1:86.79 	I-AP:92.59 	P-Auroc:97.06 	P-F1:53.35 	P-AP:50.61
+25-07-13 18:53:42.146 - INFO:         Average 		I-Auroc:97.01 	I-F1:86.79 	I-AP:92.59 	P-Auroc:97.06 	P-F1:53.35 	P-AP:50.61
+25-07-14 09:49:00.089 - INFO: batch_size = 1
+25-07-14 09:49:00.089 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-14 09:49:00.089 - INFO: class_name = candle
+25-07-14 09:49:00.089 - INFO: image_path = asset/img.png
+25-07-14 09:49:00.089 - INFO: image_size = 518
+25-07-14 09:49:00.089 - INFO: k_clusters = 20
+25-07-14 09:49:00.089 - INFO: model = ViT-L-14-336
+25-07-14 09:49:00.089 - INFO: prompting_branch = VL
+25-07-14 09:49:00.089 - INFO: prompting_depth = 4
+25-07-14 09:49:00.089 - INFO: prompting_length = 5
+25-07-14 09:49:00.089 - INFO: prompting_type = SD
+25-07-14 09:49:00.089 - INFO: save_fig = True
+25-07-14 09:49:00.090 - INFO: save_name = test.png
+25-07-14 09:49:00.090 - INFO: save_path = ./workspaces
+25-07-14 09:49:00.090 - INFO: testing_data = colondb
+25-07-14 09:49:00.090 - INFO: testing_model = dataset
+25-07-14 09:49:00.090 - INFO: use_hsf = True
+25-07-14 09:53:08.236 - INFO:         ColonDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:96.61 	P-F1:71.24 	P-AP:79.66
+25-07-14 09:53:08.237 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:96.61 	P-F1:71.24 	P-AP:79.66
+25-07-14 09:58:45.872 - INFO: batch_size = 1
+25-07-14 09:58:45.873 - INFO: ckt_path = weights/pretrained_visa_clinicdb.pth
+25-07-14 09:58:45.873 - INFO: class_name = candle
+25-07-14 09:58:45.873 - INFO: image_path = asset/img.png
+25-07-14 09:58:45.873 - INFO: image_size = 518
+25-07-14 09:58:45.873 - INFO: k_clusters = 20
+25-07-14 09:58:45.873 - INFO: model = ViT-L-14-336
+25-07-14 09:58:45.873 - INFO: prompting_branch = VL
+25-07-14 09:58:45.873 - INFO: prompting_depth = 4
+25-07-14 09:58:45.873 - INFO: prompting_length = 5
+25-07-14 09:58:45.873 - INFO: prompting_type = SD
+25-07-14 09:58:45.873 - INFO: save_fig = True
+25-07-14 09:58:45.873 - INFO: save_name = test.png
+25-07-14 09:58:45.873 - INFO: save_path = ./workspaces
+25-07-14 09:58:45.873 - INFO: testing_data = colondb
+25-07-14 09:58:45.873 - INFO: testing_model = dataset
+25-07-14 09:58:45.874 - INFO: use_hsf = True
+25-07-14 10:02:45.433 - INFO:         ColonDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:90.22 	P-F1:59.87 	P-AP:64.29
+25-07-14 10:02:45.433 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:90.22 	P-F1:59.87 	P-AP:64.29
+25-07-16 12:10:26.935 - INFO: batch_size = 1
+25-07-16 12:10:26.935 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-16 12:10:26.935 - INFO: class_name = candle
+25-07-16 12:10:26.935 - INFO: image_path = asset/img.png
+25-07-16 12:10:26.935 - INFO: image_size = 518
+25-07-16 12:10:26.935 - INFO: k_clusters = 20
+25-07-16 12:10:26.935 - INFO: model = ViT-L-14-336
+25-07-16 12:10:26.935 - INFO: prompting_branch = VL
+25-07-16 12:10:26.935 - INFO: prompting_depth = 4
+25-07-16 12:10:26.935 - INFO: prompting_length = 5
+25-07-16 12:10:26.936 - INFO: prompting_type = SD
+25-07-16 12:10:26.936 - INFO: save_fig = False
+25-07-16 12:10:26.936 - INFO: save_name = test.png
+25-07-16 12:10:26.936 - INFO: save_path = ./workspaces
+25-07-16 12:10:26.936 - INFO: testing_data = brain_mri
+25-07-16 12:10:26.936 - INFO: testing_model = dataset
+25-07-16 12:10:26.936 - INFO: use_hsf = True
+25-07-16 12:12:10.110 - INFO:       brain_mri 		I-Auroc:75.36 	I-F1:82.97 	I-AP:79.16 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-16 12:12:10.111 - INFO:         Average 		I-Auroc:75.36 	I-F1:82.97 	I-AP:79.16 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-16 12:15:54.982 - INFO: batch_size = 1
+25-07-16 12:15:54.982 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-16 12:15:54.982 - INFO: class_name = candle
+25-07-16 12:15:54.982 - INFO: image_path = asset/img.png
+25-07-16 12:15:54.982 - INFO: image_size = 518
+25-07-16 12:15:54.982 - INFO: k_clusters = 20
+25-07-16 12:15:54.982 - INFO: model = ViT-L-14-336
+25-07-16 12:15:54.982 - INFO: prompting_branch = VL
+25-07-16 12:15:54.982 - INFO: prompting_depth = 4
+25-07-16 12:15:54.982 - INFO: prompting_length = 5
+25-07-16 12:15:54.982 - INFO: prompting_type = SD
+25-07-16 12:15:54.982 - INFO: save_fig = False
+25-07-16 12:15:54.982 - INFO: save_name = test.png
+25-07-16 12:15:54.983 - INFO: save_path = ./workspaces
+25-07-16 12:15:54.983 - INFO: testing_data = clinicdb
+25-07-16 12:15:54.983 - INFO: testing_model = dataset
+25-07-16 12:15:54.983 - INFO: use_hsf = True
+25-07-16 12:23:00.825 - INFO:        ClinicDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:77.48 	P-F1:36.49 	P-AP:37.59
+25-07-16 12:23:00.825 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:77.48 	P-F1:36.49 	P-AP:37.59
+25-07-17 14:28:30.387 - INFO: batch_size = 1
+25-07-17 14:28:30.387 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-17 14:28:30.387 - INFO: class_name = candle
+25-07-17 14:28:30.387 - INFO: image_path = asset/img.png
+25-07-17 14:28:30.387 - INFO: image_size = 518
+25-07-17 14:28:30.387 - INFO: k_clusters = 20
+25-07-17 14:28:30.387 - INFO: model = ViT-L-14-336
+25-07-17 14:28:30.387 - INFO: prompting_branch = VL
+25-07-17 14:28:30.387 - INFO: prompting_depth = 4
+25-07-17 14:28:30.387 - INFO: prompting_length = 5
+25-07-17 14:28:30.387 - INFO: prompting_type = SD
+25-07-17 14:28:30.387 - INFO: save_fig = False
+25-07-17 14:28:30.387 - INFO: save_name = test.png
+25-07-17 14:28:30.388 - INFO: save_path = ./workspaces
+25-07-17 14:28:30.388 - INFO: testing_data = brain_mri
+25-07-17 14:28:30.388 - INFO: testing_model = dataset
+25-07-17 14:28:30.388 - INFO: use_hsf = True
+25-07-17 14:30:07.089 - INFO:       brain_mri 		I-Auroc:88.14 	I-F1:85.80 	I-AP:91.74 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-17 14:30:07.089 - INFO:         Average 		I-Auroc:88.14 	I-F1:85.80 	I-AP:91.74 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-17 14:34:05.575 - INFO: batch_size = 1
+25-07-17 14:34:05.575 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-17 14:34:05.575 - INFO: class_name = candle
+25-07-17 14:34:05.575 - INFO: image_path = asset/img.png
+25-07-17 14:34:05.575 - INFO: image_size = 518
+25-07-17 14:34:05.575 - INFO: k_clusters = 20
+25-07-17 14:34:05.575 - INFO: model = ViT-L-14-336
+25-07-17 14:34:05.575 - INFO: prompting_branch = VL
+25-07-17 14:34:05.575 - INFO: prompting_depth = 4
+25-07-17 14:34:05.576 - INFO: prompting_length = 5
+25-07-17 14:34:05.576 - INFO: prompting_type = SD
+25-07-17 14:34:05.576 - INFO: save_fig = False
+25-07-17 14:34:05.576 - INFO: save_name = test.png
+25-07-17 14:34:05.576 - INFO: save_path = ./workspaces
+25-07-17 14:34:05.576 - INFO: testing_data = ksdd
+25-07-17 14:34:05.576 - INFO: testing_model = dataset
+25-07-17 14:34:05.576 - INFO: use_hsf = True
+25-07-17 14:34:17.067 - INFO: batch_size = 1
+25-07-17 14:34:17.067 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-17 14:34:17.067 - INFO: class_name = candle
+25-07-17 14:34:17.067 - INFO: image_path = asset/img.png
+25-07-17 14:34:17.067 - INFO: image_size = 518
+25-07-17 14:34:17.067 - INFO: k_clusters = 20
+25-07-17 14:34:17.067 - INFO: model = ViT-L-14-336
+25-07-17 14:34:17.067 - INFO: prompting_branch = VL
+25-07-17 14:34:17.067 - INFO: prompting_depth = 4
+25-07-17 14:34:17.067 - INFO: prompting_length = 5
+25-07-17 14:34:17.067 - INFO: prompting_type = SD
+25-07-17 14:34:17.067 - INFO: save_fig = False
+25-07-17 14:34:17.068 - INFO: save_name = test.png
+25-07-17 14:34:17.068 - INFO: save_path = ./workspaces
+25-07-17 14:34:17.068 - INFO: testing_data = sdd
+25-07-17 14:34:17.068 - INFO: testing_model = dataset
+25-07-17 14:34:17.068 - INFO: use_hsf = True
+25-07-17 14:38:13.276 - INFO:             SDD 		I-Auroc:97.26 	I-F1:87.04 	I-AP:91.52 	P-Auroc:96.65 	P-F1:49.86 	P-AP:43.76
+25-07-17 14:38:13.276 - INFO:         Average 		I-Auroc:97.26 	I-F1:87.04 	I-AP:91.52 	P-Auroc:96.65 	P-F1:49.86 	P-AP:43.76
+25-07-17 14:39:34.266 - INFO: batch_size = 1
+25-07-17 14:39:34.266 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-17 14:39:34.267 - INFO: class_name = candle
+25-07-17 14:39:34.267 - INFO: image_path = asset/img.png
+25-07-17 14:39:34.267 - INFO: image_size = 518
+25-07-17 14:39:34.267 - INFO: k_clusters = 20
+25-07-17 14:39:34.267 - INFO: model = ViT-L-14-336
+25-07-17 14:39:34.267 - INFO: prompting_branch = VL
+25-07-17 14:39:34.267 - INFO: prompting_depth = 4
+25-07-17 14:39:34.267 - INFO: prompting_length = 5
+25-07-17 14:39:34.267 - INFO: prompting_type = SD
+25-07-17 14:39:34.267 - INFO: save_fig = False
+25-07-17 14:39:34.267 - INFO: save_name = test.png
+25-07-17 14:39:34.267 - INFO: save_path = ./workspaces
+25-07-17 14:39:34.267 - INFO: testing_data = btad
+25-07-17 14:39:34.267 - INFO: testing_model = dataset
+25-07-17 14:39:34.268 - INFO: use_hsf = True
+25-07-17 14:47:06.863 - INFO:              01 		I-Auroc:94.85 	I-F1:92.31 	I-AP:97.73 	P-Auroc:82.17 	P-F1:30.69 	P-AP:24.10
+25-07-17 14:47:06.863 - INFO:              02 		I-Auroc:85.97 	I-F1:93.81 	I-AP:97.72 	P-Auroc:93.60 	P-F1:62.01 	P-AP:63.99
+25-07-17 14:47:06.863 - INFO:              03 		I-Auroc:99.03 	I-F1:87.18 	I-AP:93.56 	P-Auroc:95.08 	P-F1:21.78 	P-AP:11.43
+25-07-17 14:47:06.864 - INFO:         Average 		I-Auroc:93.28 	I-F1:91.10 	I-AP:96.34 	P-Auroc:90.28 	P-F1:38.16 	P-AP:33.17
+25-07-17 14:47:47.413 - INFO: batch_size = 1
+25-07-17 14:47:47.413 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-17 14:47:47.413 - INFO: class_name = candle
+25-07-17 14:47:47.413 - INFO: image_path = asset/img.png
+25-07-17 14:47:47.413 - INFO: image_size = 518
+25-07-17 14:47:47.414 - INFO: k_clusters = 20
+25-07-17 14:47:47.414 - INFO: model = ViT-L-14-336
+25-07-17 14:47:47.414 - INFO: prompting_branch = VL
+25-07-17 14:47:47.414 - INFO: prompting_depth = 4
+25-07-17 14:47:47.414 - INFO: prompting_length = 5
+25-07-17 14:47:47.414 - INFO: prompting_type = SD
+25-07-17 14:47:47.414 - INFO: save_fig = False
+25-07-17 14:47:47.414 - INFO: save_name = test.png
+25-07-17 14:47:47.414 - INFO: save_path = ./workspaces
+25-07-17 14:47:47.414 - INFO: testing_data = clinicdb
+25-07-17 14:47:47.414 - INFO: testing_model = dataset
+25-07-17 14:47:47.414 - INFO: use_hsf = True
+25-07-17 14:54:27.938 - INFO:        ClinicDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:90.88 	P-F1:61.89 	P-AP:67.56
+25-07-17 14:54:27.938 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:90.88 	P-F1:61.89 	P-AP:67.56
+25-07-17 14:55:12.117 - INFO: batch_size = 1
+25-07-17 14:55:12.118 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-17 14:55:12.118 - INFO: class_name = candle
+25-07-17 14:55:12.118 - INFO: image_path = asset/img.png
+25-07-17 14:55:12.118 - INFO: image_size = 518
+25-07-17 14:55:12.118 - INFO: k_clusters = 20
+25-07-17 14:55:12.118 - INFO: model = ViT-L-14-336
+25-07-17 14:55:12.118 - INFO: prompting_branch = VL
+25-07-17 14:55:12.118 - INFO: prompting_depth = 4
+25-07-17 14:55:12.118 - INFO: prompting_length = 5
+25-07-17 14:55:12.118 - INFO: prompting_type = SD
+25-07-17 14:55:12.118 - INFO: save_fig = False
+25-07-17 14:55:12.118 - INFO: save_name = test.png
+25-07-17 14:55:12.118 - INFO: save_path = ./workspaces
+25-07-17 14:55:12.119 - INFO: testing_data = mpdd
+25-07-17 14:55:12.119 - INFO: testing_model = dataset
+25-07-17 14:55:12.119 - INFO: use_hsf = True
+25-07-17 15:00:07.859 - INFO:   bracket_black 		I-Auroc:56.12 	I-F1:75.41 	I-AP:62.28 	P-Auroc:92.01 	P-F1:13.02 	P-AP:4.34
+25-07-17 15:00:07.860 - INFO:   bracket_brown 		I-Auroc:53.58 	I-F1:81.60 	I-AP:71.26 	P-Auroc:90.13 	P-F1:12.27 	P-AP:5.27
+25-07-17 15:00:07.860 - INFO:   bracket_white 		I-Auroc:71.50 	I-F1:80.00 	I-AP:63.34 	P-Auroc:95.74 	P-F1:3.82 	P-AP:1.31
+25-07-17 15:00:07.860 - INFO:       connector 		I-Auroc:80.95 	I-F1:66.67 	I-AP:67.65 	P-Auroc:97.75 	P-F1:37.40 	P-AP:34.50
+25-07-17 15:00:07.860 - INFO:     metal_plate 		I-Auroc:78.52 	I-F1:88.05 	I-AP:91.64 	P-Auroc:94.11 	P-F1:66.45 	P-AP:55.70
+25-07-17 15:00:07.860 - INFO:           tubes 		I-Auroc:96.35 	I-F1:94.20 	I-AP:98.16 	P-Auroc:98.52 	P-F1:58.91 	P-AP:61.17
+25-07-17 15:00:07.860 - INFO:         Average 		I-Auroc:72.84 	I-F1:80.99 	I-AP:75.72 	P-Auroc:94.71 	P-F1:31.98 	P-AP:27.05
+25-07-18 10:29:20.086 - INFO: batch_size = 1
+25-07-18 10:29:20.086 - INFO: ckt_path = /home/spec/code/wjx/AdaCLIP/weights/pretrained_mvtec_colondb.pth
+25-07-18 10:29:20.086 - INFO: class_name = candle
+25-07-18 10:29:20.086 - INFO: image_path = asset/img.png
+25-07-18 10:29:20.087 - INFO: image_size = 518
+25-07-18 10:29:20.087 - INFO: k_clusters = 20
+25-07-18 10:29:20.087 - INFO: model = ViT-L-14-336
+25-07-18 10:29:20.087 - INFO: prompting_branch = VL
+25-07-18 10:29:20.087 - INFO: prompting_depth = 4
+25-07-18 10:29:20.087 - INFO: prompting_length = 5
+25-07-18 10:29:20.087 - INFO: prompting_type = SD
+25-07-18 10:29:20.087 - INFO: save_fig = False
+25-07-18 10:29:20.087 - INFO: save_name = test.png
+25-07-18 10:29:20.087 - INFO: save_path = ./workspaces
+25-07-18 10:29:20.087 - INFO: testing_data = brain_mri
+25-07-18 10:29:20.087 - INFO: testing_model = dataset
+25-07-18 10:29:20.087 - INFO: use_hsf = True
+25-07-18 10:31:03.387 - INFO:       brain_mri 		I-Auroc:97.47 	I-F1:94.87 	I-AP:98.36 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 10:31:03.387 - INFO:         Average 		I-Auroc:97.47 	I-F1:94.87 	I-AP:98.36 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 10:32:47.843 - INFO: batch_size = 1
+25-07-18 10:32:47.843 - INFO: ckt_path = /home/spec/code/wjx/AdaCLIP/weights/pretrained_mvtec_colondb.pth
+25-07-18 10:32:47.843 - INFO: class_name = candle
+25-07-18 10:32:47.843 - INFO: image_path = asset/img.png
+25-07-18 10:32:47.843 - INFO: image_size = 518
+25-07-18 10:32:47.843 - INFO: k_clusters = 20
+25-07-18 10:32:47.843 - INFO: model = ViT-L-14-336
+25-07-18 10:32:47.843 - INFO: prompting_branch = VL
+25-07-18 10:32:47.843 - INFO: prompting_depth = 4
+25-07-18 10:32:47.844 - INFO: prompting_length = 5
+25-07-18 10:32:47.844 - INFO: prompting_type = SD
+25-07-18 10:32:47.844 - INFO: save_fig = False
+25-07-18 10:32:47.844 - INFO: save_name = test.png
+25-07-18 10:32:47.844 - INFO: save_path = ./workspaces
+25-07-18 10:32:47.844 - INFO: testing_data = mpdd
+25-07-18 10:32:47.844 - INFO: testing_model = dataset
+25-07-18 10:32:47.844 - INFO: use_hsf = True
+25-07-18 10:38:13.781 - INFO:   bracket_black 		I-Auroc:65.03 	I-F1:76.67 	I-AP:75.47 	P-Auroc:93.06 	P-F1:11.45 	P-AP:5.42
+25-07-18 10:38:13.782 - INFO:   bracket_brown 		I-Auroc:44.27 	I-F1:79.69 	I-AP:67.57 	P-Auroc:94.29 	P-F1:12.48 	P-AP:5.72
+25-07-18 10:38:13.782 - INFO:   bracket_white 		I-Auroc:76.83 	I-F1:80.00 	I-AP:66.26 	P-Auroc:98.13 	P-F1:3.85 	P-AP:1.37
+25-07-18 10:38:13.782 - INFO:       connector 		I-Auroc:63.45 	I-F1:53.06 	I-AP:52.52 	P-Auroc:95.28 	P-F1:38.08 	P-AP:31.57
+25-07-18 10:38:13.782 - INFO:     metal_plate 		I-Auroc:87.89 	I-F1:91.03 	I-AP:95.24 	P-Auroc:93.25 	P-F1:64.14 	P-AP:54.23
+25-07-18 10:38:13.782 - INFO:           tubes 		I-Auroc:91.80 	I-F1:91.43 	I-AP:96.16 	P-Auroc:98.88 	P-F1:65.23 	P-AP:68.73
+25-07-18 10:38:13.782 - INFO:         Average 		I-Auroc:71.55 	I-F1:78.64 	I-AP:75.54 	P-Auroc:95.48 	P-F1:32.54 	P-AP:27.84
+25-07-18 10:39:01.815 - INFO: batch_size = 1
+25-07-18 10:39:01.815 - INFO: ckt_path = /home/spec/code/wjx/AdaCLIP/weights/pretrained_mvtec_colondb.pth
+25-07-18 10:39:01.815 - INFO: class_name = candle
+25-07-18 10:39:01.815 - INFO: image_path = asset/img.png
+25-07-18 10:39:01.816 - INFO: image_size = 518
+25-07-18 10:39:01.816 - INFO: k_clusters = 20
+25-07-18 10:39:01.816 - INFO: model = ViT-L-14-336
+25-07-18 10:39:01.816 - INFO: prompting_branch = VL
+25-07-18 10:39:01.816 - INFO: prompting_depth = 4
+25-07-18 10:39:01.816 - INFO: prompting_length = 5
+25-07-18 10:39:01.816 - INFO: prompting_type = SD
+25-07-18 10:39:01.816 - INFO: save_fig = False
+25-07-18 10:39:01.816 - INFO: save_name = test.png
+25-07-18 10:39:01.816 - INFO: save_path = ./workspaces
+25-07-18 10:39:01.816 - INFO: testing_data = clinicdb
+25-07-18 10:39:01.816 - INFO: testing_model = dataset
+25-07-18 10:39:01.816 - INFO: use_hsf = True
+25-07-18 10:46:19.072 - INFO:        ClinicDB 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:88.71 	P-F1:59.65 	P-AP:63.92
+25-07-18 10:46:19.073 - INFO:         Average 		I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00 	P-Auroc:88.71 	P-F1:59.65 	P-AP:63.92
+25-07-18 10:47:34.442 - INFO: batch_size = 1
+25-07-18 10:47:34.442 - INFO: ckt_path = /home/spec/code/wjx/AdaCLIP/weights/pretrained_mvtec_colondb.pth
+25-07-18 10:47:34.442 - INFO: class_name = candle
+25-07-18 10:47:34.442 - INFO: image_path = asset/img.png
+25-07-18 10:47:34.442 - INFO: image_size = 518
+25-07-18 10:47:34.442 - INFO: k_clusters = 20
+25-07-18 10:47:34.442 - INFO: model = ViT-L-14-336
+25-07-18 10:47:34.442 - INFO: prompting_branch = VL
+25-07-18 10:47:34.442 - INFO: prompting_depth = 4
+25-07-18 10:47:34.442 - INFO: prompting_length = 5
+25-07-18 10:47:34.443 - INFO: prompting_type = SD
+25-07-18 10:47:34.443 - INFO: save_fig = False
+25-07-18 10:47:34.443 - INFO: save_name = test.png
+25-07-18 10:47:34.443 - INFO: save_path = ./workspaces
+25-07-18 10:47:34.443 - INFO: testing_data = btad
+25-07-18 10:47:34.443 - INFO: testing_model = dataset
+25-07-18 10:47:34.443 - INFO: use_hsf = True
+25-07-18 10:55:23.748 - INFO:              01 		I-Auroc:93.97 	I-F1:91.67 	I-AP:97.58 	P-Auroc:84.82 	P-F1:39.62 	P-AP:34.81
+25-07-18 10:55:23.748 - INFO:              02 		I-Auroc:81.97 	I-F1:93.18 	I-AP:96.97 	P-Auroc:93.66 	P-F1:65.43 	P-AP:67.50
+25-07-18 10:55:23.748 - INFO:              03 		I-Auroc:97.01 	I-F1:76.06 	I-AP:86.08 	P-Auroc:96.07 	P-F1:41.08 	P-AP:35.76
+25-07-18 10:55:23.748 - INFO:         Average 		I-Auroc:90.99 	I-F1:86.97 	I-AP:93.55 	P-Auroc:91.52 	P-F1:48.71 	P-AP:46.02
+25-07-18 10:56:41.587 - INFO: batch_size = 1
+25-07-18 10:56:41.588 - INFO: ckt_path = /home/spec/code/wjx/AdaCLIP/weights/pretrained_mvtec_colondb.pth
+25-07-18 10:56:41.588 - INFO: class_name = candle
+25-07-18 10:56:41.588 - INFO: image_path = asset/img.png
+25-07-18 10:56:41.588 - INFO: image_size = 518
+25-07-18 10:56:41.588 - INFO: k_clusters = 20
+25-07-18 10:56:41.588 - INFO: model = ViT-L-14-336
+25-07-18 10:56:41.588 - INFO: prompting_branch = VL
+25-07-18 10:56:41.588 - INFO: prompting_depth = 4
+25-07-18 10:56:41.588 - INFO: prompting_length = 5
+25-07-18 10:56:41.588 - INFO: prompting_type = SD
+25-07-18 10:56:41.588 - INFO: save_fig = False
+25-07-18 10:56:41.588 - INFO: save_name = test.png
+25-07-18 10:56:41.588 - INFO: save_path = ./workspaces
+25-07-18 10:56:41.588 - INFO: testing_data = sdd
+25-07-18 10:56:41.588 - INFO: testing_model = dataset
+25-07-18 10:56:41.589 - INFO: use_hsf = True
+25-07-18 11:00:50.575 - INFO:             SDD 		I-Auroc:97.56 	I-F1:88.00 	I-AP:92.42 	P-Auroc:98.09 	P-F1:53.04 	P-AP:49.61
+25-07-18 11:00:50.575 - INFO:         Average 		I-Auroc:97.56 	I-F1:88.00 	I-AP:92.42 	P-Auroc:98.09 	P-F1:53.04 	P-AP:49.61
+25-07-18 17:29:13.038 - INFO: batch_size = 1
+25-07-18 17:29:13.038 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 17:29:13.038 - INFO: class_name = candle
+25-07-18 17:29:13.038 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 17:29:13.039 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 17:29:13.039 - INFO: image_path = asset/img.png
+25-07-18 17:29:13.039 - INFO: image_size = 518
+25-07-18 17:29:13.039 - INFO: k_clusters = 20
+25-07-18 17:29:13.039 - INFO: model = ViT-L-14-336
+25-07-18 17:29:13.039 - INFO: prompting_branch = VL
+25-07-18 17:29:13.039 - INFO: prompting_depth = 4
+25-07-18 17:29:13.039 - INFO: prompting_length = 5
+25-07-18 17:29:13.039 - INFO: prompting_type = SD
+25-07-18 17:29:13.039 - INFO: save_fig = False
+25-07-18 17:29:13.039 - INFO: save_name = test.png
+25-07-18 17:29:13.039 - INFO: save_path = ./workspaces
+25-07-18 17:29:13.039 - INFO: testing_data = brain_mri
+25-07-18 17:29:13.039 - INFO: testing_model = dataset
+25-07-18 17:29:13.039 - INFO: use_hsf = True
+25-07-18 17:30:58.254 - INFO: batch_size = 1
+25-07-18 17:30:58.254 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 17:30:58.254 - INFO: class_name = candle
+25-07-18 17:30:58.255 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 17:30:58.255 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 17:30:58.255 - INFO: image_path = asset/img.png
+25-07-18 17:30:58.255 - INFO: image_size = 518
+25-07-18 17:30:58.255 - INFO: k_clusters = 20
+25-07-18 17:30:58.255 - INFO: model = ViT-L-14-336
+25-07-18 17:30:58.255 - INFO: prompting_branch = VL
+25-07-18 17:30:58.255 - INFO: prompting_depth = 4
+25-07-18 17:30:58.255 - INFO: prompting_length = 5
+25-07-18 17:30:58.255 - INFO: prompting_type = SD
+25-07-18 17:30:58.255 - INFO: save_fig = False
+25-07-18 17:30:58.255 - INFO: save_name = test.png
+25-07-18 17:30:58.255 - INFO: save_path = ./workspaces
+25-07-18 17:30:58.255 - INFO: testing_data = brain_mri
+25-07-18 17:30:58.255 - INFO: testing_model = dataset
+25-07-18 17:30:58.255 - INFO: use_hsf = True
+25-07-18 17:33:09.959 - INFO:       brain_mri 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 17:33:09.959 - INFO:         Average 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 17:38:39.619 - INFO: batch_size = 1
+25-07-18 17:38:39.619 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 17:38:39.620 - INFO: class_name = candle
+25-07-18 17:38:39.620 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 17:38:39.620 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 17:38:39.620 - INFO: image_path = asset/img.png
+25-07-18 17:38:39.620 - INFO: image_size = 518
+25-07-18 17:38:39.620 - INFO: k_clusters = 20
+25-07-18 17:38:39.620 - INFO: model = ViT-L-14-336
+25-07-18 17:38:39.620 - INFO: prompting_branch = VL
+25-07-18 17:38:39.620 - INFO: prompting_depth = 4
+25-07-18 17:38:39.620 - INFO: prompting_length = 5
+25-07-18 17:38:39.620 - INFO: prompting_type = SD
+25-07-18 17:38:39.620 - INFO: save_fig = False
+25-07-18 17:38:39.620 - INFO: save_name = test.png
+25-07-18 17:38:39.620 - INFO: save_path = ./workspaces
+25-07-18 17:38:39.620 - INFO: testing_data = brain_mri
+25-07-18 17:38:39.620 - INFO: testing_model = dataset
+25-07-18 17:38:39.621 - INFO: use_hsf = True
+25-07-18 17:40:41.794 - INFO:       brain_mri 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 17:40:41.794 - INFO:         Average 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 17:43:23.287 - INFO: batch_size = 1
+25-07-18 17:43:23.287 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 17:43:23.287 - INFO: class_name = candle
+25-07-18 17:43:23.287 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 17:43:23.287 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 17:43:23.287 - INFO: image_path = asset/img.png
+25-07-18 17:43:23.287 - INFO: image_size = 518
+25-07-18 17:43:23.287 - INFO: k_clusters = 20
+25-07-18 17:43:23.287 - INFO: model = ViT-L-14-336
+25-07-18 17:43:23.287 - INFO: prompting_branch = VL
+25-07-18 17:43:23.288 - INFO: prompting_depth = 4
+25-07-18 17:43:23.288 - INFO: prompting_length = 5
+25-07-18 17:43:23.288 - INFO: prompting_type = SD
+25-07-18 17:43:23.288 - INFO: save_fig = False
+25-07-18 17:43:23.288 - INFO: save_name = test.png
+25-07-18 17:43:23.288 - INFO: save_path = ./workspaces
+25-07-18 17:43:23.288 - INFO: testing_data = brain_mri
+25-07-18 17:43:23.288 - INFO: testing_model = dataset
+25-07-18 17:43:23.288 - INFO: use_hsf = True
+25-07-18 17:45:28.317 - INFO:       brain_mri 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 17:45:28.317 - INFO:         Average 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 17:51:00.797 - INFO: batch_size = 1
+25-07-18 17:51:00.797 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 17:51:00.797 - INFO: class_name = candle
+25-07-18 17:51:00.797 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 17:51:00.797 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 17:51:00.797 - INFO: image_path = asset/img.png
+25-07-18 17:51:00.798 - INFO: image_size = 518
+25-07-18 17:51:00.798 - INFO: k_clusters = 20
+25-07-18 17:51:00.798 - INFO: model = ViT-L-14-336
+25-07-18 17:51:00.798 - INFO: prompting_branch = VL
+25-07-18 17:51:00.798 - INFO: prompting_depth = 4
+25-07-18 17:51:00.798 - INFO: prompting_length = 5
+25-07-18 17:51:00.798 - INFO: prompting_type = SD
+25-07-18 17:51:00.798 - INFO: save_fig = False
+25-07-18 17:51:00.798 - INFO: save_name = test.png
+25-07-18 17:51:00.798 - INFO: save_path = ./workspaces
+25-07-18 17:51:00.798 - INFO: testing_data = brain_mri
+25-07-18 17:51:00.798 - INFO: testing_model = dataset
+25-07-18 17:51:00.798 - INFO: use_hsf = True
+25-07-18 17:52:59.569 - INFO: batch_size = 1
+25-07-18 17:52:59.569 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 17:52:59.569 - INFO: class_name = candle
+25-07-18 17:52:59.569 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 17:52:59.569 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 17:52:59.569 - INFO: image_path = asset/img.png
+25-07-18 17:52:59.569 - INFO: image_size = 518
+25-07-18 17:52:59.569 - INFO: k_clusters = 20
+25-07-18 17:52:59.569 - INFO: model = ViT-L-14-336
+25-07-18 17:52:59.569 - INFO: prompting_branch = VL
+25-07-18 17:52:59.569 - INFO: prompting_depth = 4
+25-07-18 17:52:59.569 - INFO: prompting_length = 5
+25-07-18 17:52:59.569 - INFO: prompting_type = SD
+25-07-18 17:52:59.570 - INFO: save_fig = False
+25-07-18 17:52:59.570 - INFO: save_name = test.png
+25-07-18 17:52:59.570 - INFO: save_path = ./workspaces
+25-07-18 17:52:59.570 - INFO: testing_data = brain_mri
+25-07-18 17:52:59.570 - INFO: testing_model = dataset
+25-07-18 17:52:59.570 - INFO: use_hsf = True
+25-07-18 17:55:02.918 - INFO:       brain_mri 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 17:55:02.918 - INFO:         Average 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 17:59:51.845 - INFO: batch_size = 1
+25-07-18 17:59:51.845 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 17:59:51.845 - INFO: class_name = candle
+25-07-18 17:59:51.845 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 17:59:51.845 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 17:59:51.846 - INFO: image_path = asset/img.png
+25-07-18 17:59:51.846 - INFO: image_size = 518
+25-07-18 17:59:51.846 - INFO: k_clusters = 20
+25-07-18 17:59:51.846 - INFO: model = ViT-L-14-336
+25-07-18 17:59:51.846 - INFO: prompting_branch = VL
+25-07-18 17:59:51.846 - INFO: prompting_depth = 4
+25-07-18 17:59:51.846 - INFO: prompting_length = 5
+25-07-18 17:59:51.846 - INFO: prompting_type = SD
+25-07-18 17:59:51.846 - INFO: save_fig = False
+25-07-18 17:59:51.846 - INFO: save_name = test.png
+25-07-18 17:59:51.846 - INFO: save_path = ./workspaces
+25-07-18 17:59:51.846 - INFO: testing_data = brain_mri
+25-07-18 17:59:51.846 - INFO: testing_model = dataset
+25-07-18 17:59:51.846 - INFO: use_hsf = True
+25-07-18 18:01:51.671 - INFO:       brain_mri 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 18:01:51.671 - INFO:         Average 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 22:07:23.185 - INFO: batch_size = 1
+25-07-18 22:07:23.185 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 22:07:23.185 - INFO: class_name = candle
+25-07-18 22:07:23.185 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 22:07:23.185 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 22:07:23.185 - INFO: image_path = asset/img.png
+25-07-18 22:07:23.185 - INFO: image_size = 518
+25-07-18 22:07:23.185 - INFO: k_clusters = 20
+25-07-18 22:07:23.185 - INFO: model = ViT-L-14-336
+25-07-18 22:07:23.185 - INFO: prompting_branch = VL
+25-07-18 22:07:23.185 - INFO: prompting_depth = 4
+25-07-18 22:07:23.185 - INFO: prompting_length = 5
+25-07-18 22:07:23.186 - INFO: prompting_type = SD
+25-07-18 22:07:23.186 - INFO: save_fig = False
+25-07-18 22:07:23.186 - INFO: save_name = test.png
+25-07-18 22:07:23.186 - INFO: save_path = ./workspaces
+25-07-18 22:07:23.186 - INFO: testing_data = brain_mri
+25-07-18 22:07:23.186 - INFO: testing_model = dataset
+25-07-18 22:07:23.186 - INFO: use_hsf = True
+25-07-18 22:09:43.350 - INFO:       brain_mri 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 22:09:43.350 - INFO:         Average 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 22:42:45.899 - INFO: batch_size = 1
+25-07-18 22:42:45.900 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 22:42:45.900 - INFO: class_name = candle
+25-07-18 22:42:45.900 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 22:42:45.900 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 22:42:45.900 - INFO: image_path = asset/img.png
+25-07-18 22:42:45.900 - INFO: image_size = 518
+25-07-18 22:42:45.900 - INFO: k_clusters = 20
+25-07-18 22:42:45.900 - INFO: model = ViT-L-14-336
+25-07-18 22:42:45.900 - INFO: prompting_branch = VL
+25-07-18 22:42:45.900 - INFO: prompting_depth = 4
+25-07-18 22:42:45.900 - INFO: prompting_length = 5
+25-07-18 22:42:45.900 - INFO: prompting_type = SD
+25-07-18 22:42:45.900 - INFO: save_fig = False
+25-07-18 22:42:45.900 - INFO: save_name = test.png
+25-07-18 22:42:45.900 - INFO: save_path = ./workspaces
+25-07-18 22:42:45.901 - INFO: testing_data = brain_mri
+25-07-18 22:42:45.901 - INFO: testing_model = dataset
+25-07-18 22:42:45.901 - INFO: use_hsf = True
+25-07-18 23:10:23.656 - INFO: batch_size = 1
+25-07-18 23:10:23.656 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 23:10:23.656 - INFO: class_name = candle
+25-07-18 23:10:23.656 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 23:10:23.656 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 23:10:23.656 - INFO: image_path = asset/img.png
+25-07-18 23:10:23.657 - INFO: image_size = 518
+25-07-18 23:10:23.657 - INFO: k_clusters = 20
+25-07-18 23:10:23.657 - INFO: model = ViT-L-14-336
+25-07-18 23:10:23.657 - INFO: prompting_branch = VL
+25-07-18 23:10:23.657 - INFO: prompting_depth = 4
+25-07-18 23:10:23.657 - INFO: prompting_length = 5
+25-07-18 23:10:23.657 - INFO: prompting_type = SD
+25-07-18 23:10:23.657 - INFO: save_fig = False
+25-07-18 23:10:23.657 - INFO: save_name = test.png
+25-07-18 23:10:23.657 - INFO: save_path = ./workspaces
+25-07-18 23:10:23.657 - INFO: testing_data = brain_mri
+25-07-18 23:10:23.657 - INFO: testing_model = dataset
+25-07-18 23:10:23.657 - INFO: use_hsf = True
+25-07-18 23:19:57.330 - INFO: batch_size = 1
+25-07-18 23:19:57.331 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 23:19:57.331 - INFO: class_name = candle
+25-07-18 23:19:57.331 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 23:19:57.331 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 23:19:57.331 - INFO: image_path = asset/img.png
+25-07-18 23:19:57.331 - INFO: image_size = 518
+25-07-18 23:19:57.331 - INFO: k_clusters = 20
+25-07-18 23:19:57.331 - INFO: model = ViT-L-14-336
+25-07-18 23:19:57.331 - INFO: prompting_branch = VL
+25-07-18 23:19:57.331 - INFO: prompting_depth = 4
+25-07-18 23:19:57.331 - INFO: prompting_length = 5
+25-07-18 23:19:57.331 - INFO: prompting_type = SD
+25-07-18 23:19:57.331 - INFO: save_fig = False
+25-07-18 23:19:57.332 - INFO: save_name = test.png
+25-07-18 23:19:57.332 - INFO: save_path = ./workspaces
+25-07-18 23:19:57.332 - INFO: testing_data = brain_mri
+25-07-18 23:19:57.332 - INFO: testing_model = dataset
+25-07-18 23:19:57.332 - INFO: use_hsf = True
+25-07-18 23:21:52.591 - INFO: batch_size = 1
+25-07-18 23:21:52.591 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 23:21:52.591 - INFO: class_name = candle
+25-07-18 23:21:52.591 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 23:21:52.591 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 23:21:52.591 - INFO: image_path = asset/img.png
+25-07-18 23:21:52.591 - INFO: image_size = 518
+25-07-18 23:21:52.591 - INFO: k_clusters = 20
+25-07-18 23:21:52.591 - INFO: model = ViT-L-14-336
+25-07-18 23:21:52.591 - INFO: prompting_branch = VL
+25-07-18 23:21:52.591 - INFO: prompting_depth = 4
+25-07-18 23:21:52.591 - INFO: prompting_length = 5
+25-07-18 23:21:52.592 - INFO: prompting_type = SD
+25-07-18 23:21:52.592 - INFO: save_fig = False
+25-07-18 23:21:52.592 - INFO: save_name = test.png
+25-07-18 23:21:52.592 - INFO: save_path = ./workspaces
+25-07-18 23:21:52.592 - INFO: testing_data = brain_mri
+25-07-18 23:21:52.592 - INFO: testing_model = dataset
+25-07-18 23:21:52.592 - INFO: use_hsf = True
+25-07-18 23:25:06.367 - INFO: batch_size = 1
+25-07-18 23:25:06.367 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 23:25:06.367 - INFO: class_name = candle
+25-07-18 23:25:06.367 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 23:25:06.367 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 23:25:06.367 - INFO: image_path = asset/img.png
+25-07-18 23:25:06.368 - INFO: image_size = 518
+25-07-18 23:25:06.368 - INFO: k_clusters = 20
+25-07-18 23:25:06.368 - INFO: model = ViT-L-14-336
+25-07-18 23:25:06.368 - INFO: prompting_branch = VL
+25-07-18 23:25:06.368 - INFO: prompting_depth = 4
+25-07-18 23:25:06.368 - INFO: prompting_length = 5
+25-07-18 23:25:06.368 - INFO: prompting_type = SD
+25-07-18 23:25:06.368 - INFO: save_fig = False
+25-07-18 23:25:06.368 - INFO: save_name = test.png
+25-07-18 23:25:06.368 - INFO: save_path = ./workspaces
+25-07-18 23:25:06.368 - INFO: testing_data = brain_mri
+25-07-18 23:25:06.368 - INFO: testing_model = dataset
+25-07-18 23:25:06.368 - INFO: use_hsf = True
+25-07-18 23:31:06.903 - INFO: batch_size = 1
+25-07-18 23:31:06.903 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 23:31:06.903 - INFO: class_name = candle
+25-07-18 23:31:06.903 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 23:31:06.903 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 23:31:06.903 - INFO: image_path = asset/img.png
+25-07-18 23:31:06.903 - INFO: image_size = 518
+25-07-18 23:31:06.903 - INFO: k_clusters = 20
+25-07-18 23:31:06.903 - INFO: model = ViT-L-14-336
+25-07-18 23:31:06.903 - INFO: prompting_branch = VL
+25-07-18 23:31:06.903 - INFO: prompting_depth = 4
+25-07-18 23:31:06.904 - INFO: prompting_length = 5
+25-07-18 23:31:06.904 - INFO: prompting_type = SD
+25-07-18 23:31:06.904 - INFO: save_fig = False
+25-07-18 23:31:06.904 - INFO: save_name = test.png
+25-07-18 23:31:06.904 - INFO: save_path = ./workspaces
+25-07-18 23:31:06.904 - INFO: testing_data = brain_mri
+25-07-18 23:31:06.904 - INFO: testing_model = dataset
+25-07-18 23:31:06.904 - INFO: use_hsf = True
+25-07-18 23:33:29.556 - INFO: batch_size = 1
+25-07-18 23:33:29.556 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 23:33:29.556 - INFO: class_name = candle
+25-07-18 23:33:29.556 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 23:33:29.557 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 23:33:29.557 - INFO: image_path = asset/img.png
+25-07-18 23:33:29.557 - INFO: image_size = 518
+25-07-18 23:33:29.557 - INFO: k_clusters = 20
+25-07-18 23:33:29.557 - INFO: model = ViT-L-14-336
+25-07-18 23:33:29.557 - INFO: prompting_branch = VL
+25-07-18 23:33:29.557 - INFO: prompting_depth = 4
+25-07-18 23:33:29.557 - INFO: prompting_length = 5
+25-07-18 23:33:29.557 - INFO: prompting_type = SD
+25-07-18 23:33:29.557 - INFO: save_fig = False
+25-07-18 23:33:29.557 - INFO: save_name = test.png
+25-07-18 23:33:29.557 - INFO: save_path = ./workspaces
+25-07-18 23:33:29.557 - INFO: testing_data = brain_mri
+25-07-18 23:33:29.557 - INFO: testing_model = dataset
+25-07-18 23:33:29.557 - INFO: use_hsf = True
+25-07-18 23:35:00.353 - INFO: batch_size = 1
+25-07-18 23:35:00.353 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-18 23:35:00.353 - INFO: class_name = candle
+25-07-18 23:35:00.353 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-18 23:35:00.353 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-18 23:35:00.353 - INFO: image_path = asset/img.png
+25-07-18 23:35:00.353 - INFO: image_size = 518
+25-07-18 23:35:00.353 - INFO: k_clusters = 20
+25-07-18 23:35:00.353 - INFO: model = ViT-L-14-336
+25-07-18 23:35:00.353 - INFO: prompting_branch = VL
+25-07-18 23:35:00.354 - INFO: prompting_depth = 4
+25-07-18 23:35:00.354 - INFO: prompting_length = 5
+25-07-18 23:35:00.354 - INFO: prompting_type = SD
+25-07-18 23:35:00.354 - INFO: save_fig = False
+25-07-18 23:35:00.354 - INFO: save_name = test.png
+25-07-18 23:35:00.354 - INFO: save_path = ./workspaces
+25-07-18 23:35:00.354 - INFO: testing_data = brain_mri
+25-07-18 23:35:00.354 - INFO: testing_model = dataset
+25-07-18 23:35:00.354 - INFO: use_hsf = True
+25-07-18 23:37:08.463 - INFO:       brain_mri 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-18 23:37:08.463 - INFO:         Average 		I-Auroc:94.66 	I-F1:93.25 	I-AP:96.07 	P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00
+25-07-19 12:53:43.448 - INFO: batch_size = 1
+25-07-19 12:53:43.449 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 12:53:43.449 - INFO: class_name = candle
+25-07-19 12:53:43.449 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 12:53:43.449 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 12:53:43.449 - INFO: image_path = asset/img.png
+25-07-19 12:53:43.449 - INFO: image_size = 518
+25-07-19 12:53:43.449 - INFO: k_clusters = 20
+25-07-19 12:53:43.449 - INFO: model = ViT-L-14-336
+25-07-19 12:53:43.449 - INFO: prompting_branch = VL
+25-07-19 12:53:43.449 - INFO: prompting_depth = 4
+25-07-19 12:53:43.449 - INFO: prompting_length = 5
+25-07-19 12:53:43.449 - INFO: prompting_type = SD
+25-07-19 12:53:43.449 - INFO: save_fig = False
+25-07-19 12:53:43.450 - INFO: save_name = test.png
+25-07-19 12:53:43.450 - INFO: save_path = ./workspaces
+25-07-19 12:53:43.450 - INFO: testing_data = visa
+25-07-19 12:53:43.450 - INFO: testing_model = dataset
+25-07-19 12:53:43.450 - INFO: use_hsf = True
+25-07-19 12:56:54.338 - INFO: batch_size = 1
+25-07-19 12:56:54.338 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 12:56:54.338 - INFO: class_name = candle
+25-07-19 12:56:54.339 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 12:56:54.339 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 12:56:54.339 - INFO: image_path = asset/img.png
+25-07-19 12:56:54.339 - INFO: image_size = 518
+25-07-19 12:56:54.339 - INFO: k_clusters = 20
+25-07-19 12:56:54.339 - INFO: model = ViT-L-14-336
+25-07-19 12:56:54.339 - INFO: prompting_branch = VL
+25-07-19 12:56:54.339 - INFO: prompting_depth = 4
+25-07-19 12:56:54.339 - INFO: prompting_length = 5
+25-07-19 12:56:54.339 - INFO: prompting_type = SD
+25-07-19 12:56:54.339 - INFO: save_fig = False
+25-07-19 12:56:54.339 - INFO: save_name = test.png
+25-07-19 12:56:54.339 - INFO: save_path = ./workspaces
+25-07-19 12:56:54.339 - INFO: testing_data = brain_mri
+25-07-19 12:56:54.339 - INFO: testing_model = dataset
+25-07-19 12:56:54.339 - INFO: use_hsf = True
+25-07-19 14:57:51.476 - INFO: batch_size = 1
+25-07-19 14:57:51.476 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 14:57:51.476 - INFO: class_name = candle
+25-07-19 14:57:51.476 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 14:57:51.476 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 14:57:51.476 - INFO: image_path = asset/img.png
+25-07-19 14:57:51.476 - INFO: image_size = 518
+25-07-19 14:57:51.476 - INFO: k_clusters = 20
+25-07-19 14:57:51.476 - INFO: model = ViT-L-14-336
+25-07-19 14:57:51.476 - INFO: prompting_branch = VL
+25-07-19 14:57:51.476 - INFO: prompting_depth = 4
+25-07-19 14:57:51.476 - INFO: prompting_length = 5
+25-07-19 14:57:51.476 - INFO: prompting_type = SD
+25-07-19 14:57:51.477 - INFO: save_fig = False
+25-07-19 14:57:51.477 - INFO: save_name = test.png
+25-07-19 14:57:51.477 - INFO: save_path = ./workspaces
+25-07-19 14:57:51.477 - INFO: testing_data = brain_mri
+25-07-19 14:57:51.477 - INFO: testing_model = dataset
+25-07-19 14:57:51.477 - INFO: use_hsf = True
+25-07-19 15:01:42.634 - INFO: batch_size = 1
+25-07-19 15:01:42.634 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 15:01:42.635 - INFO: class_name = candle
+25-07-19 15:01:42.635 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 15:01:42.635 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 15:01:42.635 - INFO: image_path = asset/img.png
+25-07-19 15:01:42.635 - INFO: image_size = 518
+25-07-19 15:01:42.635 - INFO: k_clusters = 20
+25-07-19 15:01:42.635 - INFO: model = ViT-L-14-336
+25-07-19 15:01:42.635 - INFO: prompting_branch = VL
+25-07-19 15:01:42.635 - INFO: prompting_depth = 4
+25-07-19 15:01:42.635 - INFO: prompting_length = 5
+25-07-19 15:01:42.635 - INFO: prompting_type = SD
+25-07-19 15:01:42.635 - INFO: save_fig = False
+25-07-19 15:01:42.635 - INFO: save_name = test.png
+25-07-19 15:01:42.635 - INFO: save_path = ./workspaces
+25-07-19 15:01:42.635 - INFO: testing_data = brain_mri
+25-07-19 15:01:42.636 - INFO: testing_model = dataset
+25-07-19 15:01:42.636 - INFO: use_hsf = True
+25-07-19 15:01:58.075 - INFO: batch_size = 1
+25-07-19 15:01:58.075 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 15:01:58.075 - INFO: class_name = candle
+25-07-19 15:01:58.075 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 15:01:58.076 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 15:01:58.076 - INFO: image_path = asset/img.png
+25-07-19 15:01:58.076 - INFO: image_size = 518
+25-07-19 15:01:58.076 - INFO: k_clusters = 20
+25-07-19 15:01:58.076 - INFO: model = ViT-L-14-336
+25-07-19 15:01:58.076 - INFO: prompting_branch = VL
+25-07-19 15:01:58.076 - INFO: prompting_depth = 4
+25-07-19 15:01:58.076 - INFO: prompting_length = 5
+25-07-19 15:01:58.076 - INFO: prompting_type = SD
+25-07-19 15:01:58.076 - INFO: save_fig = False
+25-07-19 15:01:58.076 - INFO: save_name = test.png
+25-07-19 15:01:58.076 - INFO: save_path = ./workspaces
+25-07-19 15:01:58.076 - INFO: testing_data = visa
+25-07-19 15:01:58.076 - INFO: testing_model = dataset
+25-07-19 15:01:58.076 - INFO: use_hsf = True
+25-07-19 15:08:10.546 - INFO: batch_size = 1
+25-07-19 15:08:10.546 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 15:08:10.546 - INFO: class_name = candle
+25-07-19 15:08:10.546 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 15:08:10.547 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 15:08:10.547 - INFO: image_path = asset/img.png
+25-07-19 15:08:10.547 - INFO: image_size = 518
+25-07-19 15:08:10.547 - INFO: k_clusters = 20
+25-07-19 15:08:10.547 - INFO: model = ViT-L-14-336
+25-07-19 15:08:10.547 - INFO: prompting_branch = VL
+25-07-19 15:08:10.547 - INFO: prompting_depth = 4
+25-07-19 15:08:10.547 - INFO: prompting_length = 5
+25-07-19 15:08:10.547 - INFO: prompting_type = SD
+25-07-19 15:08:10.547 - INFO: save_fig = False
+25-07-19 15:08:10.547 - INFO: save_name = test.png
+25-07-19 15:08:10.547 - INFO: save_path = ./workspaces
+25-07-19 15:08:10.547 - INFO: testing_data = visa
+25-07-19 15:08:10.547 - INFO: testing_model = dataset
+25-07-19 15:08:10.547 - INFO: use_hsf = True
+25-07-19 16:12:08.410 - INFO: batch_size = 1
+25-07-19 16:12:08.410 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 16:12:08.410 - INFO: class_name = candle
+25-07-19 16:12:08.410 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 16:12:08.410 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 16:12:08.411 - INFO: image_path = asset/img.png
+25-07-19 16:12:08.411 - INFO: image_size = 518
+25-07-19 16:12:08.411 - INFO: k_clusters = 20
+25-07-19 16:12:08.411 - INFO: model = ViT-L-14-336
+25-07-19 16:12:08.411 - INFO: prompting_branch = VL
+25-07-19 16:12:08.411 - INFO: prompting_depth = 4
+25-07-19 16:12:08.411 - INFO: prompting_length = 5
+25-07-19 16:12:08.411 - INFO: prompting_type = SD
+25-07-19 16:12:08.411 - INFO: save_fig = False
+25-07-19 16:12:08.411 - INFO: save_name = test.png
+25-07-19 16:12:08.411 - INFO: save_path = ./workspaces
+25-07-19 16:12:08.411 - INFO: testing_data = visa
+25-07-19 16:12:08.411 - INFO: testing_model = dataset
+25-07-19 16:12:08.411 - INFO: use_hsf = True
+25-07-19 16:20:24.081 - INFO: batch_size = 1
+25-07-19 16:20:24.081 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 16:20:24.081 - INFO: class_name = candle
+25-07-19 16:20:24.081 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 16:20:24.081 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 16:20:24.081 - INFO: image_path = asset/img.png
+25-07-19 16:20:24.081 - INFO: image_size = 518
+25-07-19 16:20:24.081 - INFO: k_clusters = 20
+25-07-19 16:20:24.081 - INFO: model = ViT-L-14-336
+25-07-19 16:20:24.082 - INFO: prompting_branch = VL
+25-07-19 16:20:24.082 - INFO: prompting_depth = 4
+25-07-19 16:20:24.082 - INFO: prompting_length = 5
+25-07-19 16:20:24.082 - INFO: prompting_type = SD
+25-07-19 16:20:24.082 - INFO: save_fig = False
+25-07-19 16:20:24.082 - INFO: save_name = test.png
+25-07-19 16:20:24.082 - INFO: save_path = ./workspaces
+25-07-19 16:20:24.082 - INFO: testing_data = visa
+25-07-19 16:20:24.082 - INFO: testing_model = dataset
+25-07-19 16:20:24.082 - INFO: use_hsf = True
+25-07-19 16:27:13.920 - INFO: batch_size = 1
+25-07-19 16:27:13.920 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 16:27:13.920 - INFO: class_name = candle
+25-07-19 16:27:13.920 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 16:27:13.920 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 16:27:13.920 - INFO: image_path = asset/img.png
+25-07-19 16:27:13.921 - INFO: image_size = 518
+25-07-19 16:27:13.921 - INFO: k_clusters = 20
+25-07-19 16:27:13.921 - INFO: model = ViT-L-14-336
+25-07-19 16:27:13.921 - INFO: prompting_branch = VL
+25-07-19 16:27:13.921 - INFO: prompting_depth = 4
+25-07-19 16:27:13.921 - INFO: prompting_length = 5
+25-07-19 16:27:13.921 - INFO: prompting_type = SD
+25-07-19 16:27:13.921 - INFO: save_fig = False
+25-07-19 16:27:13.921 - INFO: save_name = test.png
+25-07-19 16:27:13.921 - INFO: save_path = ./workspaces
+25-07-19 16:27:13.921 - INFO: testing_data = visa
+25-07-19 16:27:13.921 - INFO: testing_model = dataset
+25-07-19 16:27:13.921 - INFO: use_hsf = True
+25-07-19 16:32:36.922 - INFO: batch_size = 1
+25-07-19 16:32:36.922 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 16:32:36.922 - INFO: class_name = candle
+25-07-19 16:32:36.922 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 16:32:36.922 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 16:32:36.922 - INFO: image_path = asset/img.png
+25-07-19 16:32:36.922 - INFO: image_size = 518
+25-07-19 16:32:36.922 - INFO: k_clusters = 20
+25-07-19 16:32:36.922 - INFO: model = ViT-L-14-336
+25-07-19 16:32:36.922 - INFO: prompting_branch = VL
+25-07-19 16:32:36.922 - INFO: prompting_depth = 4
+25-07-19 16:32:36.923 - INFO: prompting_length = 5
+25-07-19 16:32:36.923 - INFO: prompting_type = SD
+25-07-19 16:32:36.923 - INFO: save_fig = False
+25-07-19 16:32:36.923 - INFO: save_name = test.png
+25-07-19 16:32:36.923 - INFO: save_path = ./workspaces
+25-07-19 16:32:36.923 - INFO: testing_data = visa
+25-07-19 16:32:36.923 - INFO: testing_model = dataset
+25-07-19 16:32:36.923 - INFO: use_hsf = True
+25-07-19 16:37:59.243 - INFO: batch_size = 1
+25-07-19 16:37:59.243 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 16:37:59.243 - INFO: class_name = candle
+25-07-19 16:37:59.243 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 16:37:59.243 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 16:37:59.243 - INFO: image_path = asset/img.png
+25-07-19 16:37:59.243 - INFO: image_size = 518
+25-07-19 16:37:59.244 - INFO: k_clusters = 20
+25-07-19 16:37:59.244 - INFO: model = ViT-L-14-336
+25-07-19 16:37:59.244 - INFO: prompting_branch = VL
+25-07-19 16:37:59.244 - INFO: prompting_depth = 4
+25-07-19 16:37:59.244 - INFO: prompting_length = 5
+25-07-19 16:37:59.244 - INFO: prompting_type = SD
+25-07-19 16:37:59.244 - INFO: save_fig = False
+25-07-19 16:37:59.244 - INFO: save_name = test.png
+25-07-19 16:37:59.244 - INFO: save_path = ./workspaces
+25-07-19 16:37:59.244 - INFO: testing_data = visa
+25-07-19 16:37:59.244 - INFO: testing_model = dataset
+25-07-19 16:37:59.244 - INFO: use_hsf = True
+25-07-19 16:49:26.029 - INFO: batch_size = 1
+25-07-19 16:49:26.029 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 16:49:26.029 - INFO: class_name = candle
+25-07-19 16:49:26.029 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 16:49:26.029 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 16:49:26.029 - INFO: image_path = asset/img.png
+25-07-19 16:49:26.029 - INFO: image_size = 518
+25-07-19 16:49:26.029 - INFO: k_clusters = 20
+25-07-19 16:49:26.029 - INFO: model = ViT-L-14-336
+25-07-19 16:49:26.029 - INFO: prompting_branch = VL
+25-07-19 16:49:26.029 - INFO: prompting_depth = 4
+25-07-19 16:49:26.029 - INFO: prompting_length = 5
+25-07-19 16:49:26.029 - INFO: prompting_type = SD
+25-07-19 16:49:26.030 - INFO: save_fig = False
+25-07-19 16:49:26.030 - INFO: save_name = test.png
+25-07-19 16:49:26.030 - INFO: save_path = ./workspaces
+25-07-19 16:49:26.030 - INFO: testing_data = visa
+25-07-19 16:49:26.030 - INFO: testing_model = dataset
+25-07-19 16:49:26.030 - INFO: use_hsf = True
+25-07-19 17:02:30.121 - INFO: batch_size = 1
+25-07-19 17:02:30.121 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 17:02:30.122 - INFO: class_name = candle
+25-07-19 17:02:30.122 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 17:02:30.122 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 17:02:30.122 - INFO: image_path = asset/img.png
+25-07-19 17:02:30.122 - INFO: image_size = 518
+25-07-19 17:02:30.122 - INFO: k_clusters = 20
+25-07-19 17:02:30.122 - INFO: model = ViT-L-14-336
+25-07-19 17:02:30.122 - INFO: prompting_branch = VL
+25-07-19 17:02:30.122 - INFO: prompting_depth = 4
+25-07-19 17:02:30.122 - INFO: prompting_length = 5
+25-07-19 17:02:30.122 - INFO: prompting_type = SD
+25-07-19 17:02:30.122 - INFO: save_fig = False
+25-07-19 17:02:30.122 - INFO: save_name = test.png
+25-07-19 17:02:30.122 - INFO: save_path = ./workspaces
+25-07-19 17:02:30.122 - INFO: testing_data = visa
+25-07-19 17:02:30.122 - INFO: testing_model = dataset
+25-07-19 17:02:30.123 - INFO: use_hsf = True
+25-07-19 17:08:11.919 - INFO: batch_size = 1
+25-07-19 17:08:11.919 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 17:08:11.919 - INFO: class_name = candle
+25-07-19 17:08:11.919 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 17:08:11.919 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 17:08:11.919 - INFO: image_path = asset/img.png
+25-07-19 17:08:11.919 - INFO: image_size = 518
+25-07-19 17:08:11.919 - INFO: k_clusters = 20
+25-07-19 17:08:11.919 - INFO: model = ViT-L-14-336
+25-07-19 17:08:11.919 - INFO: prompting_branch = VL
+25-07-19 17:08:11.920 - INFO: prompting_depth = 4
+25-07-19 17:08:11.920 - INFO: prompting_length = 5
+25-07-19 17:08:11.920 - INFO: prompting_type = SD
+25-07-19 17:08:11.920 - INFO: save_fig = False
+25-07-19 17:08:11.920 - INFO: save_name = test.png
+25-07-19 17:08:11.920 - INFO: save_path = ./workspaces
+25-07-19 17:08:11.920 - INFO: testing_data = visa
+25-07-19 17:08:11.920 - INFO: testing_model = dataset
+25-07-19 17:08:11.920 - INFO: use_hsf = True
+25-07-19 17:16:13.057 - INFO: batch_size = 1
+25-07-19 17:16:13.058 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 17:16:13.058 - INFO: class_name = candle
+25-07-19 17:16:13.058 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 17:16:13.058 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 17:16:13.058 - INFO: image_path = asset/img.png
+25-07-19 17:16:13.058 - INFO: image_size = 518
+25-07-19 17:16:13.058 - INFO: k_clusters = 20
+25-07-19 17:16:13.058 - INFO: model = ViT-L-14-336
+25-07-19 17:16:13.058 - INFO: prompting_branch = VL
+25-07-19 17:16:13.058 - INFO: prompting_depth = 4
+25-07-19 17:16:13.058 - INFO: prompting_length = 5
+25-07-19 17:16:13.058 - INFO: prompting_type = SD
+25-07-19 17:16:13.058 - INFO: save_fig = False
+25-07-19 17:16:13.058 - INFO: save_name = test.png
+25-07-19 17:16:13.059 - INFO: save_path = ./workspaces
+25-07-19 17:16:13.059 - INFO: testing_data = visa
+25-07-19 17:16:13.059 - INFO: testing_model = dataset
+25-07-19 17:16:13.059 - INFO: use_hsf = True
+25-07-19 17:25:57.801 - INFO: batch_size = 1
+25-07-19 17:25:57.801 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 17:25:57.801 - INFO: class_name = candle
+25-07-19 17:25:57.802 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 17:25:57.802 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 17:25:57.802 - INFO: image_path = asset/img.png
+25-07-19 17:25:57.802 - INFO: image_size = 518
+25-07-19 17:25:57.802 - INFO: k_clusters = 20
+25-07-19 17:25:57.802 - INFO: model = ViT-L-14-336
+25-07-19 17:25:57.802 - INFO: prompting_branch = VL
+25-07-19 17:25:57.802 - INFO: prompting_depth = 4
+25-07-19 17:25:57.802 - INFO: prompting_length = 5
+25-07-19 17:25:57.802 - INFO: prompting_type = SD
+25-07-19 17:25:57.802 - INFO: save_fig = False
+25-07-19 17:25:57.802 - INFO: save_name = test.png
+25-07-19 17:25:57.802 - INFO: save_path = ./workspaces
+25-07-19 17:25:57.802 - INFO: testing_data = visa
+25-07-19 17:25:57.802 - INFO: testing_model = dataset
+25-07-19 17:25:57.802 - INFO: use_hsf = True
+25-07-19 17:30:04.193 - INFO: batch_size = 1
+25-07-19 17:30:04.193 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 17:30:04.193 - INFO: class_name = candle
+25-07-19 17:30:04.193 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 17:30:04.193 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 17:30:04.193 - INFO: image_path = asset/img.png
+25-07-19 17:30:04.193 - INFO: image_size = 518
+25-07-19 17:30:04.194 - INFO: k_clusters = 20
+25-07-19 17:30:04.194 - INFO: model = ViT-L-14-336
+25-07-19 17:30:04.194 - INFO: prompting_branch = VL
+25-07-19 17:30:04.194 - INFO: prompting_depth = 4
+25-07-19 17:30:04.194 - INFO: prompting_length = 5
+25-07-19 17:30:04.194 - INFO: prompting_type = SD
+25-07-19 17:30:04.194 - INFO: save_fig = False
+25-07-19 17:30:04.194 - INFO: save_name = test.png
+25-07-19 17:30:04.194 - INFO: save_path = ./workspaces
+25-07-19 17:30:04.194 - INFO: testing_data = visa
+25-07-19 17:30:04.194 - INFO: testing_model = dataset
+25-07-19 17:30:04.194 - INFO: use_hsf = True
+25-07-19 17:58:35.943 - INFO: batch_size = 1
+25-07-19 17:58:35.943 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 17:58:35.943 - INFO: class_name = candle
+25-07-19 17:58:35.943 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 17:58:35.943 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 17:58:35.943 - INFO: image_path = asset/img.png
+25-07-19 17:58:35.943 - INFO: image_size = 518
+25-07-19 17:58:35.943 - INFO: k_clusters = 20
+25-07-19 17:58:35.943 - INFO: model = ViT-L-14-336
+25-07-19 17:58:35.943 - INFO: prompting_branch = VL
+25-07-19 17:58:35.943 - INFO: prompting_depth = 4
+25-07-19 17:58:35.944 - INFO: prompting_length = 5
+25-07-19 17:58:35.944 - INFO: prompting_type = SD
+25-07-19 17:58:35.944 - INFO: save_fig = False
+25-07-19 17:58:35.944 - INFO: save_name = test.png
+25-07-19 17:58:35.944 - INFO: save_path = ./workspaces
+25-07-19 17:58:35.944 - INFO: testing_data = visa
+25-07-19 17:58:35.944 - INFO: testing_model = dataset
+25-07-19 17:58:35.944 - INFO: use_hsf = True
+25-07-19 18:35:09.264 - INFO: batch_size = 1
+25-07-19 18:35:09.264 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 18:35:09.265 - INFO: class_name = candle
+25-07-19 18:35:09.265 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 18:35:09.265 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 18:35:09.265 - INFO: image_path = asset/img.png
+25-07-19 18:35:09.265 - INFO: image_size = 518
+25-07-19 18:35:09.265 - INFO: k_clusters = 20
+25-07-19 18:35:09.265 - INFO: model = ViT-L-14-336
+25-07-19 18:35:09.265 - INFO: prompting_branch = VL
+25-07-19 18:35:09.265 - INFO: prompting_depth = 4
+25-07-19 18:35:09.265 - INFO: prompting_length = 5
+25-07-19 18:35:09.265 - INFO: prompting_type = SD
+25-07-19 18:35:09.265 - INFO: save_fig = False
+25-07-19 18:35:09.265 - INFO: save_name = test.png
+25-07-19 18:35:09.265 - INFO: save_path = ./workspaces
+25-07-19 18:35:09.265 - INFO: testing_data = visa
+25-07-19 18:35:09.265 - INFO: testing_model = dataset
+25-07-19 18:35:09.266 - INFO: use_hsf = True
+25-07-19 19:11:57.787 - INFO: batch_size = 1
+25-07-19 19:11:57.788 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 19:11:57.788 - INFO: class_name = candle
+25-07-19 19:11:57.788 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 19:11:57.788 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 19:11:57.788 - INFO: image_path = asset/img.png
+25-07-19 19:11:57.788 - INFO: image_size = 518
+25-07-19 19:11:57.788 - INFO: k_clusters = 20
+25-07-19 19:11:57.788 - INFO: model = ViT-L-14-336
+25-07-19 19:11:57.788 - INFO: prompting_branch = VL
+25-07-19 19:11:57.788 - INFO: prompting_depth = 4
+25-07-19 19:11:57.788 - INFO: prompting_length = 5
+25-07-19 19:11:57.788 - INFO: prompting_type = SD
+25-07-19 19:11:57.788 - INFO: save_fig = False
+25-07-19 19:11:57.789 - INFO: save_name = test.png
+25-07-19 19:11:57.789 - INFO: save_path = ./workspaces
+25-07-19 19:11:57.789 - INFO: testing_data = visa
+25-07-19 19:11:57.789 - INFO: testing_model = dataset
+25-07-19 19:11:57.789 - INFO: use_hsf = True
+25-07-19 19:25:07.622 - INFO: batch_size = 1
+25-07-19 19:25:07.622 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 19:25:07.622 - INFO: class_name = candle
+25-07-19 19:25:07.622 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 19:25:07.622 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 19:25:07.622 - INFO: image_path = asset/img.png
+25-07-19 19:25:07.623 - INFO: image_size = 518
+25-07-19 19:25:07.623 - INFO: k_clusters = 20
+25-07-19 19:25:07.623 - INFO: model = ViT-L-14-336
+25-07-19 19:25:07.623 - INFO: prompting_branch = VL
+25-07-19 19:25:07.623 - INFO: prompting_depth = 4
+25-07-19 19:25:07.623 - INFO: prompting_length = 5
+25-07-19 19:25:07.623 - INFO: prompting_type = SD
+25-07-19 19:25:07.623 - INFO: save_fig = False
+25-07-19 19:25:07.623 - INFO: save_name = test.png
+25-07-19 19:25:07.623 - INFO: save_path = ./workspaces
+25-07-19 19:25:07.623 - INFO: testing_data = visa
+25-07-19 19:25:07.623 - INFO: testing_model = dataset
+25-07-19 19:25:07.623 - INFO: use_hsf = True
+25-07-19 19:34:00.753 - INFO: batch_size = 1
+25-07-19 19:34:00.753 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 19:34:00.754 - INFO: class_name = candle
+25-07-19 19:34:00.754 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 19:34:00.754 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 19:34:00.754 - INFO: image_path = asset/img.png
+25-07-19 19:34:00.754 - INFO: image_size = 518
+25-07-19 19:34:00.754 - INFO: k_clusters = 20
+25-07-19 19:34:00.754 - INFO: model = ViT-L-14-336
+25-07-19 19:34:00.754 - INFO: prompting_branch = VL
+25-07-19 19:34:00.754 - INFO: prompting_depth = 4
+25-07-19 19:34:00.754 - INFO: prompting_length = 5
+25-07-19 19:34:00.754 - INFO: prompting_type = SD
+25-07-19 19:34:00.754 - INFO: save_fig = False
+25-07-19 19:34:00.754 - INFO: save_name = test.png
+25-07-19 19:34:00.754 - INFO: save_path = ./workspaces
+25-07-19 19:34:00.754 - INFO: testing_data = visa
+25-07-19 19:34:00.755 - INFO: testing_model = dataset
+25-07-19 19:34:00.755 - INFO: use_hsf = True
+25-07-19 20:10:04.445 - INFO: batch_size = 1
+25-07-19 20:10:04.445 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 20:10:04.445 - INFO: class_name = candle
+25-07-19 20:10:04.445 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 20:10:04.445 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 20:10:04.445 - INFO: image_path = asset/img.png
+25-07-19 20:10:04.445 - INFO: image_size = 518
+25-07-19 20:10:04.445 - INFO: k_clusters = 20
+25-07-19 20:10:04.445 - INFO: model = ViT-L-14-336
+25-07-19 20:10:04.445 - INFO: prompting_branch = VL
+25-07-19 20:10:04.445 - INFO: prompting_depth = 4
+25-07-19 20:10:04.445 - INFO: prompting_length = 5
+25-07-19 20:10:04.446 - INFO: prompting_type = SD
+25-07-19 20:10:04.446 - INFO: save_fig = False
+25-07-19 20:10:04.446 - INFO: save_name = test.png
+25-07-19 20:10:04.446 - INFO: save_path = ./workspaces
+25-07-19 20:10:04.446 - INFO: testing_data = visa
+25-07-19 20:10:04.446 - INFO: testing_model = dataset
+25-07-19 20:10:04.446 - INFO: use_hsf = True
+25-07-19 20:12:25.206 - INFO: batch_size = 1
+25-07-19 20:12:25.206 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 20:12:25.206 - INFO: class_name = candle
+25-07-19 20:12:25.206 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 20:12:25.206 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 20:12:25.206 - INFO: image_path = asset/img.png
+25-07-19 20:12:25.206 - INFO: image_size = 518
+25-07-19 20:12:25.206 - INFO: k_clusters = 20
+25-07-19 20:12:25.206 - INFO: model = ViT-L-14-336
+25-07-19 20:12:25.206 - INFO: prompting_branch = VL
+25-07-19 20:12:25.206 - INFO: prompting_depth = 4
+25-07-19 20:12:25.206 - INFO: prompting_length = 5
+25-07-19 20:12:25.207 - INFO: prompting_type = SD
+25-07-19 20:12:25.207 - INFO: save_fig = False
+25-07-19 20:12:25.207 - INFO: save_name = test.png
+25-07-19 20:12:25.207 - INFO: save_path = ./workspaces
+25-07-19 20:12:25.207 - INFO: testing_data = visa
+25-07-19 20:12:25.207 - INFO: testing_model = dataset
+25-07-19 20:12:25.207 - INFO: use_hsf = True
+25-07-19 20:57:43.377 - INFO:          candle 		I-Auroc:92.96 	I-F1:86.00 	I-AP:93.99 	P-Auroc:99.12 	P-F1:44.90 	P-AP:35.49
+25-07-19 20:57:43.377 - INFO:        capsules 		I-Auroc:92.06 	I-F1:88.04 	I-AP:94.70 	P-Auroc:98.31 	P-F1:51.13 	P-AP:43.25
+25-07-19 20:57:43.377 - INFO:          cashew 		I-Auroc:92.80 	I-F1:89.10 	I-AP:96.55 	P-Auroc:95.02 	P-F1:39.63 	P-AP:31.73
+25-07-19 20:57:43.378 - INFO:      chewinggum 		I-Auroc:95.41 	I-F1:92.86 	I-AP:98.10 	P-Auroc:99.68 	P-F1:78.72 	P-AP:86.24
+25-07-19 20:57:43.378 - INFO:           fryum 		I-Auroc:90.68 	I-F1:89.55 	I-AP:95.57 	P-Auroc:94.22 	P-F1:30.52 	P-AP:25.49
+25-07-19 20:57:43.378 - INFO:       macaroni1 		I-Auroc:80.60 	I-F1:76.79 	I-AP:79.66 	P-Auroc:99.51 	P-F1:33.19 	P-AP:24.87
+25-07-19 20:57:43.378 - INFO:       macaroni2 		I-Auroc:64.61 	I-F1:68.55 	I-AP:66.71 	P-Auroc:98.63 	P-F1:10.80 	P-AP:4.26
+25-07-19 20:57:43.378 - INFO:            pcb1 		I-Auroc:80.18 	I-F1:73.91 	I-AP:81.34 	P-Auroc:93.50 	P-F1:17.12 	P-AP:10.38
+25-07-19 20:57:43.378 - INFO:            pcb2 		I-Auroc:80.92 	I-F1:76.79 	I-AP:81.62 	P-Auroc:90.44 	P-F1:27.98 	P-AP:18.59
+25-07-19 20:57:43.378 - INFO:            pcb3 		I-Auroc:72.41 	I-F1:70.04 	I-AP:75.63 	P-Auroc:87.29 	P-F1:33.22 	P-AP:26.88
+25-07-19 20:57:43.378 - INFO:            pcb4 		I-Auroc:96.42 	I-F1:88.54 	I-AP:96.61 	P-Auroc:95.82 	P-F1:40.23 	P-AP:36.02
+25-07-19 20:57:43.378 - INFO:      pipe_fryum 		I-Auroc:86.28 	I-F1:85.43 	I-AP:93.49 	P-Auroc:95.73 	P-F1:32.68 	P-AP:26.43
+25-07-19 20:57:43.378 - INFO:         Average 		I-Auroc:85.44 	I-F1:82.13 	I-AP:87.83 	P-Auroc:95.61 	P-F1:36.68 	P-AP:30.80
+25-07-19 23:07:08.811 - INFO: batch_size = 1
+25-07-19 23:07:08.811 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 23:07:08.811 - INFO: class_name = candle
+25-07-19 23:07:08.811 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 23:07:08.811 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 23:07:08.811 - INFO: image_path = asset/img.png
+25-07-19 23:07:08.811 - INFO: image_size = 518
+25-07-19 23:07:08.811 - INFO: k_clusters = 20
+25-07-19 23:07:08.811 - INFO: model = ViT-L-14-336
+25-07-19 23:07:08.811 - INFO: prompting_branch = VL
+25-07-19 23:07:08.811 - INFO: prompting_depth = 4
+25-07-19 23:07:08.811 - INFO: prompting_length = 5
+25-07-19 23:07:08.812 - INFO: prompting_type = SD
+25-07-19 23:07:08.812 - INFO: save_fig = False
+25-07-19 23:07:08.812 - INFO: save_name = test.png
+25-07-19 23:07:08.812 - INFO: save_path = ./workspaces
+25-07-19 23:07:08.812 - INFO: testing_data = brain_mri
+25-07-19 23:07:08.812 - INFO: testing_model = dataset
+25-07-19 23:07:08.812 - INFO: use_hsf = True
+25-07-19 23:12:53.830 - INFO: batch_size = 1
+25-07-19 23:12:53.830 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 23:12:53.830 - INFO: class_name = candle
+25-07-19 23:12:53.830 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 23:12:53.830 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 23:12:53.830 - INFO: image_path = asset/img.png
+25-07-19 23:12:53.830 - INFO: image_size = 518
+25-07-19 23:12:53.830 - INFO: k_clusters = 20
+25-07-19 23:12:53.830 - INFO: model = ViT-L-14-336
+25-07-19 23:12:53.830 - INFO: prompting_branch = VL
+25-07-19 23:12:53.830 - INFO: prompting_depth = 4
+25-07-19 23:12:53.830 - INFO: prompting_length = 5
+25-07-19 23:12:53.831 - INFO: prompting_type = SD
+25-07-19 23:12:53.831 - INFO: save_fig = False
+25-07-19 23:12:53.831 - INFO: save_name = test.png
+25-07-19 23:12:53.831 - INFO: save_path = ./workspaces
+25-07-19 23:12:53.831 - INFO: testing_data = visa
+25-07-19 23:12:53.831 - INFO: testing_model = dataset
+25-07-19 23:12:53.831 - INFO: use_hsf = True
+25-07-19 23:14:02.814 - INFO: batch_size = 1
+25-07-19 23:14:02.814 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 23:14:02.814 - INFO: class_name = candle
+25-07-19 23:14:02.815 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 23:14:02.815 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 23:14:02.815 - INFO: image_path = asset/img.png
+25-07-19 23:14:02.815 - INFO: image_size = 518
+25-07-19 23:14:02.815 - INFO: k_clusters = 20
+25-07-19 23:14:02.815 - INFO: model = ViT-L-14-336
+25-07-19 23:14:02.815 - INFO: prompting_branch = VL
+25-07-19 23:14:02.815 - INFO: prompting_depth = 4
+25-07-19 23:14:02.815 - INFO: prompting_length = 5
+25-07-19 23:14:02.815 - INFO: prompting_type = SD
+25-07-19 23:14:02.815 - INFO: save_fig = False
+25-07-19 23:14:02.815 - INFO: save_name = test.png
+25-07-19 23:14:02.815 - INFO: save_path = ./workspaces
+25-07-19 23:14:02.815 - INFO: testing_data = visa
+25-07-19 23:14:02.815 - INFO: testing_model = dataset
+25-07-19 23:14:02.815 - INFO: use_hsf = True
+25-07-19 23:16:14.518 - INFO: batch_size = 1
+25-07-19 23:16:14.518 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 23:16:14.519 - INFO: class_name = candle
+25-07-19 23:16:14.519 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 23:16:14.519 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 23:16:14.519 - INFO: image_path = asset/img.png
+25-07-19 23:16:14.519 - INFO: image_size = 518
+25-07-19 23:16:14.519 - INFO: k_clusters = 20
+25-07-19 23:16:14.519 - INFO: model = ViT-L-14-336
+25-07-19 23:16:14.519 - INFO: prompting_branch = VL
+25-07-19 23:16:14.519 - INFO: prompting_depth = 4
+25-07-19 23:16:14.519 - INFO: prompting_length = 5
+25-07-19 23:16:14.519 - INFO: prompting_type = SD
+25-07-19 23:16:14.520 - INFO: save_fig = False
+25-07-19 23:16:14.520 - INFO: save_name = test.png
+25-07-19 23:16:14.520 - INFO: save_path = ./workspaces
+25-07-19 23:16:14.520 - INFO: testing_data = visa
+25-07-19 23:16:14.520 - INFO: testing_model = dataset
+25-07-19 23:16:14.520 - INFO: use_hsf = True
+25-07-19 23:42:26.321 - INFO: batch_size = 1
+25-07-19 23:42:26.321 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 23:42:26.321 - INFO: class_name = candle
+25-07-19 23:42:26.321 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 23:42:26.321 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 23:42:26.321 - INFO: image_path = asset/img.png
+25-07-19 23:42:26.321 - INFO: image_size = 518
+25-07-19 23:42:26.321 - INFO: k_clusters = 20
+25-07-19 23:42:26.321 - INFO: model = ViT-L-14-336
+25-07-19 23:42:26.321 - INFO: prompting_branch = VL
+25-07-19 23:42:26.321 - INFO: prompting_depth = 4
+25-07-19 23:42:26.321 - INFO: prompting_length = 5
+25-07-19 23:42:26.321 - INFO: prompting_type = SD
+25-07-19 23:42:26.322 - INFO: save_fig = False
+25-07-19 23:42:26.322 - INFO: save_name = test.png
+25-07-19 23:42:26.322 - INFO: save_path = ./workspaces
+25-07-19 23:42:26.322 - INFO: testing_data = visa
+25-07-19 23:42:26.322 - INFO: testing_model = dataset
+25-07-19 23:42:26.322 - INFO: use_hsf = True
+25-07-19 23:45:04.115 - INFO: batch_size = 1
+25-07-19 23:45:04.115 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 23:45:04.115 - INFO: class_name = candle
+25-07-19 23:45:04.115 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 23:45:04.115 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 23:45:04.115 - INFO: image_path = asset/img.png
+25-07-19 23:45:04.115 - INFO: image_size = 518
+25-07-19 23:45:04.115 - INFO: k_clusters = 20
+25-07-19 23:45:04.115 - INFO: model = ViT-L-14-336
+25-07-19 23:45:04.116 - INFO: prompting_branch = VL
+25-07-19 23:45:04.116 - INFO: prompting_depth = 4
+25-07-19 23:45:04.116 - INFO: prompting_length = 5
+25-07-19 23:45:04.116 - INFO: prompting_type = SD
+25-07-19 23:45:04.116 - INFO: save_fig = False
+25-07-19 23:45:04.116 - INFO: save_name = test.png
+25-07-19 23:45:04.116 - INFO: save_path = ./workspaces
+25-07-19 23:45:04.116 - INFO: testing_data = visa
+25-07-19 23:45:04.116 - INFO: testing_model = dataset
+25-07-19 23:45:04.116 - INFO: use_hsf = True
+25-07-19 23:47:02.942 - INFO: batch_size = 1
+25-07-19 23:47:02.942 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 23:47:02.942 - INFO: class_name = candle
+25-07-19 23:47:02.942 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 23:47:02.942 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 23:47:02.942 - INFO: image_path = asset/img.png
+25-07-19 23:47:02.942 - INFO: image_size = 518
+25-07-19 23:47:02.942 - INFO: k_clusters = 20
+25-07-19 23:47:02.942 - INFO: model = ViT-L-14-336
+25-07-19 23:47:02.942 - INFO: prompting_branch = VL
+25-07-19 23:47:02.943 - INFO: prompting_depth = 4
+25-07-19 23:47:02.943 - INFO: prompting_length = 5
+25-07-19 23:47:02.943 - INFO: prompting_type = SD
+25-07-19 23:47:02.943 - INFO: save_fig = False
+25-07-19 23:47:02.943 - INFO: save_name = test.png
+25-07-19 23:47:02.943 - INFO: save_path = ./workspaces
+25-07-19 23:47:02.943 - INFO: testing_data = visa
+25-07-19 23:47:02.943 - INFO: testing_model = dataset
+25-07-19 23:47:02.943 - INFO: use_hsf = True
+25-07-19 23:49:23.009 - INFO: batch_size = 1
+25-07-19 23:49:23.009 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 23:49:23.009 - INFO: class_name = candle
+25-07-19 23:49:23.009 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 23:49:23.009 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 23:49:23.009 - INFO: image_path = asset/img.png
+25-07-19 23:49:23.010 - INFO: image_size = 518
+25-07-19 23:49:23.010 - INFO: k_clusters = 20
+25-07-19 23:49:23.010 - INFO: model = ViT-L-14-336
+25-07-19 23:49:23.010 - INFO: prompting_branch = VL
+25-07-19 23:49:23.010 - INFO: prompting_depth = 4
+25-07-19 23:49:23.010 - INFO: prompting_length = 5
+25-07-19 23:49:23.010 - INFO: prompting_type = SD
+25-07-19 23:49:23.010 - INFO: save_fig = False
+25-07-19 23:49:23.010 - INFO: save_name = test.png
+25-07-19 23:49:23.010 - INFO: save_path = ./workspaces
+25-07-19 23:49:23.010 - INFO: testing_data = visa
+25-07-19 23:49:23.010 - INFO: testing_model = dataset
+25-07-19 23:49:23.010 - INFO: use_hsf = True
+25-07-19 23:51:45.508 - INFO: batch_size = 1
+25-07-19 23:51:45.509 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 23:51:45.509 - INFO: class_name = candle
+25-07-19 23:51:45.509 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 23:51:45.509 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 23:51:45.509 - INFO: image_path = asset/img.png
+25-07-19 23:51:45.509 - INFO: image_size = 518
+25-07-19 23:51:45.509 - INFO: k_clusters = 20
+25-07-19 23:51:45.509 - INFO: model = ViT-L-14-336
+25-07-19 23:51:45.509 - INFO: prompting_branch = VL
+25-07-19 23:51:45.509 - INFO: prompting_depth = 4
+25-07-19 23:51:45.509 - INFO: prompting_length = 5
+25-07-19 23:51:45.509 - INFO: prompting_type = SD
+25-07-19 23:51:45.510 - INFO: save_fig = False
+25-07-19 23:51:45.510 - INFO: save_name = test.png
+25-07-19 23:51:45.510 - INFO: save_path = ./workspaces
+25-07-19 23:51:45.510 - INFO: testing_data = visa
+25-07-19 23:51:45.510 - INFO: testing_model = dataset
+25-07-19 23:51:45.510 - INFO: use_hsf = True
+25-07-19 23:54:23.239 - INFO: batch_size = 1
+25-07-19 23:54:23.239 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 23:54:23.239 - INFO: class_name = candle
+25-07-19 23:54:23.239 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 23:54:23.239 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 23:54:23.239 - INFO: image_path = asset/img.png
+25-07-19 23:54:23.239 - INFO: image_size = 518
+25-07-19 23:54:23.240 - INFO: k_clusters = 20
+25-07-19 23:54:23.240 - INFO: model = ViT-L-14-336
+25-07-19 23:54:23.240 - INFO: prompting_branch = VL
+25-07-19 23:54:23.240 - INFO: prompting_depth = 4
+25-07-19 23:54:23.240 - INFO: prompting_length = 5
+25-07-19 23:54:23.240 - INFO: prompting_type = SD
+25-07-19 23:54:23.240 - INFO: save_fig = False
+25-07-19 23:54:23.240 - INFO: save_name = test.png
+25-07-19 23:54:23.240 - INFO: save_path = ./workspaces
+25-07-19 23:54:23.240 - INFO: testing_data = visa
+25-07-19 23:54:23.240 - INFO: testing_model = dataset
+25-07-19 23:54:23.240 - INFO: use_hsf = True
+25-07-19 23:57:02.387 - INFO: batch_size = 1
+25-07-19 23:57:02.387 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-19 23:57:02.387 - INFO: class_name = candle
+25-07-19 23:57:02.387 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-19 23:57:02.387 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-19 23:57:02.387 - INFO: image_path = asset/img.png
+25-07-19 23:57:02.387 - INFO: image_size = 518
+25-07-19 23:57:02.388 - INFO: k_clusters = 20
+25-07-19 23:57:02.388 - INFO: model = ViT-L-14-336
+25-07-19 23:57:02.388 - INFO: prompting_branch = VL
+25-07-19 23:57:02.388 - INFO: prompting_depth = 4
+25-07-19 23:57:02.388 - INFO: prompting_length = 5
+25-07-19 23:57:02.388 - INFO: prompting_type = SD
+25-07-19 23:57:02.388 - INFO: save_fig = False
+25-07-19 23:57:02.388 - INFO: save_name = test.png
+25-07-19 23:57:02.388 - INFO: save_path = ./workspaces
+25-07-19 23:57:02.388 - INFO: testing_data = visa
+25-07-19 23:57:02.388 - INFO: testing_model = dataset
+25-07-19 23:57:02.388 - INFO: use_hsf = True
+25-07-20 00:30:33.430 - INFO: batch_size = 1
+25-07-20 00:30:33.430 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 00:30:33.430 - INFO: class_name = candle
+25-07-20 00:30:33.430 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 00:30:33.430 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 00:30:33.430 - INFO: image_path = asset/img.png
+25-07-20 00:30:33.430 - INFO: image_size = 518
+25-07-20 00:30:33.430 - INFO: k_clusters = 20
+25-07-20 00:30:33.430 - INFO: model = ViT-L-14-336
+25-07-20 00:30:33.430 - INFO: prompting_branch = VL
+25-07-20 00:30:33.431 - INFO: prompting_depth = 4
+25-07-20 00:30:33.431 - INFO: prompting_length = 5
+25-07-20 00:30:33.431 - INFO: prompting_type = SD
+25-07-20 00:30:33.431 - INFO: save_fig = False
+25-07-20 00:30:33.431 - INFO: save_name = test.png
+25-07-20 00:30:33.431 - INFO: save_path = ./workspaces
+25-07-20 00:30:33.431 - INFO: testing_data = visa
+25-07-20 00:30:33.431 - INFO: testing_model = dataset
+25-07-20 00:30:33.431 - INFO: use_hsf = True
+25-07-20 00:33:10.022 - INFO: batch_size = 1
+25-07-20 00:33:10.022 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 00:33:10.022 - INFO: class_name = candle
+25-07-20 00:33:10.022 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 00:33:10.022 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 00:33:10.022 - INFO: image_path = asset/img.png
+25-07-20 00:33:10.022 - INFO: image_size = 518
+25-07-20 00:33:10.022 - INFO: k_clusters = 20
+25-07-20 00:33:10.023 - INFO: model = ViT-L-14-336
+25-07-20 00:33:10.023 - INFO: prompting_branch = VL
+25-07-20 00:33:10.023 - INFO: prompting_depth = 4
+25-07-20 00:33:10.023 - INFO: prompting_length = 5
+25-07-20 00:33:10.023 - INFO: prompting_type = SD
+25-07-20 00:33:10.023 - INFO: save_fig = False
+25-07-20 00:33:10.023 - INFO: save_name = test.png
+25-07-20 00:33:10.023 - INFO: save_path = ./workspaces
+25-07-20 00:33:10.023 - INFO: testing_data = visa
+25-07-20 00:33:10.023 - INFO: testing_model = dataset
+25-07-20 00:33:10.023 - INFO: use_hsf = True
+25-07-20 00:34:16.911 - INFO: batch_size = 1
+25-07-20 00:34:16.911 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 00:34:16.911 - INFO: class_name = candle
+25-07-20 00:34:16.911 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 00:34:16.911 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 00:34:16.911 - INFO: image_path = asset/img.png
+25-07-20 00:34:16.911 - INFO: image_size = 518
+25-07-20 00:34:16.911 - INFO: k_clusters = 20
+25-07-20 00:34:16.911 - INFO: model = ViT-L-14-336
+25-07-20 00:34:16.911 - INFO: prompting_branch = VL
+25-07-20 00:34:16.912 - INFO: prompting_depth = 4
+25-07-20 00:34:16.912 - INFO: prompting_length = 5
+25-07-20 00:34:16.912 - INFO: prompting_type = SD
+25-07-20 00:34:16.912 - INFO: save_fig = False
+25-07-20 00:34:16.912 - INFO: save_name = test.png
+25-07-20 00:34:16.912 - INFO: save_path = ./workspaces
+25-07-20 00:34:16.912 - INFO: testing_data = visa
+25-07-20 00:34:16.912 - INFO: testing_model = dataset
+25-07-20 00:34:16.912 - INFO: use_hsf = True
+25-07-20 00:36:53.221 - INFO: batch_size = 1
+25-07-20 00:36:53.221 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 00:36:53.221 - INFO: class_name = candle
+25-07-20 00:36:53.221 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 00:36:53.221 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 00:36:53.221 - INFO: image_path = asset/img.png
+25-07-20 00:36:53.221 - INFO: image_size = 518
+25-07-20 00:36:53.221 - INFO: k_clusters = 20
+25-07-20 00:36:53.221 - INFO: model = ViT-L-14-336
+25-07-20 00:36:53.221 - INFO: prompting_branch = VL
+25-07-20 00:36:53.221 - INFO: prompting_depth = 4
+25-07-20 00:36:53.222 - INFO: prompting_length = 5
+25-07-20 00:36:53.222 - INFO: prompting_type = SD
+25-07-20 00:36:53.222 - INFO: save_fig = False
+25-07-20 00:36:53.222 - INFO: save_name = test.png
+25-07-20 00:36:53.222 - INFO: save_path = ./workspaces
+25-07-20 00:36:53.222 - INFO: testing_data = visa
+25-07-20 00:36:53.222 - INFO: testing_model = dataset
+25-07-20 00:36:53.222 - INFO: use_hsf = True
+25-07-20 01:19:46.357 - INFO: batch_size = 1
+25-07-20 01:19:46.357 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 01:19:46.357 - INFO: class_name = candle
+25-07-20 01:19:46.358 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 01:19:46.358 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 01:19:46.358 - INFO: image_path = asset/img.png
+25-07-20 01:19:46.358 - INFO: image_size = 518
+25-07-20 01:19:46.358 - INFO: k_clusters = 20
+25-07-20 01:19:46.358 - INFO: model = ViT-L-14-336
+25-07-20 01:19:46.358 - INFO: prompting_branch = VL
+25-07-20 01:19:46.358 - INFO: prompting_depth = 4
+25-07-20 01:19:46.358 - INFO: prompting_length = 5
+25-07-20 01:19:46.358 - INFO: prompting_type = SD
+25-07-20 01:19:46.358 - INFO: save_fig = False
+25-07-20 01:19:46.358 - INFO: save_name = test.png
+25-07-20 01:19:46.358 - INFO: save_path = ./workspaces
+25-07-20 01:19:46.358 - INFO: testing_data = visa
+25-07-20 01:19:46.358 - INFO: testing_model = dataset
+25-07-20 01:19:46.358 - INFO: use_hsf = True
+25-07-20 01:52:55.232 - INFO: batch_size = 1
+25-07-20 01:52:55.232 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 01:52:55.232 - INFO: class_name = candle
+25-07-20 01:52:55.232 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 01:52:55.232 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 01:52:55.233 - INFO: image_path = asset/img.png
+25-07-20 01:52:55.233 - INFO: image_size = 518
+25-07-20 01:52:55.233 - INFO: k_clusters = 20
+25-07-20 01:52:55.233 - INFO: model = ViT-L-14-336
+25-07-20 01:52:55.233 - INFO: prompting_branch = VL
+25-07-20 01:52:55.233 - INFO: prompting_depth = 4
+25-07-20 01:52:55.233 - INFO: prompting_length = 5
+25-07-20 01:52:55.233 - INFO: prompting_type = SD
+25-07-20 01:52:55.233 - INFO: save_fig = False
+25-07-20 01:52:55.233 - INFO: save_name = test.png
+25-07-20 01:52:55.233 - INFO: save_path = ./workspaces
+25-07-20 01:52:55.233 - INFO: testing_data = visa
+25-07-20 01:52:55.233 - INFO: testing_model = dataset
+25-07-20 01:52:55.233 - INFO: use_hsf = True
+25-07-20 02:30:47.250 - INFO:          candle 		I-Auroc:92.96 	I-F1:86.00 	I-AP:93.99 	P-Auroc:99.12 	P-F1:44.90 	P-AP:35.49
+25-07-20 02:30:47.250 - INFO:        capsules 		I-Auroc:92.06 	I-F1:88.04 	I-AP:94.70 	P-Auroc:98.31 	P-F1:51.13 	P-AP:43.25
+25-07-20 02:30:47.250 - INFO:          cashew 		I-Auroc:92.80 	I-F1:89.10 	I-AP:96.55 	P-Auroc:95.02 	P-F1:39.63 	P-AP:31.73
+25-07-20 02:30:47.250 - INFO:      chewinggum 		I-Auroc:95.41 	I-F1:92.86 	I-AP:98.10 	P-Auroc:99.68 	P-F1:78.72 	P-AP:86.24
+25-07-20 02:30:47.250 - INFO:           fryum 		I-Auroc:90.68 	I-F1:89.55 	I-AP:95.57 	P-Auroc:94.22 	P-F1:30.52 	P-AP:25.49
+25-07-20 02:30:47.250 - INFO:       macaroni1 		I-Auroc:80.60 	I-F1:76.79 	I-AP:79.66 	P-Auroc:99.51 	P-F1:33.19 	P-AP:24.87
+25-07-20 02:30:47.250 - INFO:       macaroni2 		I-Auroc:64.61 	I-F1:68.55 	I-AP:66.71 	P-Auroc:98.63 	P-F1:10.80 	P-AP:4.26
+25-07-20 02:30:47.251 - INFO:            pcb1 		I-Auroc:80.18 	I-F1:73.91 	I-AP:81.34 	P-Auroc:93.50 	P-F1:17.12 	P-AP:10.38
+25-07-20 02:30:47.251 - INFO:            pcb2 		I-Auroc:80.92 	I-F1:76.79 	I-AP:81.62 	P-Auroc:90.44 	P-F1:27.98 	P-AP:18.59
+25-07-20 02:30:47.251 - INFO:            pcb3 		I-Auroc:72.41 	I-F1:70.04 	I-AP:75.63 	P-Auroc:87.29 	P-F1:33.22 	P-AP:26.88
+25-07-20 02:30:47.251 - INFO:            pcb4 		I-Auroc:96.42 	I-F1:88.54 	I-AP:96.61 	P-Auroc:95.82 	P-F1:40.23 	P-AP:36.02
+25-07-20 02:30:47.251 - INFO:      pipe_fryum 		I-Auroc:86.28 	I-F1:85.43 	I-AP:93.49 	P-Auroc:95.73 	P-F1:32.68 	P-AP:26.43
+25-07-20 02:30:47.251 - INFO:         Average 		I-Auroc:85.44 	I-F1:82.13 	I-AP:87.83 	P-Auroc:95.61 	P-F1:36.68 	P-AP:30.80
+25-07-20 10:13:07.631 - INFO: batch_size = 1
+25-07-20 10:13:07.631 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 10:13:07.631 - INFO: class_name = candle
+25-07-20 10:13:07.631 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 10:13:07.631 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 10:13:07.631 - INFO: image_path = asset/img.png
+25-07-20 10:13:07.631 - INFO: image_size = 518
+25-07-20 10:13:07.631 - INFO: k_clusters = 20
+25-07-20 10:13:07.631 - INFO: model = ViT-L-14-336
+25-07-20 10:13:07.631 - INFO: prompting_branch = VL
+25-07-20 10:13:07.631 - INFO: prompting_depth = 4
+25-07-20 10:13:07.632 - INFO: prompting_length = 5
+25-07-20 10:13:07.632 - INFO: prompting_type = SD
+25-07-20 10:13:07.632 - INFO: save_fig = False
+25-07-20 10:13:07.632 - INFO: save_name = test.png
+25-07-20 10:13:07.632 - INFO: save_path = ./workspaces
+25-07-20 10:13:07.632 - INFO: testing_data = visa
+25-07-20 10:13:07.632 - INFO: testing_model = dataset
+25-07-20 10:13:07.632 - INFO: use_hsf = True
+25-07-20 10:48:58.397 - INFO: batch_size = 1
+25-07-20 10:48:58.397 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 10:48:58.397 - INFO: class_name = candle
+25-07-20 10:48:58.397 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 10:48:58.398 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 10:48:58.398 - INFO: image_path = asset/img.png
+25-07-20 10:48:58.398 - INFO: image_size = 518
+25-07-20 10:48:58.398 - INFO: k_clusters = 20
+25-07-20 10:48:58.398 - INFO: model = ViT-L-14-336
+25-07-20 10:48:58.398 - INFO: prompting_branch = VL
+25-07-20 10:48:58.398 - INFO: prompting_depth = 4
+25-07-20 10:48:58.398 - INFO: prompting_length = 5
+25-07-20 10:48:58.398 - INFO: prompting_type = SD
+25-07-20 10:48:58.398 - INFO: save_fig = False
+25-07-20 10:48:58.398 - INFO: save_name = test.png
+25-07-20 10:48:58.398 - INFO: save_path = ./workspaces
+25-07-20 10:48:58.398 - INFO: testing_data = visa
+25-07-20 10:48:58.398 - INFO: testing_model = dataset
+25-07-20 10:48:58.398 - INFO: use_hsf = True
+25-07-20 11:22:33.938 - INFO: batch_size = 1
+25-07-20 11:22:33.938 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 11:22:33.938 - INFO: class_name = candle
+25-07-20 11:22:33.938 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 11:22:33.938 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 11:22:33.938 - INFO: image_path = asset/img.png
+25-07-20 11:22:33.938 - INFO: image_size = 518
+25-07-20 11:22:33.938 - INFO: k_clusters = 20
+25-07-20 11:22:33.938 - INFO: model = ViT-L-14-336
+25-07-20 11:22:33.938 - INFO: prompting_branch = VL
+25-07-20 11:22:33.938 - INFO: prompting_depth = 4
+25-07-20 11:22:33.938 - INFO: prompting_length = 5
+25-07-20 11:22:33.939 - INFO: prompting_type = SD
+25-07-20 11:22:33.939 - INFO: save_fig = False
+25-07-20 11:22:33.939 - INFO: save_name = test.png
+25-07-20 11:22:33.939 - INFO: save_path = ./workspaces
+25-07-20 11:22:33.939 - INFO: testing_data = visa
+25-07-20 11:22:33.939 - INFO: testing_model = dataset
+25-07-20 11:22:33.939 - INFO: use_hsf = True
+25-07-20 11:23:34.730 - INFO: batch_size = 1
+25-07-20 11:23:34.730 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 11:23:34.730 - INFO: class_name = candle
+25-07-20 11:23:34.730 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 11:23:34.730 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 11:23:34.730 - INFO: image_path = asset/img.png
+25-07-20 11:23:34.730 - INFO: image_size = 518
+25-07-20 11:23:34.730 - INFO: k_clusters = 20
+25-07-20 11:23:34.730 - INFO: model = ViT-L-14-336
+25-07-20 11:23:34.730 - INFO: prompting_branch = VL
+25-07-20 11:23:34.731 - INFO: prompting_depth = 4
+25-07-20 11:23:34.731 - INFO: prompting_length = 5
+25-07-20 11:23:34.731 - INFO: prompting_type = SD
+25-07-20 11:23:34.731 - INFO: save_fig = False
+25-07-20 11:23:34.731 - INFO: save_name = test.png
+25-07-20 11:23:34.731 - INFO: save_path = ./workspaces
+25-07-20 11:23:34.731 - INFO: testing_data = visa
+25-07-20 11:23:34.731 - INFO: testing_model = dataset
+25-07-20 11:23:34.731 - INFO: use_hsf = True
+25-07-20 12:19:16.076 - INFO: batch_size = 1
+25-07-20 12:19:16.076 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 12:19:16.076 - INFO: class_name = candle
+25-07-20 12:19:16.076 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 12:19:16.077 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 12:19:16.077 - INFO: image_path = asset/img.png
+25-07-20 12:19:16.077 - INFO: image_size = 518
+25-07-20 12:19:16.077 - INFO: k_clusters = 20
+25-07-20 12:19:16.077 - INFO: model = ViT-L-14-336
+25-07-20 12:19:16.077 - INFO: prompting_branch = VL
+25-07-20 12:19:16.077 - INFO: prompting_depth = 4
+25-07-20 12:19:16.077 - INFO: prompting_length = 5
+25-07-20 12:19:16.077 - INFO: prompting_type = SD
+25-07-20 12:19:16.077 - INFO: save_fig = False
+25-07-20 12:19:16.077 - INFO: save_name = test.png
+25-07-20 12:19:16.077 - INFO: save_path = ./workspaces
+25-07-20 12:19:16.077 - INFO: testing_data = visa
+25-07-20 12:19:16.077 - INFO: testing_model = dataset
+25-07-20 12:19:16.077 - INFO: use_hsf = True
+25-07-20 12:21:40.726 - INFO: batch_size = 1
+25-07-20 12:21:40.726 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 12:21:40.726 - INFO: class_name = candle
+25-07-20 12:21:40.726 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 12:21:40.726 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 12:21:40.726 - INFO: image_path = asset/img.png
+25-07-20 12:21:40.726 - INFO: image_size = 518
+25-07-20 12:21:40.726 - INFO: k_clusters = 20
+25-07-20 12:21:40.726 - INFO: model = ViT-L-14-336
+25-07-20 12:21:40.726 - INFO: prompting_branch = VL
+25-07-20 12:21:40.727 - INFO: prompting_depth = 4
+25-07-20 12:21:40.727 - INFO: prompting_length = 5
+25-07-20 12:21:40.727 - INFO: prompting_type = SD
+25-07-20 12:21:40.727 - INFO: save_fig = False
+25-07-20 12:21:40.727 - INFO: save_name = test.png
+25-07-20 12:21:40.727 - INFO: save_path = ./workspaces
+25-07-20 12:21:40.727 - INFO: testing_data = visa
+25-07-20 12:21:40.727 - INFO: testing_model = dataset
+25-07-20 12:21:40.727 - INFO: use_hsf = True
+25-07-20 12:58:17.696 - INFO:          candle 		I-Auroc:93.83 	I-F1:87.68 	I-AP:94.57 	P-Auroc:99.08 	P-F1:44.91 	P-AP:35.55
+25-07-20 12:58:17.697 - INFO:        capsules 		I-Auroc:89.30 	I-F1:86.84 	I-AP:92.86 	P-Auroc:98.38 	P-F1:51.26 	P-AP:43.60
+25-07-20 12:58:17.697 - INFO:          cashew 		I-Auroc:92.89 	I-F1:90.82 	I-AP:96.52 	P-Auroc:95.09 	P-F1:39.16 	P-AP:31.49
+25-07-20 12:58:17.697 - INFO:      chewinggum 		I-Auroc:95.89 	I-F1:93.40 	I-AP:98.21 	P-Auroc:99.68 	P-F1:78.66 	P-AP:86.18
+25-07-20 12:58:17.697 - INFO:           fryum 		I-Auroc:89.54 	I-F1:87.27 	I-AP:95.09 	P-Auroc:94.21 	P-F1:30.51 	P-AP:25.47
+25-07-20 12:58:17.697 - INFO:       macaroni1 		I-Auroc:84.73 	I-F1:79.44 	I-AP:83.74 	P-Auroc:99.54 	P-F1:33.08 	P-AP:24.83
+25-07-20 12:58:17.697 - INFO:       macaroni2 		I-Auroc:64.08 	I-F1:68.73 	I-AP:66.06 	P-Auroc:98.64 	P-F1:10.63 	P-AP:4.24
+25-07-20 12:58:17.697 - INFO:            pcb1 		I-Auroc:80.39 	I-F1:74.18 	I-AP:83.20 	P-Auroc:93.46 	P-F1:17.27 	P-AP:10.47
+25-07-20 12:58:17.697 - INFO:            pcb2 		I-Auroc:79.47 	I-F1:74.67 	I-AP:80.00 	P-Auroc:90.35 	P-F1:28.12 	P-AP:18.72
+25-07-20 12:58:17.697 - INFO:            pcb3 		I-Auroc:75.00 	I-F1:73.93 	I-AP:76.56 	P-Auroc:87.12 	P-F1:33.34 	P-AP:26.93
+25-07-20 12:58:17.697 - INFO:            pcb4 		I-Auroc:96.05 	I-F1:89.80 	I-AP:96.27 	P-Auroc:95.91 	P-F1:40.52 	P-AP:36.38
+25-07-20 12:58:17.698 - INFO:      pipe_fryum 		I-Auroc:85.82 	I-F1:84.44 	I-AP:93.31 	P-Auroc:95.67 	P-F1:32.54 	P-AP:26.27
+25-07-20 12:58:17.698 - INFO:         Average 		I-Auroc:85.58 	I-F1:82.60 	I-AP:88.03 	P-Auroc:95.59 	P-F1:36.67 	P-AP:30.84
+25-07-20 13:00:58.562 - INFO: batch_size = 1
+25-07-20 13:00:58.563 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 13:00:58.563 - INFO: class_name = candle
+25-07-20 13:00:58.563 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 13:00:58.563 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 13:00:58.563 - INFO: image_path = asset/img.png
+25-07-20 13:00:58.563 - INFO: image_size = 518
+25-07-20 13:00:58.563 - INFO: k_clusters = 20
+25-07-20 13:00:58.563 - INFO: model = ViT-L-14-336
+25-07-20 13:00:58.563 - INFO: prompting_branch = VL
+25-07-20 13:00:58.563 - INFO: prompting_depth = 4
+25-07-20 13:00:58.563 - INFO: prompting_length = 5
+25-07-20 13:00:58.563 - INFO: prompting_type = SD
+25-07-20 13:00:58.563 - INFO: save_fig = False
+25-07-20 13:00:58.563 - INFO: save_name = test.png
+25-07-20 13:00:58.564 - INFO: save_path = ./workspaces
+25-07-20 13:00:58.564 - INFO: testing_data = visa
+25-07-20 13:00:58.564 - INFO: testing_model = dataset
+25-07-20 13:00:58.564 - INFO: use_hsf = True
+25-07-20 13:02:13.595 - INFO: batch_size = 1
+25-07-20 13:02:13.596 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 13:02:13.596 - INFO: class_name = candle
+25-07-20 13:02:13.596 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 13:02:13.596 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 13:02:13.596 - INFO: image_path = asset/img.png
+25-07-20 13:02:13.596 - INFO: image_size = 518
+25-07-20 13:02:13.596 - INFO: k_clusters = 20
+25-07-20 13:02:13.596 - INFO: model = ViT-L-14-336
+25-07-20 13:02:13.596 - INFO: prompting_branch = VL
+25-07-20 13:02:13.596 - INFO: prompting_depth = 4
+25-07-20 13:02:13.596 - INFO: prompting_length = 5
+25-07-20 13:02:13.596 - INFO: prompting_type = SD
+25-07-20 13:02:13.596 - INFO: save_fig = False
+25-07-20 13:02:13.597 - INFO: save_name = test.png
+25-07-20 13:02:13.597 - INFO: save_path = ./workspaces
+25-07-20 13:02:13.597 - INFO: testing_data = visa
+25-07-20 13:02:13.597 - INFO: testing_model = dataset
+25-07-20 13:02:13.597 - INFO: use_hsf = True
+25-07-20 13:39:17.830 - INFO:          candle 		I-Auroc:92.96 	I-F1:86.00 	I-AP:93.99 	P-Auroc:99.12 	P-F1:44.90 	P-AP:35.49
+25-07-20 13:39:17.830 - INFO:        capsules 		I-Auroc:92.06 	I-F1:88.04 	I-AP:94.70 	P-Auroc:98.31 	P-F1:51.13 	P-AP:43.25
+25-07-20 13:39:17.830 - INFO:          cashew 		I-Auroc:92.80 	I-F1:89.10 	I-AP:96.55 	P-Auroc:95.02 	P-F1:39.63 	P-AP:31.73
+25-07-20 13:39:17.830 - INFO:      chewinggum 		I-Auroc:95.41 	I-F1:92.86 	I-AP:98.10 	P-Auroc:99.68 	P-F1:78.72 	P-AP:86.24
+25-07-20 13:39:17.830 - INFO:           fryum 		I-Auroc:90.68 	I-F1:89.55 	I-AP:95.57 	P-Auroc:94.22 	P-F1:30.52 	P-AP:25.49
+25-07-20 13:39:17.830 - INFO:       macaroni1 		I-Auroc:80.60 	I-F1:76.79 	I-AP:79.66 	P-Auroc:99.51 	P-F1:33.19 	P-AP:24.87
+25-07-20 13:39:17.831 - INFO:       macaroni2 		I-Auroc:64.61 	I-F1:68.55 	I-AP:66.71 	P-Auroc:98.63 	P-F1:10.80 	P-AP:4.26
+25-07-20 13:39:17.831 - INFO:            pcb1 		I-Auroc:80.18 	I-F1:73.91 	I-AP:81.34 	P-Auroc:93.50 	P-F1:17.12 	P-AP:10.38
+25-07-20 13:39:17.831 - INFO:            pcb2 		I-Auroc:80.92 	I-F1:76.79 	I-AP:81.62 	P-Auroc:90.44 	P-F1:27.98 	P-AP:18.59
+25-07-20 13:39:17.831 - INFO:            pcb3 		I-Auroc:72.41 	I-F1:70.04 	I-AP:75.63 	P-Auroc:87.29 	P-F1:33.22 	P-AP:26.88
+25-07-20 13:39:17.831 - INFO:            pcb4 		I-Auroc:96.42 	I-F1:88.54 	I-AP:96.61 	P-Auroc:95.82 	P-F1:40.23 	P-AP:36.02
+25-07-20 13:39:17.831 - INFO:      pipe_fryum 		I-Auroc:86.28 	I-F1:85.43 	I-AP:93.49 	P-Auroc:95.73 	P-F1:32.68 	P-AP:26.43
+25-07-20 13:39:17.831 - INFO:         Average 		I-Auroc:85.44 	I-F1:82.13 	I-AP:87.83 	P-Auroc:95.61 	P-F1:36.68 	P-AP:30.80
+25-07-20 15:59:39.591 - INFO: batch_size = 1
+25-07-20 15:59:39.592 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 15:59:39.592 - INFO: class_name = candle
+25-07-20 15:59:39.592 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 15:59:39.592 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 15:59:39.592 - INFO: image_path = asset/img.png
+25-07-20 15:59:39.592 - INFO: image_size = 518
+25-07-20 15:59:39.592 - INFO: k_clusters = 20
+25-07-20 15:59:39.592 - INFO: model = ViT-L-14-336
+25-07-20 15:59:39.592 - INFO: prompting_branch = VL
+25-07-20 15:59:39.592 - INFO: prompting_depth = 4
+25-07-20 15:59:39.592 - INFO: prompting_length = 5
+25-07-20 15:59:39.592 - INFO: prompting_type = SD
+25-07-20 15:59:39.592 - INFO: save_fig = False
+25-07-20 15:59:39.592 - INFO: save_name = test.png
+25-07-20 15:59:39.593 - INFO: save_path = ./workspaces
+25-07-20 15:59:39.593 - INFO: testing_data = visa
+25-07-20 15:59:39.593 - INFO: testing_model = dataset
+25-07-20 15:59:39.593 - INFO: use_hsf = True
+25-07-20 16:07:14.398 - INFO: batch_size = 1
+25-07-20 16:07:14.399 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 16:07:14.399 - INFO: class_name = candle
+25-07-20 16:07:14.399 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 16:07:14.399 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 16:07:14.399 - INFO: image_path = asset/img.png
+25-07-20 16:07:14.399 - INFO: image_size = 518
+25-07-20 16:07:14.400 - INFO: k_clusters = 20
+25-07-20 16:07:14.400 - INFO: model = ViT-L-14-336
+25-07-20 16:07:14.400 - INFO: prompting_branch = VL
+25-07-20 16:07:14.400 - INFO: prompting_depth = 4
+25-07-20 16:07:14.400 - INFO: prompting_length = 5
+25-07-20 16:07:14.400 - INFO: prompting_type = SD
+25-07-20 16:07:14.400 - INFO: save_fig = False
+25-07-20 16:07:14.400 - INFO: save_name = test.png
+25-07-20 16:07:14.400 - INFO: save_path = ./workspaces
+25-07-20 16:07:14.400 - INFO: testing_data = visa
+25-07-20 16:07:14.400 - INFO: testing_model = dataset
+25-07-20 16:07:14.400 - INFO: use_hsf = True
+25-07-20 16:08:12.700 - INFO: batch_size = 1
+25-07-20 16:08:12.700 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 16:08:12.700 - INFO: class_name = candle
+25-07-20 16:08:12.700 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 16:08:12.700 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 16:08:12.700 - INFO: image_path = asset/img.png
+25-07-20 16:08:12.700 - INFO: image_size = 518
+25-07-20 16:08:12.701 - INFO: k_clusters = 20
+25-07-20 16:08:12.701 - INFO: model = ViT-L-14-336
+25-07-20 16:08:12.701 - INFO: prompting_branch = VL
+25-07-20 16:08:12.701 - INFO: prompting_depth = 4
+25-07-20 16:08:12.701 - INFO: prompting_length = 5
+25-07-20 16:08:12.701 - INFO: prompting_type = SD
+25-07-20 16:08:12.701 - INFO: save_fig = False
+25-07-20 16:08:12.701 - INFO: save_name = test.png
+25-07-20 16:08:12.701 - INFO: save_path = ./workspaces
+25-07-20 16:08:12.701 - INFO: testing_data = visa
+25-07-20 16:08:12.701 - INFO: testing_model = dataset
+25-07-20 16:08:12.701 - INFO: use_hsf = True
+25-07-20 16:15:56.584 - INFO: batch_size = 1
+25-07-20 16:15:56.585 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 16:15:56.585 - INFO: class_name = candle
+25-07-20 16:15:56.585 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 16:15:56.585 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 16:15:56.585 - INFO: image_path = asset/img.png
+25-07-20 16:15:56.585 - INFO: image_size = 518
+25-07-20 16:15:56.585 - INFO: k_clusters = 20
+25-07-20 16:15:56.585 - INFO: model = ViT-L-14-336
+25-07-20 16:15:56.585 - INFO: prompting_branch = VL
+25-07-20 16:15:56.585 - INFO: prompting_depth = 4
+25-07-20 16:15:56.585 - INFO: prompting_length = 5
+25-07-20 16:15:56.585 - INFO: prompting_type = SD
+25-07-20 16:15:56.586 - INFO: save_fig = False
+25-07-20 16:15:56.586 - INFO: save_name = test.png
+25-07-20 16:15:56.586 - INFO: save_path = ./workspaces
+25-07-20 16:15:56.586 - INFO: testing_data = visa
+25-07-20 16:15:56.586 - INFO: testing_model = dataset
+25-07-20 16:15:56.586 - INFO: use_hsf = True
+25-07-20 16:33:19.660 - INFO: batch_size = 1
+25-07-20 16:33:19.660 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 16:33:19.660 - INFO: class_name = candle
+25-07-20 16:33:19.660 - INFO: image_path = asset/img.png
+25-07-20 16:33:19.660 - INFO: image_size = 518
+25-07-20 16:33:19.660 - INFO: k_clusters = 20
+25-07-20 16:33:19.660 - INFO: model = ViT-L-14-336
+25-07-20 16:33:19.660 - INFO: prompting_branch = VL
+25-07-20 16:33:19.661 - INFO: prompting_depth = 4
+25-07-20 16:33:19.661 - INFO: prompting_length = 5
+25-07-20 16:33:19.661 - INFO: prompting_type = SD
+25-07-20 16:33:19.661 - INFO: save_fig = False
+25-07-20 16:33:19.661 - INFO: save_name = test.png
+25-07-20 16:33:19.661 - INFO: save_path = ./workspaces
+25-07-20 16:33:19.661 - INFO: testing_data = visa
+25-07-20 16:33:19.661 - INFO: testing_model = dataset
+25-07-20 16:33:19.661 - INFO: use_hsf = True
+25-07-20 16:36:22.466 - INFO: batch_size = 1
+25-07-20 16:36:22.466 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 16:36:22.466 - INFO: class_name = candle
+25-07-20 16:36:22.466 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 16:36:22.466 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 16:36:22.466 - INFO: image_path = asset/img.png
+25-07-20 16:36:22.466 - INFO: image_size = 518
+25-07-20 16:36:22.466 - INFO: k_clusters = 20
+25-07-20 16:36:22.466 - INFO: model = ViT-L-14-336
+25-07-20 16:36:22.466 - INFO: prompting_branch = VL
+25-07-20 16:36:22.467 - INFO: prompting_depth = 4
+25-07-20 16:36:22.467 - INFO: prompting_length = 5
+25-07-20 16:36:22.467 - INFO: prompting_type = SD
+25-07-20 16:36:22.467 - INFO: save_fig = False
+25-07-20 16:36:22.467 - INFO: save_name = test.png
+25-07-20 16:36:22.467 - INFO: save_path = ./workspaces
+25-07-20 16:36:22.467 - INFO: testing_data = visa
+25-07-20 16:36:22.467 - INFO: testing_model = dataset
+25-07-20 16:36:22.467 - INFO: use_hsf = True
+25-07-20 16:36:30.758 - INFO: batch_size = 1
+25-07-20 16:36:30.758 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 16:36:30.758 - INFO: class_name = candle
+25-07-20 16:36:30.758 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 16:36:30.758 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 16:36:30.759 - INFO: image_path = asset/img.png
+25-07-20 16:36:30.759 - INFO: image_size = 518
+25-07-20 16:36:30.759 - INFO: k_clusters = 20
+25-07-20 16:36:30.759 - INFO: model = ViT-L-14-336
+25-07-20 16:36:30.759 - INFO: prompting_branch = VL
+25-07-20 16:36:30.759 - INFO: prompting_depth = 4
+25-07-20 16:36:30.759 - INFO: prompting_length = 5
+25-07-20 16:36:30.759 - INFO: prompting_type = SD
+25-07-20 16:36:30.759 - INFO: save_fig = False
+25-07-20 16:36:30.759 - INFO: save_name = test.png
+25-07-20 16:36:30.759 - INFO: save_path = ./workspaces
+25-07-20 16:36:30.759 - INFO: testing_data = visa
+25-07-20 16:36:30.759 - INFO: testing_model = dataset
+25-07-20 16:36:30.759 - INFO: use_hsf = True
+25-07-20 16:44:07.388 - INFO: batch_size = 1
+25-07-20 16:44:07.388 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 16:44:07.388 - INFO: class_name = candle
+25-07-20 16:44:07.388 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 16:44:07.388 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 16:44:07.388 - INFO: image_path = asset/img.png
+25-07-20 16:44:07.388 - INFO: image_size = 518
+25-07-20 16:44:07.388 - INFO: k_clusters = 20
+25-07-20 16:44:07.388 - INFO: model = ViT-L-14-336
+25-07-20 16:44:07.389 - INFO: prompting_branch = VL
+25-07-20 16:44:07.389 - INFO: prompting_depth = 4
+25-07-20 16:44:07.389 - INFO: prompting_length = 5
+25-07-20 16:44:07.389 - INFO: prompting_type = SD
+25-07-20 16:44:07.389 - INFO: save_fig = False
+25-07-20 16:44:07.389 - INFO: save_name = test.png
+25-07-20 16:44:07.389 - INFO: save_path = ./workspaces
+25-07-20 16:44:07.389 - INFO: testing_data = visa
+25-07-20 16:44:07.389 - INFO: testing_model = dataset
+25-07-20 16:44:07.389 - INFO: use_hsf = True
+25-07-20 16:46:19.401 - INFO: batch_size = 1
+25-07-20 16:46:19.401 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-20 16:46:19.401 - INFO: class_name = candle
+25-07-20 16:46:19.401 - INFO: grounded_checkpoint = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-20 16:46:19.401 - INFO: groundingdino_config = /home/spec/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-20 16:46:19.401 - INFO: image_path = asset/img.png
+25-07-20 16:46:19.401 - INFO: image_size = 518
+25-07-20 16:46:19.401 - INFO: k_clusters = 20
+25-07-20 16:46:19.401 - INFO: model = ViT-L-14-336
+25-07-20 16:46:19.402 - INFO: prompting_branch = VL
+25-07-20 16:46:19.402 - INFO: prompting_depth = 4
+25-07-20 16:46:19.402 - INFO: prompting_length = 5
+25-07-20 16:46:19.402 - INFO: prompting_type = SD
+25-07-20 16:46:19.402 - INFO: save_fig = False
+25-07-20 16:46:19.402 - INFO: save_name = test.png
+25-07-20 16:46:19.402 - INFO: save_path = ./workspaces
+25-07-20 16:46:19.402 - INFO: testing_data = visa
+25-07-20 16:46:19.402 - INFO: testing_model = dataset
+25-07-20 16:46:19.402 - INFO: use_hsf = True
+25-07-20 17:42:09.734 - INFO:          candle 		I-Auroc:93.83 	I-F1:87.68 	I-AP:94.57 	P-Auroc:99.08 	P-F1:45.37 	P-AP:35.33
+25-07-20 17:42:09.734 - INFO:        capsules 		I-Auroc:89.30 	I-F1:86.84 	I-AP:92.86 	P-Auroc:98.39 	P-F1:51.24 	P-AP:43.21
+25-07-20 17:42:09.734 - INFO:          cashew 		I-Auroc:92.89 	I-F1:90.82 	I-AP:96.52 	P-Auroc:95.06 	P-F1:38.35 	P-AP:30.75
+25-07-20 17:42:09.734 - INFO:      chewinggum 		I-Auroc:95.89 	I-F1:93.40 	I-AP:98.21 	P-Auroc:99.68 	P-F1:79.16 	P-AP:86.26
+25-07-20 17:42:09.734 - INFO:           fryum 		I-Auroc:89.54 	I-F1:87.27 	I-AP:95.09 	P-Auroc:94.36 	P-F1:31.16 	P-AP:26.30
+25-07-20 17:42:09.734 - INFO:       macaroni1 		I-Auroc:84.73 	I-F1:79.44 	I-AP:83.74 	P-Auroc:99.57 	P-F1:33.83 	P-AP:26.71
+25-07-20 17:42:09.734 - INFO:       macaroni2 		I-Auroc:64.08 	I-F1:68.73 	I-AP:66.06 	P-Auroc:98.72 	P-F1:19.54 	P-AP:7.91
+25-07-20 17:42:09.734 - INFO:            pcb1 		I-Auroc:80.39 	I-F1:74.18 	I-AP:83.20 	P-Auroc:93.49 	P-F1:18.29 	P-AP:12.31
+25-07-20 17:42:09.735 - INFO:            pcb2 		I-Auroc:79.47 	I-F1:74.67 	I-AP:80.00 	P-Auroc:90.41 	P-F1:31.05 	P-AP:22.39
+25-07-20 17:42:09.735 - INFO:            pcb3 		I-Auroc:75.00 	I-F1:73.93 	I-AP:76.56 	P-Auroc:87.24 	P-F1:35.20 	P-AP:25.52
+25-07-20 17:42:09.735 - INFO:            pcb4 		I-Auroc:96.05 	I-F1:89.80 	I-AP:96.27 	P-Auroc:95.95 	P-F1:41.54 	P-AP:36.89
+25-07-20 17:42:09.735 - INFO:      pipe_fryum 		I-Auroc:85.82 	I-F1:84.44 	I-AP:93.31 	P-Auroc:95.55 	P-F1:31.88 	P-AP:25.75
+25-07-20 17:42:09.735 - INFO:         Average 		I-Auroc:85.58 	I-F1:82.60 	I-AP:88.03 	P-Auroc:95.63 	P-F1:38.05 	P-AP:31.61
+25-07-23 21:20:27.512 - INFO: batch_size = 1
+25-07-23 21:20:27.518 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-23 21:20:27.518 - INFO: class_name = candle
+25-07-23 21:20:27.519 - INFO: grounded_checkpoint = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-23 21:20:27.519 - INFO: groundingdino_config = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-23 21:20:27.519 - INFO: image_path = asset/img.png
+25-07-23 21:20:27.519 - INFO: image_size = 518
+25-07-23 21:20:27.519 - INFO: k_clusters = 20
+25-07-23 21:20:27.519 - INFO: model = ViT-L-14-336
+25-07-23 21:20:27.519 - INFO: prompting_branch = VL
+25-07-23 21:20:27.519 - INFO: prompting_depth = 4
+25-07-23 21:20:27.519 - INFO: prompting_length = 5
+25-07-23 21:20:27.519 - INFO: prompting_type = SD
+25-07-23 21:20:27.519 - INFO: save_fig = False
+25-07-23 21:20:27.519 - INFO: save_name = test.png
+25-07-23 21:20:27.519 - INFO: save_path = ./workspaces
+25-07-23 21:20:27.519 - INFO: testing_data = visa
+25-07-23 21:20:27.519 - INFO: testing_model = dataset
+25-07-23 21:20:27.519 - INFO: use_hsf = True
+25-07-23 21:24:37.577 - INFO: batch_size = 1
+25-07-23 21:24:37.577 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-23 21:24:37.577 - INFO: class_name = candle
+25-07-23 21:24:37.577 - INFO: grounded_checkpoint = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-23 21:24:37.577 - INFO: groundingdino_config = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-23 21:24:37.578 - INFO: image_path = asset/img.png
+25-07-23 21:24:37.578 - INFO: image_size = 518
+25-07-23 21:24:37.578 - INFO: k_clusters = 20
+25-07-23 21:24:37.578 - INFO: model = ViT-L-14-336
+25-07-23 21:24:37.578 - INFO: prompting_branch = VL
+25-07-23 21:24:37.578 - INFO: prompting_depth = 4
+25-07-23 21:24:37.578 - INFO: prompting_length = 5
+25-07-23 21:24:37.578 - INFO: prompting_type = SD
+25-07-23 21:24:37.578 - INFO: save_fig = False
+25-07-23 21:24:37.578 - INFO: save_name = test.png
+25-07-23 21:24:37.578 - INFO: save_path = ./workspaces
+25-07-23 21:24:37.578 - INFO: testing_data = visa
+25-07-23 21:24:37.578 - INFO: testing_model = dataset
+25-07-23 21:24:37.578 - INFO: use_hsf = True
+25-07-23 21:29:31.354 - INFO: batch_size = 1
+25-07-23 21:29:31.354 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-23 21:29:31.355 - INFO: class_name = candle
+25-07-23 21:29:31.355 - INFO: grounded_checkpoint = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-23 21:29:31.355 - INFO: groundingdino_config = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-23 21:29:31.355 - INFO: image_path = asset/img.png
+25-07-23 21:29:31.355 - INFO: image_size = 518
+25-07-23 21:29:31.355 - INFO: k_clusters = 20
+25-07-23 21:29:31.355 - INFO: model = ViT-L-14-336
+25-07-23 21:29:31.355 - INFO: prompting_branch = VL
+25-07-23 21:29:31.356 - INFO: prompting_depth = 4
+25-07-23 21:29:31.356 - INFO: prompting_length = 5
+25-07-23 21:29:31.356 - INFO: prompting_type = SD
+25-07-23 21:29:31.356 - INFO: save_fig = False
+25-07-23 21:29:31.356 - INFO: save_name = test.png
+25-07-23 21:29:31.356 - INFO: save_path = ./workspaces
+25-07-23 21:29:31.356 - INFO: testing_data = visa
+25-07-23 21:29:31.356 - INFO: testing_model = dataset
+25-07-23 21:29:31.356 - INFO: use_hsf = True
+25-07-23 21:38:06.921 - INFO: batch_size = 1
+25-07-23 21:38:06.921 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-23 21:38:06.921 - INFO: class_name = candle
+25-07-23 21:38:06.921 - INFO: grounded_checkpoint = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-23 21:38:06.921 - INFO: groundingdino_config = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-23 21:38:06.921 - INFO: image_path = asset/img.png
+25-07-23 21:38:06.921 - INFO: image_size = 518
+25-07-23 21:38:06.921 - INFO: k_clusters = 20
+25-07-23 21:38:06.921 - INFO: model = ViT-L-14-336
+25-07-23 21:38:06.921 - INFO: prompting_branch = VL
+25-07-23 21:38:06.921 - INFO: prompting_depth = 4
+25-07-23 21:38:06.921 - INFO: prompting_length = 5
+25-07-23 21:38:06.922 - INFO: prompting_type = SD
+25-07-23 21:38:06.922 - INFO: save_fig = False
+25-07-23 21:38:06.922 - INFO: save_name = test.png
+25-07-23 21:38:06.922 - INFO: save_path = ./workspaces
+25-07-23 21:38:06.922 - INFO: testing_data = visa
+25-07-23 21:38:06.922 - INFO: testing_model = dataset
+25-07-23 21:38:06.922 - INFO: use_hsf = True
+25-07-23 21:40:41.687 - INFO: batch_size = 1
+25-07-23 21:40:41.687 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-23 21:40:41.687 - INFO: class_name = candle
+25-07-23 21:40:41.687 - INFO: grounded_checkpoint = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-23 21:40:41.687 - INFO: groundingdino_config = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-23 21:40:41.687 - INFO: image_path = asset/img.png
+25-07-23 21:40:41.688 - INFO: image_size = 518
+25-07-23 21:40:41.688 - INFO: k_clusters = 20
+25-07-23 21:40:41.688 - INFO: model = ViT-L-14-336
+25-07-23 21:40:41.688 - INFO: prompting_branch = VL
+25-07-23 21:40:41.688 - INFO: prompting_depth = 4
+25-07-23 21:40:41.688 - INFO: prompting_length = 5
+25-07-23 21:40:41.688 - INFO: prompting_type = SD
+25-07-23 21:40:41.688 - INFO: save_fig = False
+25-07-23 21:40:41.688 - INFO: save_name = test.png
+25-07-23 21:40:41.688 - INFO: save_path = ./workspaces
+25-07-23 21:40:41.688 - INFO: testing_data = visa
+25-07-23 21:40:41.688 - INFO: testing_model = dataset
+25-07-23 21:40:41.688 - INFO: use_hsf = True
+25-07-23 21:47:06.390 - INFO: batch_size = 1
+25-07-23 21:47:06.390 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-23 21:47:06.390 - INFO: class_name = candle
+25-07-23 21:47:06.390 - INFO: grounded_checkpoint = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-23 21:47:06.391 - INFO: groundingdino_config = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-23 21:47:06.391 - INFO: image_path = asset/img.png
+25-07-23 21:47:06.391 - INFO: image_size = 518
+25-07-23 21:47:06.391 - INFO: k_clusters = 20
+25-07-23 21:47:06.391 - INFO: model = ViT-L-14-336
+25-07-23 21:47:06.391 - INFO: prompting_branch = VL
+25-07-23 21:47:06.391 - INFO: prompting_depth = 4
+25-07-23 21:47:06.391 - INFO: prompting_length = 5
+25-07-23 21:47:06.391 - INFO: prompting_type = SD
+25-07-23 21:47:06.391 - INFO: save_fig = False
+25-07-23 21:47:06.391 - INFO: save_name = test.png
+25-07-23 21:47:06.391 - INFO: save_path = ./workspaces
+25-07-23 21:47:06.391 - INFO: testing_data = visa
+25-07-23 21:47:06.391 - INFO: testing_model = dataset
+25-07-23 21:47:06.391 - INFO: use_hsf = True
+25-07-23 21:55:07.039 - INFO: batch_size = 1
+25-07-23 21:55:07.039 - INFO: ckt_path = weights/pretrained_mvtec_colondb.pth
+25-07-23 21:55:07.039 - INFO: class_name = candle
+25-07-23 21:55:07.039 - INFO: grounded_checkpoint = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/grounding_weight/grounding_train_on_mvtec.pth
+25-07-23 21:55:07.040 - INFO: groundingdino_config = /mnt/md5/DL/code/wjx/AdaCLIP/method/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
+25-07-23 21:55:07.040 - INFO: image_path = asset/img.png
+25-07-23 21:55:07.040 - INFO: image_size = 518
+25-07-23 21:55:07.040 - INFO: k_clusters = 20
+25-07-23 21:55:07.040 - INFO: model = ViT-L-14-336
+25-07-23 21:55:07.040 - INFO: prompting_branch = VL
+25-07-23 21:55:07.040 - INFO: prompting_depth = 4
+25-07-23 21:55:07.040 - INFO: prompting_length = 5
+25-07-23 21:55:07.040 - INFO: prompting_type = SD
+25-07-23 21:55:07.040 - INFO: save_fig = False
+25-07-23 21:55:07.040 - INFO: save_name = test.png
+25-07-23 21:55:07.040 - INFO: save_path = ./workspaces
+25-07-23 21:55:07.040 - INFO: testing_data = visa
+25-07-23 21:55:07.040 - INFO: testing_model = dataset
+25-07-23 21:55:07.040 - INFO: use_hsf = True
