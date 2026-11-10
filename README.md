@@ -3,7 +3,7 @@ Code for papaer *PG-CLIP: Zero-Shot Anomaly Detection via Progressively-Guided C
 
 <h3>The proposed framework</h3>
 
-![framework](framework.png)
+![framework](asset/framework.png)
 
 <h3>The visulization of the results</h3>
 
